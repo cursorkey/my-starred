@@ -229,6 +229,7 @@
 
 ## Python 
 
+- [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
 - [pwaller/pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [mahavivo/english-dictionary](https://github.com/mahavivo/english-dictionary) - english dictionary database
