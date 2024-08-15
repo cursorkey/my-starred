@@ -38,6 +38,7 @@
 
 ## C 
 
+- [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
 - [BasedHardware/OpenGlass](https://github.com/BasedHardware/OpenGlass) - Turn any glasses into AI-powered smart glasses
 - [eclipse/mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [linux-test-project/ltp](https://github.com/linux-test-project/ltp) - Linux Test Project (mailing list: https://lists.linux.it/listinfo/ltp)
@@ -73,6 +74,7 @@
 
 ## Go 
 
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [phachon/mm-wiki](https://github.com/phachon/mm-wiki) - MM-Wiki 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
@@ -285,6 +287,7 @@
 
 ## Ruby 
 
+- [mawise/bookshelf](https://github.com/mawise/bookshelf) - 3D animated bookshelf for ebooks
 - [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) - A command line tool that draw plots on the terminal.
 
 ## Rust 
