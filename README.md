@@ -205,6 +205,7 @@
 
 ## Others 
 
+- [lizhe2004/Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application) - the resources about the application based on LLM with RAG pattern
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 - [SeedV/generative-ai-roadmap](https://github.com/SeedV/generative-ai-roadmap) - The roadmap of generative AI: use cases and applications | 生成式AI的应用路线图
