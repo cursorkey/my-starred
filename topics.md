@@ -681,6 +681,7 @@
 
 ## others 
 
+- [lizhe2004/Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application) - the resources about the application based on LLM with RAG pattern
 - [mawise/bookshelf](https://github.com/mawise/bookshelf) - 3D animated bookshelf for ebooks
 - [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
 - [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) - PDF Guru Anki是一款以PDF为中心的多功能办公学习工具箱软件，包含四大板块功能：PDF实用工具箱、Anki制卡神器、Anki最强辅助、视频笔记神器，软件功能众多且强大，熟练运用可以大幅提高办公和学习效率，绝对是您不可多得的效率神器。人生苦短，我用Guru!
