@@ -130,6 +130,7 @@
 - [maschek/imgmap](https://github.com/maschek/imgmap) - Javascript based imagemap editor
 - [wechat-miniprogram/miniprogram-demo](https://github.com/wechat-miniprogram/miniprogram-demo) - 微信小程序组件 / API / 云开发示例
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
+- [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
 - [JimHans/live2d-kanban-desktop](https://github.com/JimHans/live2d-kanban-desktop) - 基于Electron制作的桌面看板娘，支持日程提醒、小窗模式、ChatGPT集成、网页搜索、本地moc模型加载与独立设置界面等  | An AI Based live2d Kanban for Desktop Users Using Electron
 - [pfinal-nc/wails_pf](https://github.com/pfinal-nc/wails_pf) - 基于 go wails 写的桌面小程序
 - [talebook/talebook](https://github.com/talebook/talebook) - A simple books website. 一个简单的在线版个人书库。
@@ -349,7 +350,6 @@
 - [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
 - [Edge-coordinates/Waterfall_picture_viewer](https://github.com/Edge-coordinates/Waterfall_picture_viewer) - 瀑布流图片查看器
 - [zernonia/vue0](https://github.com/zernonia/vue0) - Vue version open source alternative for v0.dev
-- [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
 - [fre123-com/fre123-info-flow](https://github.com/fre123-com/fre123-info-flow) - FRE123 信息流项目，包含：全网热榜、技术热榜、技术文章、技术周刊等
 - [Longwater1234/WedemyClient](https://github.com/Longwater1234/WedemyClient) - Udemy Clone PWA, (frontend) built using Vue 3, Vite,  Element Plus + TypeScript + Paypal, and Pinia (No Vuex!)
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
