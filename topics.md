@@ -19,6 +19,7 @@
 - [backend](#backend)
 - [bot](#bot)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
@@ -107,6 +108,7 @@
 - [r](#r)
 - [react](#react)
 - [reactjs](#reactjs)
+- [reinforcement-learning](#reinforcement-learning)
 - [rest-api](#rest-api)
 - [robotics](#robotics)
 - [ruby](#ruby)
@@ -220,6 +222,10 @@
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
 - [Xunzhuo/Algorithm-Guide](https://github.com/Xunzhuo/Algorithm-Guide) - Xunzhuo`s Tutorials of Algorithm and Data Structure  🚀🚀🚀
 - [linux-test-project/ltp](https://github.com/linux-test-project/ltp) - Linux Test Project (mailing list: https://lists.linux.it/listinfo/ltp)
+
+## c-plus-plus 
+
+- [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 
 ## chatgpt 
 
@@ -802,7 +808,6 @@
 - [truda8/ExportMD](https://github.com/truda8/ExportMD) - 语雀知识库自动导出为 Markdown 格式
 - [aliyun/darabonba](https://github.com/aliyun/darabonba) - Darabonba 是一种用于 OpenAPI 的 DSL 语言，可以用来生成多语言的 SDK、Code Sample、Test Case 等代码
 - [salesforce/CodeT5](https://github.com/salesforce/CodeT5) - Home of CodeT5: Open Code LLMs for Code Understanding and Generation
-- [applenob/rl_learn](https://github.com/applenob/rl_learn) - 我的强化学习笔记和学习材料:book:  still updating ... ...
 - [codeskyblue/xmind-sdk-python](https://github.com/codeskyblue/xmind-sdk-python) - python lib for xmind
 - [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
 - [themefisher/educenter-hugo](https://github.com/themefisher/educenter-hugo) - Educenter is an educational website template powered by Hugo. It can be used as an online teaching platform, school and university website.
@@ -917,6 +922,10 @@
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
+
+## reinforcement-learning 
+
+- [applenob/rl_learn](https://github.com/applenob/rl_learn) - 我的强化学习笔记和学习材料:book:  still updating ... ...
 
 ## rest-api 
 
