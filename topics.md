@@ -624,6 +624,7 @@
 
 ## markdown 
 
+- [BMPixel/moffee](https://github.com/BMPixel/moffee) - moffee: Make Markdown Ready to Present
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
@@ -702,6 +703,10 @@
 
 ## others 
 
+- [JackySoft/marsview](https://github.com/JackySoft/marsview) - 一款面向后台管理系统的低代码平台，支持事件流配置、接口配置。
+- [Dan-wanna-M/formatron](https://github.com/Dan-wanna-M/formatron) - Formatron empowers everyone to control the format of language models' output with minimal overhead.
+- [ssine/pptx2md](https://github.com/ssine/pptx2md) - a pptx to markdown converter
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 - [myst729/Waterfall](https://github.com/myst729/Waterfall) - 宽度自适应瀑布流
 - [lipku/metahuman-stream](https://github.com/lipku/metahuman-stream) - Real time interactive streaming digital human
