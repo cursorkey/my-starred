@@ -703,6 +703,7 @@
 
 ## others 
 
+- [kkangert/kspider-ui](https://github.com/kkangert/kspider-ui) - Kspider 是一个爬虫平台，以图形化方式定义爬虫流程，无需代码即可实现一个爬虫流程，Kspider不仅限爬虫，也可用于WEB自动化测试，更多功能等你探索。
 - [JackySoft/marsview](https://github.com/JackySoft/marsview) - 一款面向后台管理系统的低代码平台，支持事件流配置、接口配置。
 - [Dan-wanna-M/formatron](https://github.com/Dan-wanna-M/formatron) - Formatron empowers everyone to control the format of language models' output with minimal overhead.
 - [ssine/pptx2md](https://github.com/ssine/pptx2md) - a pptx to markdown converter
