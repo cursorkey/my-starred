@@ -117,6 +117,8 @@
 - [scikit-learn](#scikit-learn)
 - [security](#security)
 - [self-hosted](#self-hosted)
+- [server](#server)
+- [serverless](#serverless)
 - [sketch](#sketch)
 - [spring](#spring)
 - [spring-boot](#spring-boot)
@@ -351,6 +353,7 @@
 
 ## database 
 
+- [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
@@ -382,6 +385,7 @@
 
 ## docker 
 
+- [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors) - LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, K8S, PyPI, PyTorch, and NPM.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
@@ -425,6 +429,7 @@
 
 ## framework 
 
+- [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 
@@ -459,6 +464,7 @@
 
 ## golang 
 
+- [evcc-io/evcc](https://github.com/evcc-io/evcc) - Sonne tanken ☀️🚘
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
@@ -608,6 +614,7 @@
 
 ## machine-learning 
 
+- [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [dair-ai/ml-visuals](https://github.com/dair-ai/ml-visuals) - 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
@@ -636,6 +643,7 @@
 
 ## mysql 
 
+- [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [goponycn/ponyexam](https://github.com/goponycn/ponyexam) - 小马考试通ponyexam开源版是基于PHP开发的免费开源在线考试系统，能够快速搭建在线考试平台，系统支持多种题型：单选题、多选题、判断题、填空题、问答题等题型。支持在线考试，支持自动和人工两种方式批阅试卷。适合各类学校、教培系统、企业内训等场景使用。
 - [qiutiandefeng/yfexam-exam](https://github.com/qiutiandefeng/yfexam-exam) - 在线考试系统/企业培训软件考试系统
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
@@ -703,6 +711,9 @@
 
 ## others 
 
+- [huggingface/transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers.js demos and example applications
+- [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix级字幕切割、翻译、精确对齐，一键全自动视频搬运
+- [randombk/llm2sh](https://github.com/randombk/llm2sh) - Ask GPT to run a command
 - [kkangert/kspider-ui](https://github.com/kkangert/kspider-ui) - Kspider 是一个爬虫平台，以图形化方式定义爬虫流程，无需代码即可实现一个爬虫流程，Kspider不仅限爬虫，也可用于WEB自动化测试，更多功能等你探索。
 - [JackySoft/marsview](https://github.com/JackySoft/marsview) - 一款面向后台管理系统的低代码平台，支持事件流配置、接口配置。
 - [Dan-wanna-M/formatron](https://github.com/Dan-wanna-M/formatron) - Formatron empowers everyone to control the format of language models' output with minimal overhead.
@@ -846,6 +857,7 @@
 
 ## postgresql 
 
+- [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 
@@ -872,6 +884,7 @@
 
 ## python 
 
+- [mizhexiaoxiao/vue-fastapi-admin](https://github.com/mizhexiaoxiao/vue-fastapi-admin) - ⭐️ 基于 FastAPI+Vue3+Naive UI 的现代化轻量管理平台 A modern and lightweight management platform based on FastAPI, Vue3, and Naive UI.
 - [raznem/parsera](https://github.com/raznem/parsera) - Lightweight library for scraping web-sites with LLMs
 - [pwaller/pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
@@ -980,6 +993,14 @@
 
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
 
+## server 
+
+- [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
+
+## serverless 
+
+- [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
+
 ## sketch 
 
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
@@ -1001,6 +1022,7 @@
 
 ## sql 
 
+- [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
@@ -1011,6 +1033,7 @@
 
 ## sqlite 
 
+- [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 
@@ -1074,6 +1097,8 @@
 
 ## vue 
 
+- [tenthree/vue-photo-album](https://github.com/tenthree/vue-photo-album) - Responsive photo gallery component for Vue 3
+- [mizhexiaoxiao/vue-fastapi-admin](https://github.com/mizhexiaoxiao/vue-fastapi-admin) - ⭐️ 基于 FastAPI+Vue3+Naive UI 的现代化轻量管理平台 A modern and lightweight management platform based on FastAPI, Vue3, and Naive UI.
 - [qiutiandefeng/yfexam-exam](https://github.com/qiutiandefeng/yfexam-exam) - 在线考试系统/企业培训软件考试系统
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
 - [sparrow-js/sparrow](https://github.com/sparrow-js/sparrow) - 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码
@@ -1089,6 +1114,7 @@
 
 ## web 
 
+- [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
