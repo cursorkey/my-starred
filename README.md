@@ -245,6 +245,7 @@
 
 ## Python 
 
+- [ViggoZ/producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot) - 自动生成每日Product Hunt热门产品中文榜单，基于GitHub Actions自动提交Markdown文件
 - [MadcowD/ell](https://github.com/MadcowD/ell) - A language model programming library.
 - [lich0821/WeChatRobot](https://github.com/lich0821/WeChatRobot) - 微信机器人，接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要、定时任务。
 - [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix级字幕切割、翻译、精确对齐，一键全自动视频搬运
