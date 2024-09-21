@@ -248,7 +248,7 @@
 - [ViggoZ/producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot) - 自动生成每日Product Hunt热门产品中文榜单，基于GitHub Actions自动提交Markdown文件
 - [MadcowD/ell](https://github.com/MadcowD/ell) - A language model programming library.
 - [lich0821/WeChatRobot](https://github.com/lich0821/WeChatRobot) - 微信机器人，接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要、定时任务。
-- [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix级字幕切割、翻译、精确对齐，一键全自动视频搬运
+- [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix级字幕切割、翻译、精确对齐，一键全自动视频搬运AI字幕组
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [randombk/llm2sh](https://github.com/randombk/llm2sh) - Ask GPT to run a command
 - [BMPixel/moffee](https://github.com/BMPixel/moffee) - moffee: Make Markdown Ready to Present
@@ -330,7 +330,8 @@
 
 ## TypeScript 
 
-- [meltylabs/melty](https://github.com/meltylabs/melty) - Open source AI code editor. To download the packaged app:
+- [DemoJ/ThinNav](https://github.com/DemoJ/ThinNav) - 一个极其简洁轻便的开源网址导航站，自带后台管理系统
+- [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app:
 - [petercat-ai/petercat](https://github.com/petercat-ai/petercat) - A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories
 - [tenthree/vue-photo-album](https://github.com/tenthree/vue-photo-album) - Responsive photo gallery component for Vue 3
 - [JackySoft/marsview](https://github.com/JackySoft/marsview) - Marsview 是一款中后台方向的低代码可视化搭建平台，开发者可以在平台上创建项目、页面和组件，支持事件交互、接口调用、数据联动和逻辑编排等，开发者还可通过微服务快速集成到自己的业务系统中。
