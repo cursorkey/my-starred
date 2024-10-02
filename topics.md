@@ -494,6 +494,7 @@
 - [ondras/my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestration and automation platform to execute millions of scheduled and event-driven workflows declaratively in code and from the UI
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
