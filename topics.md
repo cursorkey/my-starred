@@ -747,7 +747,7 @@
 - [huggingface/transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers.js demos and example applications
 - [randombk/llm2sh](https://github.com/randombk/llm2sh) - Ask GPT to run a command
 - [kkangert/kspider-ui](https://github.com/kkangert/kspider-ui) - Kspider 是一个爬虫平台，以图形化方式定义爬虫流程，无需代码即可实现一个爬虫流程，Kspider不仅限爬虫，也可用于WEB自动化测试，更多功能等你探索。
-- [JackySoft/marsview](https://github.com/JackySoft/marsview) - Marsview 是一款中后台方向的低代码可视化搭建平台，开发者可以在平台上创建项目、页面和组件，支持事件交互、接口调用、数据联动和逻辑编排等，开发者还可通过微服务快速集成到自己的业务系统中。
+- [JackySoft/marsview](https://github.com/JackySoft/marsview) - Marsview 是一款中后台方向的低代码可视化搭建平台，开发者可以在平台上创建项目、页面和组件，支持事件交互、接口调用、数据联动和逻辑编排等，开发者还可通过微服务快速集成到自己的业务系统中。   Marsview is a low code visualization platform for middle and backend direction, supporting event inte
 - [Dan-wanna-M/formatron](https://github.com/Dan-wanna-M/formatron) - Formatron empowers everyone to control the format of language models' output with minimal overhead.
 - [ssine/pptx2md](https://github.com/ssine/pptx2md) - a pptx to markdown converter
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
