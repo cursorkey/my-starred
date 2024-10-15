@@ -55,6 +55,7 @@
 
 ## C++ 
 
+- [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - ⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit for ☁️Cloud 📱Mobile and 📹Edge. Including Image, Video, Text and Audio 20+ main stream scenarios and 150+ SOTA models with end-to-end op
 - [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信机器人底层框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。WeChat Robot Hook.
 - [ixe013/notifu](https://github.com/ixe013/notifu) - Notifu is a tool that displays a yellow pop-up balloon in the system notification area, better known as the tray.
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
@@ -335,6 +336,7 @@
 
 ## TypeScript 
 
+- [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Sc
 - [loggerhead/json4u](https://github.com/loggerhead/json4u) - 
 - [DemoJ/ThinNav](https://github.com/DemoJ/ThinNav) - 一个极其简洁轻便的开源网址导航站，自带后台管理系统
 - [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app:
