@@ -250,6 +250,7 @@
 
 ## Python 
 
+- [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [ViggoZ/producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot) - 自动生成每日Product Hunt热门产品中文榜单，基于GitHub Actions自动提交Markdown文件
 - [MadcowD/ell](https://github.com/MadcowD/ell) - A language model programming library.
