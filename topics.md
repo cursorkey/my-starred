@@ -741,6 +741,8 @@
 
 ## others 
 
+- [yuvenhol/dataharvest](https://github.com/yuvenhol/dataharvest) - AGI拓展工具，支持AI搜索&爬虫&数据清洗，开箱即用。tavily、天工、百度百科、百家号、360百科、头条、微信公众号、搜狐百科、腾讯新闻、网易新闻、马蜂窝、小红书
+- [jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter) - 在线批量导出微信公众号文章，支持内嵌的音视频导出，无需搭建任何环境，可100%还原文章样式，支持私有部署
 - [MrXujiang/flowmix-flow](https://github.com/MrXujiang/flowmix-flow) - 一款基于react-flow的工作流编辑器
 - [AlloyTeam/AlloyImage](https://github.com/AlloyTeam/AlloyImage) - 基于HTML5的专业级图像处理开源引擎。An image processing lib based on html5.
 - [mumuy/gobang](https://github.com/mumuy/gobang) - 五子棋人机对战游戏 - 经典游戏开发样例_Gobang based on HTML5
