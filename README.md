@@ -132,6 +132,7 @@
 
 ## JavaScript 
 
+- [JLinMr/Mini-Cover](https://github.com/JLinMr/Mini-Cover) - Mini-Cover：简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面
 - [AlloyTeam/AlloyImage](https://github.com/AlloyTeam/AlloyImage) - 基于HTML5的专业级图像处理开源引擎。An image processing lib based on html5.
 - [mumuy/gobang](https://github.com/mumuy/gobang) - 五子棋人机对战游戏 - 经典游戏开发样例_Gobang based on HTML5
 - [huggingface/transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers.js demos and example applications
@@ -252,6 +253,7 @@
 
 ## Python 
 
+- [kuangdd2024/auto-video-generateor](https://github.com/kuangdd2024/auto-video-generateor) - 自动视频生成器，给定主题，自动生成解说视频。用户输入主题文字，系统调用大语言模型生成故事或解说的文字，然后进一步调用语音合成接口生成解说的语音，调用文生图接口生成契合文字内容的配图，最后融合语音和配图生成解说视频。
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
 - [yuvenhol/dataharvest](https://github.com/yuvenhol/dataharvest) - AGI拓展工具，支持AI搜索&爬虫&数据清洗，开箱即用。tavily、天工、百度百科、百家号、360百科、头条、微信公众号、搜狐百科、腾讯新闻、网易新闻、马蜂窝、小红书
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
@@ -337,6 +339,7 @@
 
 ## Shell 
 
+- [AIGeniusInstitute/AI-Agent-In-Action](https://github.com/AIGeniusInstitute/AI-Agent-In-Action) - AI Agent 开发实战
 - [rodrick278/CSS-Notes](https://github.com/rodrick278/CSS-Notes) - CSS相关综合专栏。 计划包含四个方面： ①CSS基础②进阶专题③面试题汇总④一些有意思的奇技淫巧。
 
 ## TypeScript 
