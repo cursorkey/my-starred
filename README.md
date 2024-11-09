@@ -119,6 +119,7 @@
 
 ## Java 
 
+- [TheCoolQATeam/online-inspection-tracker](https://github.com/TheCoolQATeam/online-inspection-tracker) - 线上自动化巡检系统
 - [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
 - [mikemelon/java-exam](https://github.com/mikemelon/java-exam) - Java实现的包含题库编辑、抽题组卷、试题分析、在线考试等模块的Web考试系统。
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
@@ -134,6 +135,7 @@
 
 ## JavaScript 
 
+- [Gijela/CR-Mentor](https://github.com/Gijela/CR-Mentor) - Knowledge Base + LLM Powered Code Review Mentor。知识库 + LLM 驱动的 Code Review 导师
 - [JLinMr/Mini-Cover](https://github.com/JLinMr/Mini-Cover) - Mini-Cover：简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面
 - [AlloyTeam/AlloyImage](https://github.com/AlloyTeam/AlloyImage) - 基于HTML5的专业级图像处理开源引擎。An image processing lib based on html5.
 - [mumuy/gobang](https://github.com/mumuy/gobang) - 五子棋人机对战游戏 - 经典游戏开发样例_Gobang based on HTML5
@@ -346,6 +348,7 @@
 
 ## TypeScript 
 
+- [APIParkLab/APIPark](https://github.com/APIParkLab/APIPark) - 🦄APIPark is the #1 open-source AI Gateway and Developer Portal, enabling you to easily manage, integrate, and deploy AI and API services. APIPark seamlessly connects with various large AI models and p
 - [MrXujiang/flowmix-flow](https://github.com/MrXujiang/flowmix-flow) - 一款基于react-flow的工作流编辑器
 - [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Sc
 - [loggerhead/json4u](https://github.com/loggerhead/json4u) - 
