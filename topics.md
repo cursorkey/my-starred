@@ -147,6 +147,7 @@
 
 ## ai 
 
+- [APIParkLab/APIPark](https://github.com/APIParkLab/APIPark) - 🦄APIPark is the #1 open-source AI Gateway and Developer Portal, enabling you to easily manage, integrate, and deploy AI and API services. APIPark seamlessly connects with various large AI models and p
 - [MadcowD/ell](https://github.com/MadcowD/ell) - A language model programming library.
 - [petercat-ai/petercat](https://github.com/petercat-ai/petercat) - A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
@@ -182,6 +183,7 @@
 
 ## api 
 
+- [APIParkLab/APIPark](https://github.com/APIParkLab/APIPark) - 🦄APIPark is the #1 open-source AI Gateway and Developer Portal, enabling you to easily manage, integrate, and deploy AI and API services. APIPark seamlessly connects with various large AI models and p
 - [wechat-miniprogram/miniprogram-demo](https://github.com/wechat-miniprogram/miniprogram-demo) - 微信小程序组件 / API / 云开发示例
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
@@ -730,6 +732,7 @@
 
 ## openai 
 
+- [APIParkLab/APIPark](https://github.com/APIParkLab/APIPark) - 🦄APIPark is the #1 open-source AI Gateway and Developer Portal, enabling you to easily manage, integrate, and deploy AI and API services. APIPark seamlessly connects with various large AI models and p
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [codeacme17/examor](https://github.com/codeacme17/examor) - For students, scholars, interviewees and lifelong learners. Let LLMs assist you in learning 🎓
 - [SamurAIGPT/EmbedAI](https://github.com/SamurAIGPT/EmbedAI) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks
@@ -750,6 +753,7 @@
 
 ## others 
 
+- [Gijela/CR-Mentor](https://github.com/Gijela/CR-Mentor) - Knowledge Base + LLM Powered Code Review Mentor。知识库 + LLM 驱动的 Code Review 导师
 - [im-red/maze](https://github.com/im-red/maze) - Generate maze and its solution.
 - [AIGeniusInstitute/AI-Agent-In-Action](https://github.com/AIGeniusInstitute/AI-Agent-In-Action) - AI Agent 开发实战
 - [kuangdd2024/auto-video-generateor](https://github.com/kuangdd2024/auto-video-generateor) - 自动视频生成器，给定主题，自动生成解说视频。用户输入主题文字，系统调用大语言模型生成故事或解说的文字，然后进一步调用语音合成接口生成解说的语音，调用文生图接口生成契合文字内容的配图，最后融合语音和配图生成解说视频。
@@ -1070,6 +1074,7 @@
 
 ## springboot 
 
+- [TheCoolQATeam/online-inspection-tracker](https://github.com/TheCoolQATeam/online-inspection-tracker) - 线上自动化巡检系统
 - [orange-form/orange-admin](https://github.com/orange-form/orange-admin) - 橙单中台化低代码生成器。可完整支持多应用、多租户、多渠道、工作流 (Flowable & Activiti)、在线表单、自定义数据同步、自定义Job、多表关联、跨服务多表关联、框架技术栈自由组合等。
 - [erupts/erupt](https://github.com/erupts/erupt) - 🚀 General data management framework, objects are pages
 
