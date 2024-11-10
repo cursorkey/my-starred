@@ -819,7 +819,7 @@
 - [5songHb/mbti](https://github.com/5songHb/mbti) - Myers-Briggs Type Indicator Test(MBTI职业性格测试)
 - [opensumi/codeblitz](https://github.com/opensumi/codeblitz) - Pure front-end IDE framework based on OpenSumi
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
-- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并支持api调用
+- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，同时支持语音识别转录、语音合成、字幕翻译。
 - [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic
 - [fernandreu/office-ribbonx-editor](https://github.com/fernandreu/office-ribbonx-editor) - An overhauled fork of the original Custom UI Editor for Microsoft Office, built with WPF
 - [YXJ2018/SpringBoot-Vue-OnlineExam](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam) - 在线考试系统，springboot+vue前后端分离的一个项目.
