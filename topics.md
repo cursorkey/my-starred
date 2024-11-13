@@ -861,7 +861,7 @@
 - [smartdan/PDFTools](https://github.com/smartdan/PDFTools) - Split A3 and A4 pages from PDF file
 - [propjockey/css-sweeper](https://github.com/propjockey/css-sweeper) - MineSweeper implemented in CSS + HTML using the Space Toggle trick (no JavaScript!)
 - [yelog/TableGenerator](https://github.com/yelog/TableGenerator) - 表格生成器，生成表格代码
-- [cloudtogo/pageplug](https://github.com/cloudtogo/pageplug) - PagePlug 是 Appsmith 的中国化项目。基于Appsmith做了整体性能的优化及汉化，也集合了特色表单解决方案Formily组件、图表解决方案Echarts组件、低代码小程序开发等，是面向研发使用的一个开源的、声明式的前后端一体低代码，项目逻辑主要是在前端的解释器和设计器上
+- [cloudtogo/pageplug](https://github.com/cloudtogo/pageplug) - PagePlug是 Appsmith 的中国化项目，基于Appsmith做了整体性能的优化及汉化，也集合了特色表单解决方案Formily组件、图表解决方案Echarts组件、低代码小程序开发等，是面向研发使用的一个开源的、声明式的前后端一体低代码Lowcode，项目逻辑主要是在前端的解释器和设计器上
 - [ykbj/fastapi-amis-webframe](https://github.com/ykbj/fastapi-amis-webframe) - 
 - [shaunlebron/pacman-mazegen](https://github.com/shaunlebron/pacman-mazegen) - researching solutions for generating Pac-Man mazes
 - [traas-stack/auto-unit-test-case-generator](https://github.com/traas-stack/auto-unit-test-case-generator) - Auto-Unit-Test-Case-Generator automatically generates high-level code-coverage JUnit test suites for Java,  widely used within the ANT Group.
