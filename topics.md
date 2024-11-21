@@ -221,7 +221,7 @@
 
 ## azure 
 
-- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation and bilingual comparison - 完整保留排版的 PDF 文档全文双语翻译，提供图形化交互界面，支持 Google/DeepL/Azure/Ollama/OpenAI 服务
+- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 - [codeacme17/examor](https://github.com/codeacme17/examor) - For students, scholars, interviewees and lifelong learners. Let LLMs assist you in learning 🎓
 
 ## backend 
@@ -408,6 +408,7 @@
 
 ## docker 
 
+- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors) - LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, K8S, PyPI, PyTorch, and NPM.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -435,7 +436,7 @@
 
 ## english 
 
-- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation and bilingual comparison - 完整保留排版的 PDF 文档全文双语翻译，提供图形化交互界面，支持 Google/DeepL/Azure/Ollama/OpenAI 服务
+- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [nailperry-zd/The-Economist](https://github.com/nailperry-zd/The-Economist) - The Economist 经济学人，持续更新
 
@@ -609,7 +610,7 @@
 
 ## latex 
 
-- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation and bilingual comparison - 完整保留排版的 PDF 文档全文双语翻译，提供图形化交互界面，支持 Google/DeepL/Azure/Ollama/OpenAI 服务
+- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 
 ## learning 
 
@@ -739,7 +740,7 @@
 
 ## openai 
 
-- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation and bilingual comparison - 完整保留排版的 PDF 文档全文双语翻译，提供图形化交互界面，支持 Google/DeepL/Azure/Ollama/OpenAI 服务
+- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 - [APIParkLab/APIPark](https://github.com/APIParkLab/APIPark) - 🦄APIPark is the #1 open-source AI Gateway and Developer Portal, enabling you to easily manage, integrate, and deploy AI and API services. APIPark seamlessly connects with various large AI models and p
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [codeacme17/examor](https://github.com/codeacme17/examor) - For students, scholars, interviewees and lifelong learners. Let LLMs assist you in learning 🎓
@@ -761,6 +762,7 @@
 
 ## others 
 
+- [showlab/computer_use_ootb](https://github.com/showlab/computer_use_ootb) - An out-of-the-box (OOTB) version of Anthropic Claude Computer Use for Windows and macOS
 - [Gijela/CR-Mentor](https://github.com/Gijela/CR-Mentor) - Knowledge Base + LLM Powered Code Review Mentor。知识库 + LLM 驱动的 Code Review 导师
 - [im-red/maze](https://github.com/im-red/maze) - Generate maze and its solution.
 - [AIGeniusInstitute/AI-Agent-In-Action](https://github.com/AIGeniusInstitute/AI-Agent-In-Action) - AI Agent 开发实战
@@ -1083,7 +1085,7 @@
 
 ## springboot 
 
-- [TheCoolQATeam/online-inspection-tracker](https://github.com/TheCoolQATeam/online-inspection-tracker) - 线上自动化巡检系统
+- [TheCoolQATeam/online-inspection-tracker](https://github.com/TheCoolQATeam/online-inspection-tracker) - 线上UI自动化巡检系统
 - [orange-form/orange-admin](https://github.com/orange-form/orange-admin) - 橙单中台化低代码生成器。可完整支持多应用、多租户、多渠道、工作流 (Flowable & Activiti)、在线表单、自定义数据同步、自定义Job、多表关联、跨服务多表关联、框架技术栈自由组合等。
 - [erupts/erupt](https://github.com/erupts/erupt) - 🚀 General data management framework, objects are pages
 
