@@ -226,6 +226,7 @@
 
 ## Others 
 
+- [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
 - [iSEngLab/AwesomeLLM4SE](https://github.com/iSEngLab/AwesomeLLM4SE) - A Survey on Large Language Models for Software Engineering
 - [lizhe2004/Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application) - the resources about the application based on LLM with RAG pattern
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
@@ -351,6 +352,7 @@
 
 ## TypeScript 
 
+- [Nutlope/picMenu](https://github.com/Nutlope/picMenu) - Visualize menus in seconds with AI
 - [APIParkLab/APIPark](https://github.com/APIParkLab/APIPark) - 🦄APIPark is the #1 open-source AI Gateway and Developer Portal, enabling you to easily manage, integrate, and deploy AI and API services. APIPark seamlessly connects with various large AI models and p
 - [MrXujiang/flowmix-flow](https://github.com/MrXujiang/flowmix-flow) - 一款基于react-flow的工作流编辑器
 - [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Sc
