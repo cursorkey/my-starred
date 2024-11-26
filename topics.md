@@ -762,6 +762,8 @@
 
 ## others 
 
+- [Nutlope/picMenu](https://github.com/Nutlope/picMenu) - Visualize menus in seconds with AI
+- [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
 - [showlab/computer_use_ootb](https://github.com/showlab/computer_use_ootb) - An out-of-the-box (OOTB) version of Anthropic Claude Computer Use for Windows and macOS
 - [Gijela/CR-Mentor](https://github.com/Gijela/CR-Mentor) - Knowledge Base + LLM Powered Code Review Mentor。知识库 + LLM 驱动的 Code Review 导师
 - [im-red/maze](https://github.com/im-red/maze) - Generate maze and its solution.
