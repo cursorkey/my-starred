@@ -279,7 +279,7 @@
 - [ssine/pptx2md](https://github.com/ssine/pptx2md) - a pptx to markdown converter
 - [raznem/parsera](https://github.com/raznem/parsera) - Lightweight library for scraping web-sites with LLMs
 - [lipku/LiveTalking](https://github.com/lipku/LiveTalking) - Real time interactive streaming digital human
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - [NeurIPS 2024] SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges
+- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - [NeurIPS 2024] SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges
 - [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
 - [pwaller/pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
