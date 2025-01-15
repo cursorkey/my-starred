@@ -777,7 +777,7 @@
 - [ishubin/schemio](https://github.com/ishubin/schemio) - Web based diagramming app that lets you build interactive diagrams and prototypes
 - [corbt/agent.exe](https://github.com/corbt/agent.exe) - 
 - [robotflow-initiative/rfuniverse](https://github.com/robotflow-initiative/rfuniverse) - Robot physics simulation and RL platform based on Unity / 基于Unity的机器人物理仿真和RL平台
-- [idootop/MagicMirror](https://github.com/idootop/MagicMirror) - Instant AI Face Swap, Hairstyles & Outfits — One click to a brand new you! 一键 AI 换脸、发型、穿搭，发现更美的自己 ✨
+- [idootop/MagicMirror](https://github.com/idootop/MagicMirror) - 🪞 Instant AI Face Swap, Hairstyles & Outfits — One click to a brand new you! 一键 AI 换脸、发型、穿搭，发现更美的你
 - [Nutlope/picMenu](https://github.com/Nutlope/picMenu) - Visualize menus in seconds with AI
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
 - [showlab/computer_use_ootb](https://github.com/showlab/computer_use_ootb) - Out-of-the-box (OOTB) GUI Agent for Windows and macOS
