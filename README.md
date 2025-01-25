@@ -372,6 +372,7 @@
 
 ## TypeScript 
 
+- [inferablehq/inferable](https://github.com/inferablehq/inferable) - Open-source platform that turns your internal APIs and tools into conversational AI agents ✨
 - [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
 - [nusr/excel](https://github.com/nusr/excel) - Online Collaboration Excel
 - [corbt/agent.exe](https://github.com/corbt/agent.exe) - 
