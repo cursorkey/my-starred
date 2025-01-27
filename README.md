@@ -239,6 +239,7 @@
 
 ## Others 
 
+- [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - 
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
 - [iSEngLab/AwesomeLLM4SE](https://github.com/iSEngLab/AwesomeLLM4SE) - A Survey on Large Language Models for Software Engineering
 - [lizhe2004/Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application) - the resources about the application based on LLM with RAG pattern
@@ -372,6 +373,7 @@
 
 ## TypeScript 
 
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Lanuage Model) that allows you to control your computer using natural language.
 - [inferablehq/inferable](https://github.com/inferablehq/inferable) - Open-source platform that turns your internal APIs and tools into conversational AI agents ✨
 - [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
 - [nusr/excel](https://github.com/nusr/excel) - Online Collaboration Excel
