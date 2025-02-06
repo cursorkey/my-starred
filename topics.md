@@ -364,7 +364,7 @@
 
 ## dart 
 
-- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive, node based 2D graphics editor focused on simplicity, speed, elegance, and usability
+- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Node based 2D graphics editor
 
 ## data 
 
@@ -479,7 +479,7 @@
 
 ## flutter 
 
-- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive, node based 2D graphics editor focused on simplicity, speed, elegance, and usability
+- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Node based 2D graphics editor
 
 ## framework 
 
