@@ -711,6 +711,7 @@
 
 ## mongodb 
 
+- [yenche123/liubai](https://github.com/yenche123/liubai) - Using DeepSeek R1 on WeChat
 - [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - Browser-based management platform of machine, database (mysql pgsql oracle sqlserver Gauss sqlite), redis(standalone sentinel cluster), mongo unified management and operation platform. (web版linux(终端 文
 
 ## mysql 
@@ -999,6 +1000,7 @@
 
 ## pwa 
 
+- [yenche123/liubai](https://github.com/yenche123/liubai) - Using DeepSeek R1 on WeChat
 - [reuixiy/hugo-theme-meme](https://github.com/reuixiy/hugo-theme-meme) - 😝 You can’t spell awesome without MemE!
 
 ## python 
@@ -1218,6 +1220,7 @@
 
 ## typescript 
 
+- [yenche123/liubai](https://github.com/yenche123/liubai) - Using DeepSeek R1 on WeChat
 - [danger-dream/tosa](https://github.com/danger-dream/tosa) - Tosa是一款仿Bob、PopClip的屏幕取词、OCR、翻译、取色工具，使用Tauri、Vite、Vue3开发。
 - [inferablehq/inferable](https://github.com/inferablehq/inferable) - Build distributed AI agents from your existing internal codebases with durable execution.
 - [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
