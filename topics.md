@@ -201,6 +201,7 @@
 
 ## artificial-intelligence 
 
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [dair-ai/ml-visuals](https://github.com/dair-ai/ml-visuals) - 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
@@ -711,7 +712,7 @@
 
 ## mongodb 
 
-- [yenche123/liubai](https://github.com/yenche123/liubai) - Using DeepSeek R1 on WeChat
+- [yenche123/liubai](https://github.com/yenche123/liubai) - Supercharge yourself!
 - [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - Browser-based management platform of machine, database (mysql pgsql oracle sqlserver Gauss sqlite), redis(standalone sentinel cluster), mongo unified management and operation platform. (web版linux(终端 文
 
 ## mysql 
@@ -801,6 +802,8 @@
 
 ## others 
 
+- [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - 
+- [we0-dev/we0](https://github.com/we0-dev/we0) - we0 is an AI code editor for development programmers and product managers. same v0, bolt.new,lovable
 - [aitomatic/semikong](https://github.com/aitomatic/semikong) - First Open-Source Industry-Specific Model for Semiconductors
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [jianzongwu/DiffSensei](https://github.com/jianzongwu/DiffSensei) - Implementation of "DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation"
@@ -1000,7 +1003,7 @@
 
 ## pwa 
 
-- [yenche123/liubai](https://github.com/yenche123/liubai) - Using DeepSeek R1 on WeChat
+- [yenche123/liubai](https://github.com/yenche123/liubai) - Supercharge yourself!
 - [reuixiy/hugo-theme-meme](https://github.com/reuixiy/hugo-theme-meme) - 😝 You can’t spell awesome without MemE!
 
 ## python 
@@ -1220,7 +1223,7 @@
 
 ## typescript 
 
-- [yenche123/liubai](https://github.com/yenche123/liubai) - Using DeepSeek R1 on WeChat
+- [yenche123/liubai](https://github.com/yenche123/liubai) - Supercharge yourself!
 - [danger-dream/tosa](https://github.com/danger-dream/tosa) - Tosa是一款仿Bob、PopClip的屏幕取词、OCR、翻译、取色工具，使用Tauri、Vite、Vue3开发。
 - [inferablehq/inferable](https://github.com/inferablehq/inferable) - Build distributed AI agents from your existing internal codebases with durable execution.
 - [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
