@@ -167,7 +167,7 @@
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [sturdy-dev/codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your Pull/Merge Requests using ChatGPT
-- [devchat-ai/devchat](https://github.com/devchat-ai/devchat) - Automate your dev tasks with AI-powered scripts, from your IDE's chat panel.
+- [devchat-ai/devchat](https://github.com/devchat-ai/devchat) - AI workflows generated with natural language
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -287,7 +287,7 @@
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [sturdy-dev/codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your Pull/Merge Requests using ChatGPT
 - [SamurAIGPT/EmbedAI](https://github.com/SamurAIGPT/EmbedAI) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks
-- [devchat-ai/devchat](https://github.com/devchat-ai/devchat) - Automate your dev tasks with AI-powered scripts, from your IDE's chat panel.
+- [devchat-ai/devchat](https://github.com/devchat-ai/devchat) - AI workflows generated with natural language
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
@@ -528,7 +528,7 @@
 ## golang 
 
 - [inferablehq/inferable](https://github.com/inferablehq/inferable) - The managed LLM-engineering platform. Structured outputs, durable workflows, human in the loop, and more with delightful DX.
-- [evcc-io/evcc](https://github.com/evcc-io/evcc) - Solar Charging ☀️🚘
+- [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
@@ -657,6 +657,7 @@
 
 ## linux 
 
+- [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
@@ -707,6 +708,7 @@
 
 ## macos 
 
+- [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
@@ -819,6 +821,8 @@
 
 ## others 
 
+- [maojindao55/botgroup.chat](https://github.com/maojindao55/botgroup.chat) - AI机器人群聊
+- [goldendict/goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, 
 - [Rico00121/hugo-translator](https://github.com/Rico00121/hugo-translator) - LLM-driven article translator that automatically translates and creates new [name].[lng].md files
 - [pfinal-nc/electron_pf](https://github.com/pfinal-nc/electron_pf) - 
 - [mayuso/PNGToSVG](https://github.com/mayuso/PNGToSVG) - Convert your PNG files to SVG.
@@ -1016,7 +1020,7 @@
 
 ## programming 
 
-- [devchat-ai/devchat](https://github.com/devchat-ai/devchat) - Automate your dev tasks with AI-powered scripts, from your IDE's chat panel.
+- [devchat-ai/devchat](https://github.com/devchat-ai/devchat) - AI workflows generated with natural language
 
 ## project-management 
 
@@ -1042,7 +1046,6 @@
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors) - LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, K8S, PyPI, PyTorch, and NPM.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
-- [devchat-ai/devchat](https://github.com/devchat-ai/devchat) - Automate your dev tasks with AI-powered scripts, from your IDE's chat panel.
 - [dadadel/pyment](https://github.com/dadadel/pyment) - Format and convert Python docstrings and generates patches
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
@@ -1310,6 +1313,7 @@
 
 ## windows 
 
+- [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 - [Windos/BurntToast](https://github.com/Windos/BurntToast) - Module for creating and displaying Toast Notifications on Microsoft Windows 10.
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
