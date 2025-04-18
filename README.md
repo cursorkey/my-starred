@@ -261,7 +261,6 @@
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - 
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
-- [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - 
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
 - [iSEngLab/AwesomeLLM4SE](https://github.com/iSEngLab/AwesomeLLM4SE) - A Survey on Large Language Models for Software Engineering
 - [lizhe2004/Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application) - the resources about the application based on LLM with RAG pattern
@@ -309,6 +308,7 @@
 - [icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent) - PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides
 - [ohtaman/streamlit-desktop-app](https://github.com/ohtaman/streamlit-desktop-app) - A Python library for converting Streamlit applications into standalone desktop applications using pywebview.
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isola
+- [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - 
 - [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [showlab/computer_use_ootb](https://github.com/showlab/computer_use_ootb) - Out-of-the-box (OOTB) GUI Agent for Windows and macOS
