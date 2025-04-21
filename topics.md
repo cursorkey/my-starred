@@ -205,7 +205,7 @@
 
 ## angular 
 
-- [erupts/erupt](https://github.com/erupts/erupt) - 🚀 General data management framework, objects are pages
+- [erupts/erupt](https://github.com/erupts/erupt) - 🚀 General data management framework, objects are views
 
 ## api 
 
@@ -636,7 +636,7 @@
 - [qiutiandefeng/yfexam-exam](https://github.com/qiutiandefeng/yfexam-exam) - 在线考试系统/企业培训软件考试系统
 - [PlayEdu/PlayEdu](https://github.com/PlayEdu/PlayEdu) - 100%开源的企业培训系统，界面美观，操作简单，一键部署您的私有化培训平台！
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
-- [erupts/erupt](https://github.com/erupts/erupt) - 🚀 General data management framework, objects are pages
+- [erupts/erupt](https://github.com/erupts/erupt) - 🚀 General data management framework, objects are views
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 
 ## javafx 
@@ -1266,7 +1266,7 @@
 ## spring 
 
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
-- [erupts/erupt](https://github.com/erupts/erupt) - 🚀 General data management framework, objects are pages
+- [erupts/erupt](https://github.com/erupts/erupt) - 🚀 General data management framework, objects are views
 
 ## spring-boot 
 
@@ -1276,7 +1276,7 @@
 
 - [TheCoolQATeam/online-inspection-tracker](https://github.com/TheCoolQATeam/online-inspection-tracker) - 线上UI自动化巡检系统
 - [orange-form/orange-admin](https://github.com/orange-form/orange-admin) - 橙单中台化低代码生成器。可完整支持多应用、多租户、多渠道、工作流 (Flowable & Activiti)、在线表单、自定义数据同步、自定义Job、多表关联、跨服务多表关联、框架技术栈自由组合等。
-- [erupts/erupt](https://github.com/erupts/erupt) - 🚀 General data management framework, objects are pages
+- [erupts/erupt](https://github.com/erupts/erupt) - 🚀 General data management framework, objects are views
 
 ## sql 
 
