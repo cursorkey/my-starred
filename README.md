@@ -14,6 +14,7 @@
 - [Clojure](#clojure)
 - [Dart](#dart)
 - [GAP](#gap)
+- [GDScript](#gdscript)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -97,6 +98,10 @@
 ## GAP 
 
 - [davidlunadeleon/Sudoku](https://github.com/davidlunadeleon/Sudoku) - A Sudoku game created using Godot Game Engine
+
+## GDScript 
+
+- [jihe520/Desktop-Pet-Godot](https://github.com/jihe520/Desktop-Pet-Godot) - 🤖👾🐶一款由大语言模型驱动、Godot 制作的 AI 桌宠，旨在提供一个全能的、丰富的桌面AI宠物。An AI desktop pet created with Godot and powered by LLM, designed to offer a versatile and enriched desktop AI companion.
 
 ## Go 
 
