@@ -768,6 +768,7 @@
 
 ## llm 
 
+- [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent) - 🤖📐专为数学建模设计的 Agent ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [jihe520/Desktop-Pet-Godot](https://github.com/jihe520/Desktop-Pet-Godot) - 🤖👾🐶一款由大语言模型驱动、Godot 制作的 AI 桌宠，旨在提供一个全能的、丰富的桌面AI宠物。An AI desktop pet created with Godot and powered by LLM, designed to offer a versatile and enriched desktop AI companion.
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
