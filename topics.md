@@ -62,6 +62,7 @@
 - [flutter](#flutter)
 - [framework](#framework)
 - [frontend](#frontend)
+- [games](#games)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -113,6 +114,7 @@
 - [osint](#osint)
 - [others](#others)
 - [parsing](#parsing)
+- [phaser](#phaser)
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -169,7 +171,7 @@
 - [robbyzhaox/myocr](https://github.com/robbyzhaox/myocr) - A highly extensible and customizable framework for building OCR systems.
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight, high-performance library for building Agents with memory, knowledge, and reasoning.
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
@@ -562,7 +564,7 @@
 
 ## framework 
 
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight, high-performance library for building Agents with memory, knowledge, and reasoning.
 - [PySpur-Dev/pyspur](https://github.com/PySpur-Dev/pyspur) - A visual playground for agentic workflows: Iterate over your agents 10x faster
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -573,6 +575,10 @@
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+
+## games 
+
+- [channingbreeze/games](https://github.com/channingbreeze/games) - 一个基于Phaser的小游戏集合
 
 ## git 
 
@@ -651,6 +657,7 @@
 
 ## html5 
 
+- [channingbreeze/games](https://github.com/channingbreeze/games) - 一个基于Phaser的小游戏集合
 - [mumuy/pacman](https://github.com/mumuy/pacman) - 基于HTML5的吃豆人游戏 - 经典游戏开发样例_Pacman based on HTML5
 
 ## http 
@@ -970,6 +977,7 @@
 
 ## others 
 
+- [cunyu1943/weekly](https://github.com/cunyu1943/weekly) - 村雨遥的好物周刊
 - [jakekwak/vditor](https://github.com/jakekwak/vditor) - 
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
 - [davidlunadeleon/Sudoku](https://github.com/davidlunadeleon/Sudoku) - A Sudoku game created using Godot Game Engine
@@ -1167,6 +1175,10 @@
 
 - [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Unified framework for building enterprise RAG pipelines with small, specialized models
 
+## phaser 
+
+- [channingbreeze/games](https://github.com/channingbreeze/games) - 一个基于Phaser的小游戏集合
+
 ## php 
 
 - [goponycn/ponyexam](https://github.com/goponycn/ponyexam) - 小马考试通ponyexam开源版是基于PHP开发的免费开源在线考试系统，能够快速搭建在线考试平台，系统支持多种题型：单选题、多选题、判断题、填空题、问答题等题型。支持在线考试，支持自动和人工两种方式批阅试卷。适合各类学校、教培系统、企业内训等场景使用。
@@ -1205,7 +1217,7 @@
 ## python 
 
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight, high-performance library for building Agents with memory, knowledge, and reasoning.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [PySpur-Dev/pyspur](https://github.com/PySpur-Dev/pyspur) - A visual playground for agentic workflows: Iterate over your agents 10x faster
 - [alecm20/story-flicks](https://github.com/alecm20/story-flicks) - 使用AI大模型，一键生成高清故事短视频。Generate high-definition story short videos with one click using AI large models.
@@ -1504,6 +1516,7 @@
 
 ## webapp 
 
+- [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://www.pakeplus.com
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 
 ## webpack 
