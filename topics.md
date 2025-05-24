@@ -982,6 +982,7 @@
 
 ## others 
 
+- [SimonAKing/AnimatedGallery](https://github.com/SimonAKing/AnimatedGallery) - 
 - [cunyu1943/weekly](https://github.com/cunyu1943/weekly) - 村雨遥的好物周刊
 - [jakekwak/vditor](https://github.com/jakekwak/vditor) - 
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
