@@ -552,7 +552,7 @@
 - [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一个在线的微信公众号文章批量下载工具，支持下载阅读量与评论数据，支持私有化部署，通过浏览器进行使用，无需进行安装
 - [mizhexiaoxiao/vue-fastapi-admin](https://github.com/mizhexiaoxiao/vue-fastapi-admin) - ⭐️ 基于 FastAPI+Vue3+Naive UI 的现代化轻量管理平台 A modern and lightweight management platform based on FastAPI, Vue3, and Naive UI.
 - [kkangert/kspider-ui](https://github.com/kkangert/kspider-ui) - Kspider 是一个爬虫平台，以图形化方式定义爬虫流程，无需代码即可实现一个爬虫流程，Kspider不仅限爬虫，也可用于WEB自动化测试，更多功能等你探索。
-- [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) - PDF Guru Anki是一款以PDF为中心的多功能办公学习工具箱软件，包含四大板块功能：PDF实用工具箱、Anki制卡神器、Anki最强辅助、视频笔记神器，软件功能众多且强大，熟练运用可以大幅提高办公和学习效率，绝对是您不可多得的效率神器。人生苦短，我用Guru!
+- [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) - PDF Guru Anki是你整个知识世界的“中枢转换器”，与 Anki 的强大记忆引擎无缝融合，能将来自任何地方、任何格式的知识精华，高效、系统、可持续地转化为牢固的长期记忆资产，打造专属自己的个性化Anki知识库，助你高效学习、轻松记忆。
 - [yaolunmao/vue-webtopo-svgeditor](https://github.com/yaolunmao/vue-webtopo-svgeditor) - 基于vue3实现的svg可视化web组态编辑器。可无需修改代码动态添加svg组件
 - [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
 - [Edge-coordinates/Waterfall_picture_viewer](https://github.com/Edge-coordinates/Waterfall_picture_viewer) - 瀑布流图片查看器
