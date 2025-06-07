@@ -79,6 +79,7 @@
 - [java](#java)
 - [javafx](#javafx)
 - [javascript](#javascript)
+- [jekyll](#jekyll)
 - [jquery](#jquery)
 - [js](#js)
 - [json](#json)
@@ -736,6 +737,10 @@
 - [hizzgdev/jsmind](https://github.com/hizzgdev/jsmind) - a mind mapping library built by javascript
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 
+## jekyll 
+
+- [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
+
 ## jquery 
 
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
@@ -958,6 +963,7 @@
 
 ## open-source 
 
+- [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [WINBIGFOX/TimeScribe](https://github.com/WINBIGFOX/TimeScribe) - This repository offers a modern, flexible time tracking app for capturing and managing personal working hours. It operates offline, requires no sign-up, and is free and open source—ideal for anyone lo
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
@@ -1003,6 +1009,7 @@
 
 ## others 
 
+- [tl-open-source/tl-rtc-app](https://github.com/tl-open-source/tl-rtc-app) - Beautiful, practical and reliable (IM) Based on webrtc, websocket, nodejs
 - [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) - 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。
 - [kkangert/kspider](https://github.com/kkangert/kspider) - Kspider 是一个爬虫平台，以图形化方式定义爬虫流程，无需代码即可实现一个爬虫流程，Kspider不仅限爬虫，也可用于WEB自动化测试，更多功能等你探索。
 - [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - 自部署的摄影作品网站，支持多种功能特性。PicImpact，分享你和世界！
@@ -1091,7 +1098,7 @@
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [BasedHardware/OpenGlass](https://github.com/BasedHardware/OpenGlass) - Turn any glasses into AI-powered smart glasses
 - [stephband/scribe](https://github.com/stephband/scribe) - Renders music in HTML.
-- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
+- [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [CV-Tech-Guide/Visualize-feature-maps-and-heatmap](https://github.com/CV-Tech-Guide/Visualize-feature-maps-and-heatmap) - 可视化特征图教程
 - [Edge-coordinates/Waterfall_picture_viewer](https://github.com/Edge-coordinates/Waterfall_picture_viewer) - 瀑布流图片查看器
 - [mikemelon/java-exam](https://github.com/mikemelon/java-exam) - Java实现的包含题库编辑、抽题组卷、试题分析、在线考试等模块的Web考试系统。
