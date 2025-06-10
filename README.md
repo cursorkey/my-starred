@@ -12,6 +12,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
+- [Cuda](#cuda)
 - [Dart](#dart)
 - [GAP](#gap)
 - [GDScript](#gdscript)
@@ -69,7 +70,6 @@
 - [goldendict/goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, 
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 - [im-red/maze](https://github.com/im-red/maze) - Generate maze and its solution.
-- [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - ⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit for ☁️Cloud 📱Mobile and 📹Edge. Including Image, Video, Text and Audio 20+ main stream scenarios and 150+ SOTA models with end-to-end op
 - [ixe013/notifu](https://github.com/ixe013/notifu) - Notifu is a tool that displays a yellow pop-up balloon in the system notification area, better known as the tray.
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
@@ -90,6 +90,10 @@
 ## Clojure 
 
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+
+## Cuda 
+
+- [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - Large Language Model Deployment Toolkit
 
 ## Dart 
 
