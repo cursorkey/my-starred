@@ -170,6 +170,7 @@
 
 ## JavaScript 
 
+- [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
 - [dw-dengwei/daily-arXiv-ai-enhanced](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced) - Automatically crawl arXiv papers daily and summarize them using AI. Illustrating them using GitHub Pages.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [tl-open-source/tl-rtc-app](https://github.com/tl-open-source/tl-rtc-app) - Beautiful, practical and reliable (IM) Based on webrtc, websocket, nodejs
