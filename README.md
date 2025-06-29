@@ -339,7 +339,7 @@
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 - [multi-swe-bench/multi-swe-bench](https://github.com/multi-swe-bench/multi-swe-bench) - Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by o1, o3, GPT-4, GPT-4 Vision, Gemini, Claude, Llama 3, DeepSeek, Bielik, DALL-E,  chat, vision, voice control, image generation and analysis, agents, command execution, 
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by o1, o3, GPT-4, GPT-4 Vision, Gemini, Claude, Llama 3, DeepSeek, Grok, Bielik, chat, vision, voice control, image generation and analysis, agents, command execution, fil
 - [pablorodriper/streamlit-to-exe-demo](https://github.com/pablorodriper/streamlit-to-exe-demo) - Convert a streamlit app from Linux or Windows to an executable for Windows (.exe)
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research is an AI-powered assistant that transforms complex questions into comprehensive, cited reports by conducting iterative analysis using any LLM across diverse knowledge sources inclu
 - [Rico00121/hugo-translator](https://github.com/Rico00121/hugo-translator) - LLM-driven article translator that automatically translates and creates new [name].[lng].md files
@@ -493,7 +493,7 @@
 - [danger-dream/tosa](https://github.com/danger-dream/tosa) - Tosa是一款仿Bob、PopClip的屏幕取词、OCR、翻译、取色工具，使用Tauri、Vite、Vue3开发。
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️Wren AI is your GenBI Agent, that you can query any database with natural language → get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds.
-- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open All-in-One Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.
 - [inferablehq/inferable](https://github.com/inferablehq/inferable) - Build reliable AI Workflows and Agents with humans in the loop, structured outputs and durable execution.
 - [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
 - [nusr/excel](https://github.com/nusr/excel) - Online Collaboration Excel
