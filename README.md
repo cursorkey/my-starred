@@ -337,7 +337,7 @@
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by o1, o3, GPT-4, GPT-4 Vision, Gemini, Claude, Llama 3, DeepSeek, Grok, Bielik, chat, vision, voice control, image generation and analysis, agents, command execution, fil
 - [pablorodriper/streamlit-to-exe-demo](https://github.com/pablorodriper/streamlit-to-exe-demo) - Convert a streamlit app from Linux or Windows to an executable for Windows (.exe)
-- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research is an AI-powered assistant that transforms complex questions into comprehensive, cited reports by conducting iterative analysis using any LLM across diverse knowledge sources inclu
+- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini) and includes benchmark tools to test on your own data. Searches 10+ sources - arXiv, PubMed, GitHub, web, and your pr
 - [Rico00121/hugo-translator](https://github.com/Rico00121/hugo-translator) - LLM-driven article translator that automatically translates and creates new [name].[lng].md files
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 - [aitomatic/semikong](https://github.com/aitomatic/semikong) - First Open-Source Industry-Specific Model for Semiconductors
@@ -436,7 +436,7 @@
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 
 ## Shell 
 
