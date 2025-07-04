@@ -99,6 +99,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [mongodb](#mongodb)
+- [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
@@ -174,6 +175,7 @@
 
 ## ai 
 
+- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [oldjs/web-code-agent](https://github.com/oldjs/web-code-agent) - Browser-local AI code Q&A engine. Chat with your codebase, ensure privacy, and optimize LLM collaboration.
 - [luyu0279/Ainee](https://github.com/luyu0279/Ainee) - Ainee: AI Notetaking and Learning Companion – Speed Up Your Learning, Enhance Your Insight Sharing
@@ -506,6 +508,7 @@
 
 ## devops 
 
+- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [merico-dev/OpenMARI](https://github.com/merico-dev/OpenMARI) - The software productivity metrics and Measure-Analyze-Review-Improve framework.
@@ -900,6 +903,10 @@
 - [yenche123/liubai](https://github.com/yenche123/liubai) - Supercharge yourself!
 - [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - Browser-based management platform of machine, database (mysql pgsql oracle sqlserver Gauss sqlite), redis(standalone sentinel cluster), mongo, Es unified management and operation platform. (web版linux(
 
+## monitoring 
+
+- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
+
 ## music 
 
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
@@ -984,6 +991,7 @@
 
 ## openai 
 
+- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
