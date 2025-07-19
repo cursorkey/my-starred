@@ -453,6 +453,7 @@
 
 ## TypeScript 
 
+- [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [AmyangXYZ/PoPo](https://github.com/AmyangXYZ/PoPo) - Pose MMD model with LLM
 - [formulahendry/vscode-code-runner-mcp-server](https://github.com/formulahendry/vscode-code-runner-mcp-server) - Zero setup to use Code Runner MCP Server in VS Code for running code snippet and show the result.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
