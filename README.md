@@ -455,6 +455,7 @@
 
 ## TypeScript 
 
+- [littleCareless/dish-ai-commit](https://github.com/littleCareless/dish-ai-commit) - Vibe Coding!!! 🤖 AI-Powered VSCode extension for generating standardized Git/SVN commit messages. ✨ Supports multiple AI services: OpenAI, ChatGPT, Ollama, Zhipu, DashScope, Doubao, Gemini and VS Code
 - [sky22333/ansible-ui](https://github.com/sky22333/ansible-ui) - 轻量级，简单易用的Ansible Web管理面板，提供批量主机管理、运行剧本任务、命令执行、文件传输和Web终端等功能。
 - [colanode/colanode](https://github.com/colanode/colanode) - Open-source and local-first Slack and Notion alternative that puts you in control of your data
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
