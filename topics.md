@@ -201,7 +201,7 @@
 - [inferablehq/inferable](https://github.com/inferablehq/inferable) - Build reliable AI Workflows and Agents with humans in the loop, structured outputs and durable execution.
 - [guoriyue/AutoMouser](https://github.com/guoriyue/AutoMouser) - AutoMouser automatically generates browser automation code from your mouse movements, capturing every click, drag, and hover to streamline your workflow and build robust, repeatable tests.
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
-- [APIParkLab/APIPark](https://github.com/APIParkLab/APIPark) - 🦄云原生、超高性能 AI&API网关，LLM API 管理、分发系统、开放平台，支持所有AI API，不限于OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 请求和返回，API申请与审批，调用统计、负载均衡、多模型灾备。一键部署，开箱即用。
+- [APIParkLab/APIPark](https://github.com/APIParkLab/APIPark) - Cloud native, ultra-high performance AI&API gateway, LLM API management, distribution system, open platform, supporting all AI APIs.🦄云原生、超高性能 AI&API网关，LLM API 管理、分发系统、开放平台，支持所有AI API，不限于OpenAI、Azure、A
 - [MadcowD/ell](https://github.com/MadcowD/ell) - A language model programming library.
 - [petercat-ai/petercat](https://github.com/petercat-ai/petercat) - A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
@@ -244,7 +244,7 @@
 
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no code web data extraction platform. Instantly turn any website into API or spreadsheet 🔥
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
-- [APIParkLab/APIPark](https://github.com/APIParkLab/APIPark) - 🦄云原生、超高性能 AI&API网关，LLM API 管理、分发系统、开放平台，支持所有AI API，不限于OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 请求和返回，API申请与审批，调用统计、负载均衡、多模型灾备。一键部署，开箱即用。
+- [APIParkLab/APIPark](https://github.com/APIParkLab/APIPark) - Cloud native, ultra-high performance AI&API gateway, LLM API management, distribution system, open platform, supporting all AI APIs.🦄云原生、超高性能 AI&API网关，LLM API 管理、分发系统、开放平台，支持所有AI API，不限于OpenAI、Azure、A
 - [wechat-miniprogram/miniprogram-demo](https://github.com/wechat-miniprogram/miniprogram-demo) - 微信小程序组件 / API / 云开发示例
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
@@ -1043,7 +1043,7 @@
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️Wren AI is your GenBI Agent, that you can query any database with natural language, get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-- [APIParkLab/APIPark](https://github.com/APIParkLab/APIPark) - 🦄云原生、超高性能 AI&API网关，LLM API 管理、分发系统、开放平台，支持所有AI API，不限于OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 请求和返回，API申请与审批，调用统计、负载均衡、多模型灾备。一键部署，开箱即用。
+- [APIParkLab/APIPark](https://github.com/APIParkLab/APIPark) - Cloud native, ultra-high performance AI&API gateway, LLM API management, distribution system, open platform, supporting all AI APIs.🦄云原生、超高性能 AI&API网关，LLM API 管理、分发系统、开放平台，支持所有AI API，不限于OpenAI、Azure、A
 - [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [codeacme17/examor](https://github.com/codeacme17/examor) - For students, scholars, interviewees and lifelong learners. Let LLMs assist you in learning 🎓
@@ -1083,7 +1083,7 @@
 - [davidlunadeleon/Sudoku](https://github.com/davidlunadeleon/Sudoku) - A Sudoku game created using Godot Game Engine
 - [otk-final/openapi-codegen](https://github.com/otk-final/openapi-codegen) - openapi（swagger）代码生成器
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
-- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
+- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
