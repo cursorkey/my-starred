@@ -392,6 +392,7 @@
 - [TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，同时支持语音识别转录、语音合成、字幕翻译。
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [devchat-ai/devchat](https://github.com/devchat-ai/devchat) - AI workflows generated with natural language
@@ -484,7 +485,7 @@
 - [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
-- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
+- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring n
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
@@ -516,7 +517,7 @@
 - [idootop/MagicMirror](https://github.com/idootop/MagicMirror) - 🪞 Instant AI Face Swap 一键 AI 换脸，发现更美的你
 - [b310-digital/teammapper](https://github.com/b310-digital/teammapper) - Mindmapping made simple: Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate on mindmaps.
 - [Nutlope/picMenu](https://github.com/Nutlope/picMenu) - Visualize menus in seconds with AI
-- [APIParkLab/APIPark](https://github.com/APIParkLab/APIPark) - 🦄云原生、超高性能 AI&API网关，LLM API 管理、分发系统、开放平台，支持所有AI API，不限于OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 请求和返回，API申请与审批，调用统计、负载均衡、多模型灾备。一键部署，开箱即用。
+- [APIParkLab/APIPark](https://github.com/APIParkLab/APIPark) - Cloud native, ultra-high performance AI&API gateway, LLM API management, distribution system, open platform, supporting all AI APIs.🦄云原生、超高性能 AI&API网关，LLM API 管理、分发系统、开放平台，支持所有AI API，不限于OpenAI、Azure、A
 - [Gijela/CR-Mentor](https://github.com/Gijela/CR-Mentor) - Knowledge Base + LLM Powered Code Review Mentor。知识库 + LLM 驱动的 Code Review 导师
 - [MrXujiang/flowmix-flow](https://github.com/MrXujiang/flowmix-flow) - 一款基于react-flow的工作流编辑器
 - [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Sc
@@ -541,7 +542,6 @@
 - [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) - 
 - [codeacme17/examor](https://github.com/codeacme17/examor) - For students, scholars, interviewees and lifelong learners. Let LLMs assist you in learning 🎓
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [mefengl/vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - Yet another AI git commit plugin, but without the need for manual confirmation.
