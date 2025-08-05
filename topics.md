@@ -1071,6 +1071,7 @@
 
 ## others 
 
+- [MaskerPRC/text-vision-plan](https://github.com/MaskerPRC/text-vision-plan) - 
 - [ranuts/document](https://github.com/ranuts/document) - Perform common file preview and editing via the web.
 - [o8oo8o/WebCurl](https://github.com/o8oo8o/WebCurl) - 极简网页版API调试神器
 - [formulahendry/vscode-code-runner-mcp-server](https://github.com/formulahendry/vscode-code-runner-mcp-server) - Zero setup to use Code Runner MCP Server in VS Code for running code snippet and show the result.
