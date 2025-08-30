@@ -448,6 +448,7 @@
 
 ## Rust 
 
+- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - A markdown editor, which is lighter, smarter and purer. 一个 Markdown 编辑器，但是更轻快、更智能、更纯粹。
 - [luminal-ai/luminal](https://github.com/luminal-ai/luminal) - Deep learning at the speed of light.
 - [rslint/rslint](https://github.com/rslint/rslint) - A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate
 - [idootop/open-xiaoai](https://github.com/idootop/open-xiaoai) - 让小爱音箱「听见你的声音」，解锁无限可能。
