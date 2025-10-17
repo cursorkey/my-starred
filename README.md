@@ -491,6 +491,7 @@
 
 ## TypeScript 
 
+- [ResearAI/ResearStudio](https://github.com/ResearAI/ResearStudio) - Open-source framework for building human-intervenable deep research agents with real-time collaboration between humans and AI. Features multi-agent architecture, comprehensive tool suite, and web-base
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
 - [syncwavedev/syncwave](https://github.com/syncwavedev/syncwave) - Kanban board that helps you build software people love.
