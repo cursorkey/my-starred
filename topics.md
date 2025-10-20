@@ -1162,6 +1162,7 @@
 
 ## others 
 
+- [est/def.est.im](https://github.com/est/def.est.im) - a new kind of dictionary
 - [ResearAI/ResearStudio](https://github.com/ResearAI/ResearStudio) - Open-source framework for building human-intervenable deep research agents with real-time collaboration between humans and AI. Features multi-agent architecture, comprehensive tool suite, and web-base
 - [luzhenhua/NCE-Flow](https://github.com/luzhenhua/NCE-Flow) - 新概念英语在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。
 - [G33kDude/Chrome.ahk](https://github.com/G33kDude/Chrome.ahk) - Automate Google Chrome using native AutoHotkey
