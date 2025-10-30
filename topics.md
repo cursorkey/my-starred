@@ -1190,7 +1190,7 @@
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [zdz72113/DayHot](https://github.com/zdz72113/DayHot) - 每日技术和产品热点
 - [asr-pub/index-tts-lora](https://github.com/asr-pub/index-tts-lora) - High-quality speech synthesis with LoRA fine-tuning on index-tts, enhancing prosody and naturalness for single and multi-speaker voices.
-- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time & local speech-to-text server.
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Simultaneous speech-to-text server.
 - [syncwavedev/syncwave](https://github.com/syncwavedev/syncwave) - Kanban board that helps you build software people love.
 - [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
@@ -1322,7 +1322,7 @@
 - [MooreThreads/Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone) - Character Animation (AnimateAnyone, Face Reenactment)
 - [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
-- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [pfinal-nc/wails_pf](https://github.com/pfinal-nc/wails_pf) - 基于 go wails 写的桌面小程序
 - [Hanzoe/Pet-GPT](https://github.com/Hanzoe/Pet-GPT) - Pet-GPT 是一个使用 PyQt 编写的桌面宠物程序，支持调用 OpenAI 的 GPT 进行上下文对话，然后主动找你聊天！
