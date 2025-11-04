@@ -111,6 +111,7 @@
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
 - [nestjs](#nestjs)
+- [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
 - [no-code](#no-code)
@@ -456,7 +457,7 @@
 
 ## cms 
 
-- [modstart/ModStartCMS](https://github.com/modstart/ModStartCMS) - 模块化内容管理系统
+- [modstart/ModStartCMS](https://github.com/modstart/ModStartCMS) - 基于Laravel的模块化CMS系统，模块市场丰富
 
 ## code 
 
@@ -564,6 +565,7 @@
 
 ## deep-learning 
 
+- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [dmMaze/BallonsTranslator](https://github.com/dmMaze/BallonsTranslator) - 深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑 | Yet another computer-aided comic/manga translation tool powered by deeplearning
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
@@ -802,6 +804,7 @@
 
 ## image-processing 
 
+- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
 
 ## ios 
@@ -900,7 +903,7 @@
 
 ## laravel 
 
-- [modstart/ModStartCMS](https://github.com/modstart/ModStartCMS) - 模块化内容管理系统
+- [modstart/ModStartCMS](https://github.com/modstart/ModStartCMS) - 基于Laravel的模块化CMS系统，模块市场丰富
 - [WINBIGFOX/TimeScribe](https://github.com/WINBIGFOX/TimeScribe) - This repository offers a modern, flexible time tracking app for capturing and managing personal working hours. It operates offline, requires no sign-up, and is free and open source—ideal for anyone lo
 
 ## latex 
@@ -1066,6 +1069,10 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [b310-digital/teammapper](https://github.com/b310-digital/teammapper) - Mindmapping made simple: Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate on mindmaps.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
+
+## neural-network 
+
+- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
 
 ## nextjs 
 
