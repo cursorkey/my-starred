@@ -335,7 +335,7 @@
 ## PHP 
 
 - [dtyq/magic](https://github.com/dtyq/magic) - Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
-- [modstart/ModStartCMS](https://github.com/modstart/ModStartCMS) - 模块化内容管理系统
+- [modstart/ModStartCMS](https://github.com/modstart/ModStartCMS) - 基于Laravel的模块化CMS系统，模块市场丰富
 - [WINBIGFOX/TimeScribe](https://github.com/WINBIGFOX/TimeScribe) - This repository offers a modern, flexible time tracking app for capturing and managing personal working hours. It operates offline, requires no sign-up, and is free and open source—ideal for anyone lo
 - [aalphaa/wookteam](https://github.com/aalphaa/wookteam) - WookTeam是一款轻量级的在线团队协作工具，提供各类文档工具、在线思维导图、在线流程图、项目管理、任务分发，知识库管理等工具。
 
@@ -345,6 +345,7 @@
 
 ## Python 
 
+- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
 - [adobe-research/EditVerse](https://github.com/adobe-research/EditVerse) - Official repo for paper "EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning"
 - [zdz72113/DayHot](https://github.com/zdz72113/DayHot) - 每日技术和产品热点
 - [Neverdecel/CodeRAG](https://github.com/Neverdecel/CodeRAG) - CodeRAG is an AI-powered tool for real-time codebase querying and augmentation using OpenAI and vector search.
