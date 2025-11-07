@@ -20,7 +20,6 @@
 - [azure](#azure)
 - [backend](#backend)
 - [bash](#bash)
-- [blockchain](#blockchain)
 - [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
@@ -349,10 +348,6 @@
 
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
-
-## blockchain 
-
-- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
 
 ## bot 
 
