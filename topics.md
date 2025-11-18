@@ -126,6 +126,7 @@
 - [osint](#osint)
 - [others](#others)
 - [parsing](#parsing)
+- [penetration-testing](#penetration-testing)
 - [phaser](#phaser)
 - [php](#php)
 - [postgresql](#postgresql)
@@ -190,6 +191,7 @@
 
 ## ai 
 
+- [halo-dev/upage](https://github.com/halo-dev/upage) - 🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。
 - [ispuppy/ai-vue-i18n](https://github.com/ispuppy/ai-vue-i18n) - 基于AI的Vue项目自动化国际化工具，能够智能提取代码中的中文内容并生成多语言配置文件，简化Vue项目的i18n开发流程"
 - [lintsinghua/XCodeReviewer](https://github.com/lintsinghua/XCodeReviewer) - XCodeReviewer 是一款基于大语言模型（LLM）的智能审计工具，支持 GPT、Claude、Gemini、通义千问、DeepSeek、Ollama 等十余主流 AI 模型。它能够自动检测代码中的安全漏洞、性能问题和代码异味，显著提升代码质量与安全性。XCodeReviewer 支持 GitHub/GitLab 集成，可无缝嵌入 CI/CD 流程，实现自动化代码审查与持续安全保障，同时兼容
 - [trendy-design/llmchat](https://github.com/trendy-design/llmchat) - Unified interface for AI chat, Agentic workflows and more ...
@@ -248,6 +250,7 @@
 
 ## ai-agents 
 
+- [halo-dev/upage](https://github.com/halo-dev/upage) - 🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
@@ -294,6 +297,7 @@
 
 ## artificial-intelligence 
 
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
 - [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
@@ -520,6 +524,7 @@
 
 ## cybersecurity 
 
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 
@@ -670,7 +675,7 @@
 
 ## english 
 
-- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+- [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [nailperry-zd/The-Economist](https://github.com/nailperry-zd/The-Economist) - The Economist 经济学人，持续更新
 
@@ -912,7 +917,7 @@
 
 ## latex 
 
-- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+- [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 
 ## learning 
 
@@ -935,6 +940,8 @@
 
 ## llm 
 
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
+- [halo-dev/upage](https://github.com/halo-dev/upage) - 🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。
 - [lintsinghua/XCodeReviewer](https://github.com/lintsinghua/XCodeReviewer) - XCodeReviewer 是一款基于大语言模型（LLM）的智能审计工具，支持 GPT、Claude、Gemini、通义千问、DeepSeek、Ollama 等十余主流 AI 模型。它能够自动检测代码中的安全漏洞、性能问题和代码异味，显著提升代码质量与安全性。XCodeReviewer 支持 GitHub/GitLab 集成，可无缝嵌入 CI/CD 流程，实现自动化代码审查与持续安全保障，同时兼容
 - [trendy-design/llmchat](https://github.com/trendy-design/llmchat) - Unified interface for AI chat, Agentic workflows and more ...
 - [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
@@ -1134,7 +1141,7 @@
 ## obsidian 
 
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+- [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 
 ## open-source 
 
@@ -1169,7 +1176,7 @@
 - [alecm20/story-flicks](https://github.com/alecm20/story-flicks) - 使用AI大模型，一键生成高清故事短视频。Generate high-definition story short videos with one click using AI large models.
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+- [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 - [APIParkLab/APIPark](https://github.com/APIParkLab/APIPark) - Cloud native, ultra-high performance AI&API gateway, LLM API management, distribution system, open platform, supporting all AI APIs.🦄云原生、超高性能 AI&API网关，LLM API 管理、分发系统、开放平台，支持所有AI API，不限于OpenAI、Azure、A
 - [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -1193,6 +1200,7 @@
 
 ## others 
 
+- [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
 - [1Panel-dev/CordysCRM](https://github.com/1Panel-dev/CordysCRM) - 🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce.
 - [glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer) - AI chat assistant for Obsidian with contextual awareness, smart writing assistance, and one-click edits. Features vault-aware conversations, semantic search, and local model support.
 - [justlovemaki/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily) - AI资讯日报 是一个基于 Cloudflare Workers 驱动的内容聚合与生成平台。它每日为您精选 AI 领域的最新动态，包括行业新闻、热门开源项目、前沿学术论文、科技大V社交媒体言论，并通过 Google Gemini 模型进行智能处理与摘要生成，最终自动发布到 GitHub Pages 生成 AI 日报。
@@ -1440,6 +1448,10 @@
 
 - [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Unified framework for building enterprise RAG pipelines with small, specialized models
 
+## penetration-testing 
+
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
+
 ## phaser 
 
 - [channingbreeze/games](https://github.com/channingbreeze/games) - 一个基于Phaser的小游戏集合
@@ -1513,7 +1525,7 @@
 - [PySpur-Dev/pyspur](https://github.com/PySpur-Dev/pyspur) - A visual playground for agentic workflows: Iterate over your agents 10x faster
 - [alecm20/story-flicks](https://github.com/alecm20/story-flicks) - 使用AI大模型，一键生成高清故事短视频。Generate high-definition story short videos with one click using AI large models.
 - [treeleaves30760/Markdown_PPT_Converter](https://github.com/treeleaves30760/Markdown_PPT_Converter) - Help you create ppt by LLM generated Markdown
-- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+- [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 - [lich0821/BotFlow](https://github.com/lich0821/BotFlow) - 机器人框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要、定时任务。
 - [mizhexiaoxiao/vue-fastapi-admin](https://github.com/mizhexiaoxiao/vue-fastapi-admin) - ⭐️ 基于 FastAPI+Vue3+Naive UI 的现代化轻量管理平台 A modern and lightweight management platform based on FastAPI, Vue3, and Naive UI.
 - [raznem/parsera](https://github.com/raznem/parsera) - Lightweight library for scraping web-sites with LLMs
