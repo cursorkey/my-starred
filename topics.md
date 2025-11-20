@@ -10,7 +10,6 @@
 - [algorithm](#algorithm)
 - [analytics](#analytics)
 - [android](#android)
-- [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
@@ -274,10 +273,6 @@
 - [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [Orange-shirt/OrangeJs](https://github.com/Orange-shirt/OrangeJs) - 使用Auto.js软件制作的脚本合辑
-
-## angular 
-
-- [erupts/erupt](https://github.com/erupts/erupt) - ✨ Erupt Engine: Annotation-Driven Low-Code + AI Base Framework. Build Enterprise Apps Fast & Efficiently.
 
 ## ansible 
 
@@ -1202,6 +1197,7 @@
 
 ## others 
 
+- [huangcs427/enjoy-git-release](https://github.com/huangcs427/enjoy-git-release) - 一款现代化的Git客户端工具，拥有直观的用户界面，采用Electron、Vue3和TypeScript构建。
 - [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
 - [1Panel-dev/CordysCRM](https://github.com/1Panel-dev/CordysCRM) - 🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce.
 - [glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer) - AI chat assistant for Obsidian with contextual awareness, smart writing assistance, and one-click edits. Features vault-aware conversations, semantic search, and local model support.
@@ -1703,12 +1699,12 @@
 ## spring-boot 
 
 - [qiutiandefeng/yfexam-exam](https://github.com/qiutiandefeng/yfexam-exam) - 在线考试系统/企业培训软件考试系统
+- [erupts/erupt](https://github.com/erupts/erupt) - ✨ Erupt Engine: Annotation-Driven Low-Code + AI Base Framework. Build Enterprise Apps Fast & Efficiently.
 
 ## springboot 
 
 - [TheCoolQATeam/online-inspection-tracker](https://github.com/TheCoolQATeam/online-inspection-tracker) - 线上UI自动化巡检系统
 - [orange-form/orange-admin](https://github.com/orange-form/orange-admin) - 橙单中台化低代码生成器。可完整支持多应用、多租户、多渠道、工作流 (Flowable & Activiti)、在线表单、自定义数据同步、自定义Job、多表关联、跨服务多表关联、框架技术栈自由组合等。
-- [erupts/erupt](https://github.com/erupts/erupt) - ✨ Erupt Engine: Annotation-Driven Low-Code + AI Base Framework. Build Enterprise Apps Fast & Efficiently.
 
 ## sql 
 
