@@ -108,6 +108,7 @@
 
 ## Go 
 
+- [overflowy/bash-script-tools](https://github.com/overflowy/bash-script-tools) - A web-based bash script formatter and linter with AI-powered autofix.
 - [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generat
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
 - [keploy/keploy](https://github.com/keploy/keploy) - API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
@@ -507,13 +508,15 @@
 
 ## TypeScript 
 
+- [MichaelMilstead/ai-guitar-tutor](https://github.com/MichaelMilstead/ai-guitar-tutor) - AI app to learn guitar, using Tambo for generative UI
+- [behnamazimi/ohnicerepo](https://github.com/behnamazimi/ohnicerepo) - Search & Discover Nice GitHub Repositories
 - [djinilabs/timeclout](https://github.com/djinilabs/timeclout) - 
 - [ahpxex/Aictionary](https://github.com/ahpxex/Aictionary) - 一个桌面词典：快速、简洁，并且真的让你学会英语
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 - [halo-dev/upage](https://github.com/halo-dev/upage) - 🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。
 - [glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer) - AI chat assistant for Obsidian with contextual awareness, smart writing assistance, and one-click edits. Features vault-aware conversations, semantic search, and local model support.
 - [ispuppy/ai-vue-i18n](https://github.com/ispuppy/ai-vue-i18n) - 基于AI的Vue项目自动化国际化工具，能够智能提取代码中的中文内容并生成多语言配置文件，简化Vue项目的i18n开发流程"
-- [lintsinghua/XCodeReviewer](https://github.com/lintsinghua/XCodeReviewer) - XCodeReviewer 是一款基于大语言模型（LLM）的智能审计工具，支持 GPT、Claude、Gemini、通义千问、DeepSeek、Ollama 等十余主流 AI 模型。它能够自动检测代码中的安全漏洞、性能问题和代码异味，显著提升代码质量与安全性。XCodeReviewer 支持 GitHub/GitLab 集成，可无缝嵌入 CI/CD 流程，实现自动化代码审查与持续安全保障，同时兼容
+- [lintsinghua/XCodeReviewer](https://github.com/lintsinghua/XCodeReviewer) - 基于LLM的智能代码审计工具
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [trendy-design/llmchat](https://github.com/trendy-design/llmchat) - Unified interface for AI chat, Agentic workflows and more ...
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
