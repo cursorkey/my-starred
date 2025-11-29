@@ -508,6 +508,7 @@
 
 ## TypeScript 
 
+- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 500+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 - [MichaelMilstead/ai-guitar-tutor](https://github.com/MichaelMilstead/ai-guitar-tutor) - AI app to learn guitar, using Tambo for generative UI
 - [behnamazimi/ohnicerepo](https://github.com/behnamazimi/ohnicerepo) - Search & Discover Nice GitHub Repositories
 - [djinilabs/timeclout](https://github.com/djinilabs/timeclout) - 
