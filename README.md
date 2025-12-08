@@ -492,11 +492,11 @@
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - Open-source Rust based AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
-- [mayuso/PNGToSVG](https://github.com/mayuso/PNGToSVG) - Convert your PNG files to SVG.
+- [mayuso/PNGToSVG](https://github.com/mayuso/PNGToSVG) - A CLI tool and library to convert PNG images into SVG vectors.
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 
 ## Shell 
 
@@ -574,7 +574,7 @@
 - [jakekwak/vditor](https://github.com/jakekwak/vditor) - 
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean, contextualized data pipelines for your workflows
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website to data pipelines, APIs & spreadsheets in minutes!
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - The local-first agent OS
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
@@ -633,7 +633,7 @@
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [ondras/my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
 - [opensumi/codeblitz](https://github.com/opensumi/codeblitz) - Pure front-end IDE framework based on OpenSumi
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) - 
 - [codeacme17/examor](https://github.com/codeacme17/examor) - For students, scholars, interviewees and lifelong learners. Let LLMs assist you in learning 🎓
@@ -643,7 +643,7 @@
 - [mefengl/vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - Yet another AI git commit plugin, but without the need for manual confirmation.
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [running-elephant/datart](https://github.com/running-elephant/datart) - Datart is a next generation Data Visualization Open Platform
-- [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
+- [lcomplete/huntly](https://github.com/lcomplete/huntly) - Your Personal AI-Powered Information Hub
 - [shadowings-zy/mini-editor](https://github.com/shadowings-zy/mini-editor) - 一个最简单的低代码编辑器
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [sparrow-js/sparrow](https://github.com/sparrow-js/sparrow) - 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码
