@@ -229,7 +229,7 @@
 - [MichaelMilstead/ai-guitar-tutor](https://github.com/MichaelMilstead/ai-guitar-tutor) - AI app to learn guitar, using Tambo for generative UI
 - [halo-dev/upage](https://github.com/halo-dev/upage) - 🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。
 - [ispuppy/ai-vue-i18n](https://github.com/ispuppy/ai-vue-i18n) - 基于AI的Vue项目自动化国际化工具，能够智能提取代码中的中文内容并生成多语言配置文件，简化Vue项目的i18n开发流程"
-- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - 开源的代码审计平台 - 支持项目级/文件级/片段级审计，支持 10+ LLM、自定义规则集（内置OWASP Top 10 规则集）、自定义提示词模板、可解释分析、PDF 报告导出。支持ollama私有部署模型，代码可不出内网。
+- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：开源的代码审计智能体平台 - 支持项目级/文件级/片段级审计，通过多个智能体的自主协作，实现对代码的深度理解、漏洞挖掘和自动化沙箱 PoC 验证。支持 10+ LLM、自定义规则集（内置OWASP Top 10 规则集）、自定义提示词模板、可解释分析、PDF 报告导出。支持ollama私有部署模型，代码可不出内网。
 - [trendy-design/llmchat](https://github.com/trendy-design/llmchat) - Unified interface for AI chat, Agentic workflows and more ...
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [Neverdecel/CodeRAG](https://github.com/Neverdecel/CodeRAG) - CodeRAG is an AI-powered tool for real-time codebase querying and augmentation using OpenAI and vector search.
@@ -514,12 +514,12 @@
 
 ## code-quality 
 
-- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - 开源的代码审计平台 - 支持项目级/文件级/片段级审计，支持 10+ LLM、自定义规则集（内置OWASP Top 10 规则集）、自定义提示词模板、可解释分析、PDF 报告导出。支持ollama私有部署模型，代码可不出内网。
+- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：开源的代码审计智能体平台 - 支持项目级/文件级/片段级审计，通过多个智能体的自主协作，实现对代码的深度理解、漏洞挖掘和自动化沙箱 PoC 验证。支持 10+ LLM、自定义规则集（内置OWASP Top 10 规则集）、自定义提示词模板、可解释分析、PDF 报告导出。支持ollama私有部署模型，代码可不出内网。
 - [keploy/keploy](https://github.com/keploy/keploy) - API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
 
 ## code-review 
 
-- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - 开源的代码审计平台 - 支持项目级/文件级/片段级审计，支持 10+ LLM、自定义规则集（内置OWASP Top 10 规则集）、自定义提示词模板、可解释分析、PDF 报告导出。支持ollama私有部署模型，代码可不出内网。
+- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：开源的代码审计智能体平台 - 支持项目级/文件级/片段级审计，通过多个智能体的自主协作，实现对代码的深度理解、漏洞挖掘和自动化沙箱 PoC 验证。支持 10+ LLM、自定义规则集（内置OWASP Top 10 规则集）、自定义提示词模板、可解释分析、PDF 报告导出。支持ollama私有部署模型，代码可不出内网。
 
 ## coding 
 
@@ -648,7 +648,7 @@
 
 ## developer-tools 
 
-- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - 开源的代码审计平台 - 支持项目级/文件级/片段级审计，支持 10+ LLM、自定义规则集（内置OWASP Top 10 规则集）、自定义提示词模板、可解释分析、PDF 报告导出。支持ollama私有部署模型，代码可不出内网。
+- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：开源的代码审计智能体平台 - 支持项目级/文件级/片段级审计，通过多个智能体的自主协作，实现对代码的深度理解、漏洞挖掘和自动化沙箱 PoC 验证。支持 10+ LLM、自定义规则集（内置OWASP Top 10 规则集）、自定义提示词模板、可解释分析、PDF 报告导出。支持ollama私有部署模型，代码可不出内网。
 - [oldjs/web-code-agent](https://github.com/oldjs/web-code-agent) - Browser-local AI code Q&A engine. Chat with your codebase, ensure privacy, and optimize LLM collaboration.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -1016,7 +1016,7 @@
 
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
 - [halo-dev/upage](https://github.com/halo-dev/upage) - 🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。
-- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - 开源的代码审计平台 - 支持项目级/文件级/片段级审计，支持 10+ LLM、自定义规则集（内置OWASP Top 10 规则集）、自定义提示词模板、可解释分析、PDF 报告导出。支持ollama私有部署模型，代码可不出内网。
+- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：开源的代码审计智能体平台 - 支持项目级/文件级/片段级审计，通过多个智能体的自主协作，实现对代码的深度理解、漏洞挖掘和自动化沙箱 PoC 验证。支持 10+ LLM、自定义规则集（内置OWASP Top 10 规则集）、自定义提示词模板、可解释分析、PDF 报告导出。支持ollama私有部署模型，代码可不出内网。
 - [trendy-design/llmchat](https://github.com/trendy-design/llmchat) - Unified interface for AI chat, Agentic workflows and more ...
 - [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
 - [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
@@ -1701,7 +1701,7 @@
 
 - [blueberrycongee/Lumina-Note](https://github.com/blueberrycongee/Lumina-Note) - Lumina Note - A modern Markdown note-taking app with live preview, bidirectional links, and AI assistant
 - [xckevin/magic-english-buddy](https://github.com/xckevin/magic-english-buddy) - 专为儿童设计的 AI 英语阅读学习助手
-- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - 开源的代码审计平台 - 支持项目级/文件级/片段级审计，支持 10+ LLM、自定义规则集（内置OWASP Top 10 规则集）、自定义提示词模板、可解释分析、PDF 报告导出。支持ollama私有部署模型，代码可不出内网。
+- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：开源的代码审计智能体平台 - 支持项目级/文件级/片段级审计，通过多个智能体的自主协作，实现对代码的深度理解、漏洞挖掘和自动化沙箱 PoC 验证。支持 10+ LLM、自定义规则集（内置OWASP Top 10 规则集）、自定义提示词模板、可解释分析、PDF 报告导出。支持ollama私有部署模型，代码可不出内网。
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
@@ -1925,7 +1925,7 @@
 - [blueberrycongee/Lumina-Note](https://github.com/blueberrycongee/Lumina-Note) - Lumina Note - A modern Markdown note-taking app with live preview, bidirectional links, and AI assistant
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
-- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - 开源的代码审计平台 - 支持项目级/文件级/片段级审计，支持 10+ LLM、自定义规则集（内置OWASP Top 10 规则集）、自定义提示词模板、可解释分析、PDF 报告导出。支持ollama私有部署模型，代码可不出内网。
+- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：开源的代码审计智能体平台 - 支持项目级/文件级/片段级审计，通过多个智能体的自主协作，实现对代码的深度理解、漏洞挖掘和自动化沙箱 PoC 验证。支持 10+ LLM、自定义规则集（内置OWASP Top 10 规则集）、自定义提示词模板、可解释分析、PDF 报告导出。支持ollama私有部署模型，代码可不出内网。
 - [trendy-design/llmchat](https://github.com/trendy-design/llmchat) - Unified interface for AI chat, Agentic workflows and more ...
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 - [Nikita-Filonov/ui-coverage-tool-js](https://github.com/Nikita-Filonov/ui-coverage-tool-js) - About UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
