@@ -29,6 +29,7 @@
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [Scala](#scala)
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
@@ -108,6 +109,7 @@
 
 ## Go 
 
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [overflowy/bash-script-tools](https://github.com/overflowy/bash-script-tools) - A web-based bash script formatter and linter with AI-powered autofix.
 - [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generat
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
@@ -169,7 +171,7 @@
 - [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
 - [mikemelon/java-exam](https://github.com/mikemelon/java-exam) - Java实现的包含题库编辑、抽题组卷、试题分析、在线考试等模块的Web考试系统。
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [qiutiandefeng/yfexam-exam](https://github.com/qiutiandefeng/yfexam-exam) - 在线考试系统/企业培训软件考试系统
 - [PlayEdu/PlayEdu](https://github.com/PlayEdu/PlayEdu) - 100%开源的企业培训系统，界面美观，操作简单，一键部署您的私有化培训平台！
 - [pfalstad/circuitjs1](https://github.com/pfalstad/circuitjs1) - Electronic Circuit Simulator in the Browser
@@ -360,7 +362,7 @@
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [FSoft-AI4Code/CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki) - Open-source framework for holistic, structured repository-level documentation across multilingual codebases
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
-- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：开源的代码审计智能体平台 - 支持项目级/文件级/片段级审计，通过多个智能体的自主协作，实现对代码的深度理解、漏洞挖掘和自动化沙箱 PoC 验证。支持 10+ LLM、自定义规则集（内置OWASP Top 10 规则集）、自定义提示词模板、可解释分析、PDF 报告导出。支持ollama私有部署模型，代码可不出内网。
+- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。​让安全不再昂贵，让审计不再复杂。
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
 - [adobe-research/EditVerse](https://github.com/adobe-research/EditVerse) - Official repo for paper "EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning"
 - [zdz72113/DayHot](https://github.com/zdz72113/DayHot) - 每日技术和产品热点
@@ -497,12 +499,16 @@
 - [idootop/open-xiaoai](https://github.com/idootop/open-xiaoai) - 🔊 让小爱音箱「听见你的声音」，解锁无限可能。
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - Open-source Rust based AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [mayuso/PNGToSVG](https://github.com/mayuso/PNGToSVG) - A CLI tool and library to convert PNG images into SVG vectors.
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+
+## Scala 
+
+- [chipsalliance/chisel](https://github.com/chipsalliance/chisel) - Chisel: A Modern Hardware Design Language
 
 ## Shell 
 
