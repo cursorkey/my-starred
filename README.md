@@ -388,7 +388,7 @@
 - [PyQt5/PyQt](https://github.com/PyQt5/PyQt) - PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [robbyzhaox/myocr](https://github.com/robbyzhaox/myocr) - A highly extensible and customizable framework for building OCR systems.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent stack that runs in your cloud. Framework, runtime, and control plane.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent toolkit: framework, runtime, and control plane.
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
 - [facebookresearch/ZeroSumEval](https://github.com/facebookresearch/ZeroSumEval) - A framework for pitting LLMs against each other in an evolving library of games ⚔
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
@@ -398,7 +398,7 @@
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
 - [pablorodriper/streamlit-to-exe-demo](https://github.com/pablorodriper/streamlit-to-exe-demo) - Convert a streamlit app from Linux or Windows to an executable for Windows (.exe)
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your 
-- [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。LangChain v1 + Vue + FastAPI。集成主流大模型、LightRAG、MinerU、PP-Structure、Neo4j 、联网检索、工具调用。
+- [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
 - [Rico00121/hugo-translator](https://github.com/Rico00121/hugo-translator) - LLM-driven article translator that automatically translates and creates new [name].[lng].md files
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 - [aitomatic/semikong](https://github.com/aitomatic/semikong) - First Open-Source Industry-Specific Model for Semiconductors
