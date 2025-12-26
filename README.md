@@ -212,7 +212,7 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [Alanrk/LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) - 让书签管理变得轻松愉快！一只可爱的懒猫助手，帮你智能清理和整理浏览器书签。
 - [cgarduno1garduno/SPOT](https://github.com/cgarduno1garduno/SPOT) - Simple Project Organization Tool
-- [guoriyue/AutoMouser](https://github.com/guoriyue/AutoMouser) - AutoMouser automatically generates browser automation code from your mouse movements, capturing every click, drag, and hover to streamline your workflow and build robust, repeatable tests.
+- [InverseUI/InverseUI-Recorder](https://github.com/InverseUI/InverseUI-Recorder) - Intent-based UI automation that runs locally. Record real workflows, generate reusable scripts, and safely use local credentials and files.
 - [ishubin/schemio](https://github.com/ishubin/schemio) - Web based diagramming app that lets you build interactive diagrams and prototypes
 - [AlloyTeam/AlloyImage](https://github.com/AlloyTeam/AlloyImage) - 基于HTML5的专业级图像处理开源引擎。An image processing lib based on html5.
 - [mumuy/gobang](https://github.com/mumuy/gobang) - 五子棋人机对战游戏 - 经典游戏开发样例_Gobang based on HTML5
