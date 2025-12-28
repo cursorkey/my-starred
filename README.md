@@ -34,7 +34,6 @@
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vue](#vue)
-- [XSLT](#xslt)
 
 ## AutoHotkey 
 
@@ -383,6 +382,7 @@
 - [johnson7788/MultiAgentPPT](https://github.com/johnson7788/MultiAgentPPT) - MultiAgentPPT 是一个集成了 A2A（Agent2Agent）+ MCP（Model Context Protocol）+ ADK（Agent Development Kit） 架构的智能化演示文稿生成系统，支持通过多智能体协作和流式并发机制
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
+- [oomol-lab/epub-translator](https://github.com/oomol-lab/epub-translator) - Use LLM to losslessly translate EPUB e-books, retain the original layout, and generate bilingual comparisons.
 - [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent
 - [dmMaze/BallonsTranslator](https://github.com/dmMaze/BallonsTranslator) - 深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑 | Yet another computer-aided comic/manga translation tool powered by deeplearning
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -405,7 +405,7 @@
 - [aitomatic/semikong](https://github.com/aitomatic/semikong) - First Open-Source Industry-Specific Model for Semiconductors
 - [alecm20/story-flicks](https://github.com/alecm20/story-flicks) - 使用AI大模型，一键生成高清故事短视频。Generate high-definition story short videos with one click using AI large models.
 - [jianzongwu/DiffSensei](https://github.com/jianzongwu/DiffSensei) - Implementation of [CVPR 2025] "DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation"
-- [icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent) - PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides [EMNLP 2025]
+- [icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent) - An Autonomous Agentic Framework for Reflective PowerPoint Generation
 - [ohtaman/streamlit-desktop-app](https://github.com/ohtaman/streamlit-desktop-app) - A Python library for converting Streamlit applications into standalone desktop applications using pywebview.
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isola
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - Pioneering Automated GUI Interaction with Native Agents
@@ -706,10 +706,6 @@
 - [favrora/Avatar-Maker](https://github.com/favrora/Avatar-Maker) - Create your own avatar with Vue Avatar Maker app
 - [brenner8023/iKeep](https://github.com/brenner8023/iKeep) - iKeep：基于uni-app和小程序云开发实现的时间投资微信小程序
 - [vform666/variant-form](https://github.com/vform666/variant-form) - A powerful form designer for Vue.
-
-## XSLT 
-
-- [oomol-lab/epub-translator](https://github.com/oomol-lab/epub-translator) - Use LLM to losslessly translate EPUB e-books, retain the original layout, and generate bilingual comparisons.
 
 
 ## License
