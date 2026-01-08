@@ -21,6 +21,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
@@ -301,7 +302,11 @@
 
 ## Kotlin 
 
-- [phodal/auto-dev](https://github.com/phodal/auto-dev) - 🧙‍AutoDev: The AI-powered coding wizard（AI  驱动编程助手）agent,  One Platform. All Phases. Every Device.
+- [phodal/auto-dev](https://github.com/phodal/auto-dev) - 🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC.
+
+## MDX 
+
+- [nicejade/gpt-wordbook](https://github.com/nicejade/gpt-wordbook) - 智析单词书（GPT-Wordbook）是由 AI 赋能的智能英语词汇学习平台，通过 GPT 模型自动生成深度词汇解析内容，帮助学习者从词义、例句、词根词缀、文化背景到助记技巧全面理解单词，而不是简单记忆。项目以 Astro 静态网站 + GPT 内容生成 为核心架构，兼顾性能、可扩展性，是英语学习者、考试备考者和教育者的利器。 https://word.lovejade.cn .
 
 ## Makefile 
 
@@ -393,7 +398,7 @@
 - [PyQt5/PyQt](https://github.com/PyQt5/PyQt) - PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [robbyzhaox/myocr](https://github.com/robbyzhaox/myocr) - A highly extensible and customizable framework for building OCR systems.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Agents: framework, runtime and control plane.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Engineers: framework, runtime and control plane.
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
 - [facebookresearch/ZeroSumEval](https://github.com/facebookresearch/ZeroSumEval) - A framework for pitting LLMs against each other in an evolving library of games ⚔
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
@@ -621,7 +626,7 @@
 - [miantiao-me/hacker-podcast](https://github.com/miantiao-me/hacker-podcast) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 - [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [PySpur-Dev/pyspur](https://github.com/PySpur-Dev/pyspur) - A visual playground for agentic workflows: Iterate over your agents 10x faster
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [we0-dev/we0](https://github.com/we0-dev/we0) - we0 is an AI code editor for development programmers and product managers. same v0, bolt.new,lovable
 - [yenche123/liubai](https://github.com/yenche123/liubai) - Supercharge yourself!
