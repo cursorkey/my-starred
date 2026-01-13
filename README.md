@@ -318,7 +318,6 @@
 - [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) - 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI im
 - [huangcs427/enjoy-git-release](https://github.com/huangcs427/enjoy-git-release) - A modern Git client tool with an intuitive user interface, built with Electron, Vue3, and TypeScript.
 - [ResearAI/DeepScientist](https://github.com/ResearAI/DeepScientist) - Now, Stronger AI Pushes Frontiers, Stronger Our Shared Future.
-- [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) - 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
 - [cunyu1943/weekly](https://github.com/cunyu1943/weekly) - 村雨遥的好物周刊，记录每周看到的有价值的信息，主要针对计算机领域（软件、资源、插件、项目、网站），每周五发布。
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [zalando/tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
@@ -381,6 +380,7 @@
 - [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。 AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Docker 一键部署，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。⭐
+- [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) - 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
 - [YILING0013/AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator) - 使用ai生成多章节的长篇小说，自动衔接上下文、伏笔
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 - [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
@@ -396,7 +396,7 @@
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [jihe520/Agentic-Desktop-Pet](https://github.com/jihe520/Agentic-Desktop-Pet) - 🤖👾🐶 下一代 Agentic 桌宠 = LLM + 记忆 + 情感 + RPG + Claude Code Next Gen Agentic Desktop Pet = LLM + Memory + Emotion + RPG + Claude Code
 - [robbyzhaox/myocr](https://github.com/robbyzhaox/myocr) - A highly extensible and customizable framework for building OCR systems.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Engineers: framework, runtime and control plane.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The comple stack for Agent Engineering: framework, runtime and control plane.
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
 - [facebookresearch/ZeroSumEval](https://github.com/facebookresearch/ZeroSumEval) - A framework for pitting LLMs against each other in an evolving library of games ⚔
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
@@ -544,7 +544,7 @@
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [talkcody/talkcody](https://github.com/talkcody/talkcody) - TalkCody - Code is cheap, show me your talk.  🚀 Free Open Source AI Coding Agent.
 - [ECuiDev/obsidian-quiz-generator](https://github.com/ECuiDev/obsidian-quiz-generator) - Generate interactive flashcards from your notes using models from OpenAI (ChatGPT), Google (Gemini), Ollama (local LLMs), and more. Or manually create your own to use with the quiz UI.
-- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
+- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 4000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 - [MichaelMilstead/ai-guitar-tutor](https://github.com/MichaelMilstead/ai-guitar-tutor) - AI app to learn guitar, using Tambo for generative UI
 - [behnamazimi/ohnicerepo](https://github.com/behnamazimi/ohnicerepo) - Search & Discover Nice GitHub Repositories - Github Trending Repos
 - [djinilabs/timeclout](https://github.com/djinilabs/timeclout) - 
