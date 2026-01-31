@@ -116,7 +116,7 @@
 - [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [nguyenvanduocit/jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) - A Go-based MCP (Model Control Protocol) connector for Jira that enables AI assistants like Claude to interact with Atlassian Jira. This tool provides a seamless interface for AI models to perform comm
-- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
+- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [拯救你的颈椎 - 数字健康工具：https://forcebreak.zenfeed.xyz]
 - [otk-final/openapi-codegen](https://github.com/otk-final/openapi-codegen) - openapi（swagger）代码生成器
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 - [Ray-D-Song/goread](https://github.com/Ray-D-Song/goread) - cli epub reader written in Go
@@ -186,7 +186,7 @@
 - [SeanWong17/Mammalia-tree](https://github.com/SeanWong17/Mammalia-tree) - 一个沉浸式的 3D/2D 网页可视化项目，探索哺乳动物 2 亿年的演化史诗。
 - [SeanWong17/building-sunlight-simulator](https://github.com/SeanWong17/building-sunlight-simulator) - 一套轻量级、纯前端的楼盘规划与采光模拟工具链，支持从规划图标注到 3D 阴影可视化的完整工作流。
 - [WtecHtec/snapwrite](https://github.com/WtecHtec/snapwrite) - 专注微信公众号的 AI 自动排版工具。一键将文本转化为精美移动端布局，支持实时手机预览与富文本一键复制。
-- [qazzxxx/cloudimgs](https://github.com/qazzxxx/cloudimgs) - 云图 - 极简风格的云图库，无数据库图床项目，支持NAS部署，支持设置密钥，支持各种灵活的API开放接口，NAS图床，PicGo插件直接安装使用
+- [qazzxxx/cloudimgs](https://github.com/qazzxxx/cloudimgs) - 云图 - 极简风格的云图库，支持NAS部署，支持设置密钥，支持各种灵活的API开放接口，NAS图床，PicGo插件直接安装使用
 - [hubenchang0515/shift](https://github.com/hubenchang0515/shift) - WebAssembly runtime for Python, Lua, Ruby and etc.
 - [fouber/lottery](https://github.com/fouber/lottery) - 年会抽奖程序
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -544,10 +544,11 @@
 
 ## TypeScript 
 
+- [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [twwch/DeepDiagram](https://github.com/twwch/DeepDiagram) - An open-source AI visualization tool that transforms natural language into Mind Maps, Mermaid diagrams, and Echarts. Turn your ideas into structured visuals instantly.
 - [baotlake/office-website](https://github.com/baotlake/office-website) - Serverless Office: Edit Word, Excel, and PowerPoint entirely in-browser via WebAssembly. 100% Client-side, No Backend, Maximum Privacy. 纯浏览器版 Office 套件： 基于 WebAssembly 技术，支持 Word、Excel、PPT 及 PDF 编辑。数据
 - [zhashut/goread](https://github.com/zhashut/goread) - GoRead is a lightweight reader application designed specifically for local e‑book reading.
-- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [hkxiaoyao/ai-draw-nexus](https://github.com/hkxiaoyao/ai-draw-nexus) - 
 - [guptabhishek/multi-search-mcp](https://github.com/guptabhishek/multi-search-mcp) - Multi search MCP server
 - [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) - A Claude Skill to give your agent the ability to use a web browser
@@ -730,7 +731,7 @@
 - [YXJ2018/SpringBoot-Vue-OnlineExam](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam) - 在线考试系统，springboot+vue前后端分离的一个项目.
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
 - [husky-dot/vue-okr-tree](https://github.com/husky-dot/vue-okr-tree) - http://www.longstudy.club/vue-okr-tree-doc/index.html
-- [Tencent/tdesign-miniprogram](https://github.com/Tencent/tdesign-miniprogram) - A Wechat MiniProgram UI components lib for TDesign.
+- [Tencent/tdesign-miniprogram](https://github.com/Tencent/tdesign-miniprogram) - Wechat MiniProgram and Uniapp UI components lib for TDesign
 - [iamxcd/tkinter-helper](https://github.com/iamxcd/tkinter-helper) - 为tkinter打造的可视化拖拽布局界面设计小工具
 - [favrora/Avatar-Maker](https://github.com/favrora/Avatar-Maker) - Create your own avatar with Vue Avatar Maker app
 - [brenner8023/iKeep](https://github.com/brenner8023/iKeep) - iKeep：基于uni-app和小程序云开发实现的时间投资微信小程序
