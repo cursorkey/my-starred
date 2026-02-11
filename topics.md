@@ -267,13 +267,13 @@
 - [littleCareless/dish-ai-commit](https://github.com/littleCareless/dish-ai-commit) - Vibe Coding!!! 🤖 AI-Powered VSCode extension for generating standardized Git/SVN commit messages. ✨ Supports multiple AI services: OpenAI, ChatGPT, Ollama, Zhipu, DashScope, Doubao, Gemini and VS Code
 - [oomol-lab/epub-translator](https://github.com/oomol-lab/epub-translator) - Translate EPUB books using Large Language Models while preserving the original text. The translated content is displayed side-by-side with the original, creating bilingual books perfect for language l
 - [AmyangXYZ/PoPo](https://github.com/AmyangXYZ/PoPo) - Pose and animate MMD model with LLM and MPL code
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
 - [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [拯救你的颈椎 - 数字健康工具：https://forcebreak.zenfeed.xyz]
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [oldjs/web-code-agent](https://github.com/oldjs/web-code-agent) - Browser-local AI code Q&A engine. Chat with your codebase, ensure privacy, and optimize LLM collaboration.
 - [luyu0279/Ainee](https://github.com/luyu0279/Ainee) - Ainee: AI Notetaking and Learning Companion – Speed Up Your Learning, Enhance Your Insight Sharing
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Local-first AI coworker, with memory
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [robbyzhaox/myocr](https://github.com/robbyzhaox/myocr) - A highly extensible and customizable framework for building OCR systems.
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
@@ -314,7 +314,7 @@
 - [halo-dev/upage](https://github.com/halo-dev/upage) - 🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Local-first AI coworker, with memory
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
@@ -462,11 +462,11 @@
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - The AI Markdown Editor.
 - [littleCareless/dish-ai-commit](https://github.com/littleCareless/dish-ai-commit) - Vibe Coding!!! 🤖 AI-Powered VSCode extension for generating standardized Git/SVN commit messages. ✨ Supports multiple AI services: OpenAI, ChatGPT, Ollama, Zhipu, DashScope, Doubao, Gemini and VS Code
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
 - [AIDotNet/OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) - OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, 
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Local-first AI coworker, with memory
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [jihe520/Agentic-Desktop-Pet](https://github.com/jihe520/Agentic-Desktop-Pet) - 🤖👾🐶 下一代 Agentic 桌宠 = LLM + 记忆 + 情感 + RPG + Claude Code Next Gen Agentic Desktop Pet = LLM + Memory + Emotion + RPG + Claude Code
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [SmartSchoolAI/ai-to-pptx](https://github.com/SmartSchoolAI/ai-to-pptx) - 前端后端同时开源。 Ai-to-pptx是一个使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。 主要功能: 1 使用DeepSeek等大语言模型来生成大纲 2 生成PPTX的时候可以选择不同的模板 3 支持导出PPTX
@@ -512,7 +512,7 @@
 ## cli 
 
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -814,7 +814,7 @@
 
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 - [oldjs/web-code-agent](https://github.com/oldjs/web-code-agent) - Browser-local AI code Q&A engine. Chat with your codebase, ensure privacy, and optimize LLM collaboration.
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Local-first AI coworker, with memory
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 
@@ -1085,7 +1085,7 @@
 - [aingdesk/AingDesk](https://github.com/aingdesk/AingDesk) - AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享、联网搜索、智能体，它还在飞快成长中。 AingDesk is a simple and easy-to-use AI assistant that supports knowledge bases, model APIs, sharing, internet search, and intelligent agents. It
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent) - 🤖📐专为数学建模设计的 Agent ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Local-first AI coworker, with memory
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [jihe520/Agentic-Desktop-Pet](https://github.com/jihe520/Agentic-Desktop-Pet) - 🤖👾🐶 下一代 Agentic 桌宠 = LLM + 记忆 + 情感 + RPG + Claude Code Next Gen Agentic Desktop Pet = LLM + Memory + Emotion + RPG + Claude Code
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
@@ -1333,7 +1333,7 @@
 - [AnoyRC/priospace](https://github.com/AnoyRC/priospace) - All-in-one Productivity App
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Local-first AI coworker, with memory
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
@@ -1699,7 +1699,7 @@
 - [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
 - [AnoyRC/priospace](https://github.com/AnoyRC/priospace) - All-in-one Productivity App
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Local-first AI coworker, with memory
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [WINBIGFOX/TimeScribe](https://github.com/WINBIGFOX/TimeScribe) - Modern & private time tracking for macOS & Windows. No cloud, no registration, no paywall. Just download and track your work hours 100% offline.
 - [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 - [yenche123/liubai](https://github.com/yenche123/liubai) - Supercharge yourself!
