@@ -268,7 +268,7 @@
 - [oomol-lab/epub-translator](https://github.com/oomol-lab/epub-translator) - Translate EPUB books using Large Language Models while preserving the original text. The translated content is displayed side-by-side with the original, creating bilingual books perfect for language l
 - [AmyangXYZ/PoPo](https://github.com/AmyangXYZ/PoPo) - Pose and animate MMD model with LLM and MPL code
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
-- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [拯救你的颈椎 - 数字健康工具：https://forcebreak.zenfeed.xyz]
+- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [网页监控工具-预定送会员：https://waitlist.dingding.glidea.app]
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [oldjs/web-code-agent](https://github.com/oldjs/web-code-agent) - Browser-local AI code Q&A engine. Chat with your codebase, ensure privacy, and optimize LLM collaboration.
 - [luyu0279/Ainee](https://github.com/luyu0279/Ainee) - Ainee: AI Notetaking and Learning Companion – Speed Up Your Learning, Enhance Your Insight Sharing
@@ -1204,7 +1204,7 @@
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 - [nguyenvanduocit/jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) - A Go-based MCP (Model Control Protocol) connector for Jira that enables AI assistants like Claude to interact with Atlassian Jira. This tool provides a seamless interface for AI models to perform comm
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
-- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [拯救你的颈椎 - 数字健康工具：https://forcebreak.zenfeed.xyz]
+- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [网页监控工具-预定送会员：https://waitlist.dingding.glidea.app]
 - [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring n
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
@@ -1224,7 +1224,7 @@
 
 ## monitoring 
 
-- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [拯救你的颈椎 - 数字健康工具：https://forcebreak.zenfeed.xyz]
+- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [网页监控工具-预定送会员：https://waitlist.dingding.glidea.app]
 
 ## mysql 
 
@@ -1349,7 +1349,7 @@
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generat
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
-- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [拯救你的颈椎 - 数字健康工具：https://forcebreak.zenfeed.xyz]
+- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [网页监控工具-预定送会员：https://waitlist.dingding.glidea.app]
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
