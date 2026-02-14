@@ -239,6 +239,7 @@
 
 ## ai 
 
+- [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [OpenDCAI/Paper2Any](https://github.com/OpenDCAI/Paper2Any) - Turn paper/text/topic into editable research figures, technical route diagrams, and presentation slides.
 - [DearVa/Everywhere](https://github.com/DearVa/Everywhere) - Context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
@@ -455,6 +456,7 @@
 
 ## chatgpt 
 
+- [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
 - [PaperDebugger/paperdebugger](https://github.com/PaperDebugger/paperdebugger) - A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing
 - [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
 - [ECuiDev/obsidian-quiz-generator](https://github.com/ECuiDev/obsidian-quiz-generator) - Generate interactive flashcards from your notes using models from OpenAI (ChatGPT), Google (Gemini), Ollama (local LLMs), and more. Or manually create your own to use with the quiz UI.
@@ -503,6 +505,7 @@
 
 ## chrome-extension 
 
+- [kamjin3086/Crawell](https://github.com/kamjin3086/Crawell) - 📸 Crawell – 网页图片/正文一键提取、Markdown 转换与批量下载的浏览器扩展，本地化，免费   Crawell browser extension for one-click image & article extraction, Markdown conversion and bulk download – 100 % local processing.
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [Alanrk/LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) - 让书签管理变得轻松愉快！一只可爱的懒猫助手，帮你智能清理和整理浏览器书签。
 - [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
@@ -1066,6 +1069,7 @@
 
 ## llm 
 
+- [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
 - [DearVa/Everywhere](https://github.com/DearVa/Everywhere) - Context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 - [halo-dev/upage](https://github.com/halo-dev/upage) - 🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。
@@ -1167,6 +1171,7 @@
 
 ## markdown 
 
+- [kamjin3086/Crawell](https://github.com/kamjin3086/Crawell) - 📸 Crawell – 网页图片/正文一键提取、Markdown 转换与批量下载的浏览器扩展，本地化，免费   Crawell browser extension for one-click image & article extraction, Markdown conversion and bulk download – 100 % local processing.
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
 - [blueberrycongee/Lumina-Note](https://github.com/blueberrycongee/Lumina-Note) - Lumina Note - A modern Markdown note-taking app with live preview, bidirectional links, and AI assistant
@@ -1274,6 +1279,7 @@
 
 ## nlp 
 
+- [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
 - [oldjs/web-code-agent](https://github.com/oldjs/web-code-agent) - Browser-local AI code Q&A engine. Chat with your codebase, ensure privacy, and optimize LLM collaboration.
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
@@ -1318,10 +1324,12 @@
 
 ## obsidian-md 
 
+- [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
 - [ECuiDev/obsidian-quiz-generator](https://github.com/ECuiDev/obsidian-quiz-generator) - Generate interactive flashcards from your notes using models from OpenAI (ChatGPT), Google (Gemini), Ollama (local LLMs), and more. Or manually create your own to use with the quiz UI.
 
 ## obsidian-plugin 
 
+- [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
 - [ECuiDev/obsidian-quiz-generator](https://github.com/ECuiDev/obsidian-quiz-generator) - Generate interactive flashcards from your notes using models from OpenAI (ChatGPT), Google (Gemini), Ollama (local LLMs), and more. Or manually create your own to use with the quiz UI.
 
 ## open-source 
@@ -1343,6 +1351,7 @@
 
 ## openai 
 
+- [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
 - [DearVa/Everywhere](https://github.com/DearVa/Everywhere) - Context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
 - [PaperDebugger/paperdebugger](https://github.com/PaperDebugger/paperdebugger) - A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing
 - [JinsongRoh/pydoll-mcp](https://github.com/JinsongRoh/pydoll-mcp) - PyDoll MCP Server is a Model Context Protocol (MCP) server built on PyDoll, a next-generation browser automation library. It enables AI assistants like Claude to naturally control web browsers and per
@@ -1390,7 +1399,7 @@
 - [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [twwch/DeepDiagram](https://github.com/twwch/DeepDiagram) - An open-source AI visualization tool that transforms natural language into Mind Maps, Mermaid diagrams, and Echarts. Turn your ideas into structured visuals instantly.
-- [engigu/baihu-panel](https://github.com/engigu/baihu-panel) - 🐯轻量级定时任务管理系统，内置 Python3、Node.js 和 Bash，Docker/Compose 即用。A lightweight, high-performance cron panel built with Go & Vue 3.
+- [engigu/baihu-panel](https://github.com/engigu/baihu-panel) - 🐯轻量级定时任务管理系统，支持 Python, Node.js, Go, Rust, PHP 等所有主流语言的动态安装与多版本切换,，Docker/Compose 即用。A lightweight, high-performance cron panel built with Go & Vue 3.
 - [baotlake/office-website](https://github.com/baotlake/office-website) - Serverless Office: Edit Word, Excel, and PowerPoint entirely in-browser via WebAssembly. 100% Client-side, No Backend, Maximum Privacy. 纯浏览器版 Office 套件： 基于 WebAssembly 技术，支持 Word、Excel、PPT 及 PDF 编辑。数据
 - [zhashut/goread](https://github.com/zhashut/goread) - GoRead is a lightweight reader application designed specifically for local e‑book reading.
 - [hkxiaoyao/ai-draw-nexus](https://github.com/hkxiaoyao/ai-draw-nexus) - 
@@ -1833,6 +1842,7 @@
 
 ## react 
 
+- [kamjin3086/Crawell](https://github.com/kamjin3086/Crawell) - 📸 Crawell – 网页图片/正文一键提取、Markdown 转换与批量下载的浏览器扩展，本地化，免费   Crawell browser extension for one-click image & article extraction, Markdown conversion and bulk download – 100 % local processing.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [blueberrycongee/Lumina-Note](https://github.com/blueberrycongee/Lumina-Note) - Lumina Note - A modern Markdown note-taking app with live preview, bidirectional links, and AI assistant
 - [xckevin/magic-english-buddy](https://github.com/xckevin/magic-english-buddy) - 专为儿童设计的 AI 英语阅读学习助手
@@ -2014,6 +2024,7 @@
 
 ## tailwindcss 
 
+- [kamjin3086/Crawell](https://github.com/kamjin3086/Crawell) - 📸 Crawell – 网页图片/正文一键提取、Markdown 转换与批量下载的浏览器扩展，本地化，免费   Crawell browser extension for one-click image & article extraction, Markdown conversion and bulk download – 100 % local processing.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [nicejade/gpt-wordbook](https://github.com/nicejade/gpt-wordbook) - 智析单词书（GPT-Wordbook）是由 AI 赋能的智能英语词汇学习平台，通过 GPT 模型自动生成深度词汇解析内容，帮助学习者从词义、例句、词根词缀、文化背景到助记技巧全面理解单词，而不是简单记忆。项目以 Astro 静态网站 + GPT 内容生成 为核心架构，兼顾性能、可扩展性，是英语学习者、考试备考者和教育者的利器。 https://word.lovejade.cn .
 - [trendy-design/llmchat](https://github.com/trendy-design/llmchat) - Unified interface for AI chat, Agentic workflows and more ...
@@ -2070,6 +2081,7 @@
 
 ## typescript 
 
+- [kamjin3086/Crawell](https://github.com/kamjin3086/Crawell) - 📸 Crawell – 网页图片/正文一键提取、Markdown 转换与批量下载的浏览器扩展，本地化，免费   Crawell browser extension for one-click image & article extraction, Markdown conversion and bulk download – 100 % local processing.
 - [blueberrycongee/Lumina-Note](https://github.com/blueberrycongee/Lumina-Note) - Lumina Note - A modern Markdown note-taking app with live preview, bidirectional links, and AI assistant
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
