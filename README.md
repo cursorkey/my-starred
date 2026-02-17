@@ -409,7 +409,7 @@
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [jihe520/Agentic-Desktop-Pet](https://github.com/jihe520/Agentic-Desktop-Pet) - 🤖👾🐶 下一代 Agentic 桌宠 = LLM + 记忆 + 情感 + RPG + Claude Code Next Gen Agentic Desktop Pet = LLM + Memory + Emotion + RPG + Claude Code
 - [robbyzhaox/myocr](https://github.com/robbyzhaox/myocr) - A highly extensible and customizable framework for building OCR systems.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software. Build multi-agent systems with streaming, memory, governance, and request isolation.
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
 - [facebookresearch/ZeroSumEval](https://github.com/facebookresearch/ZeroSumEval) - A framework for pitting LLMs against each other in an evolving library of games ⚔
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
