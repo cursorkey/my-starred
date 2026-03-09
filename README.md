@@ -564,7 +564,7 @@
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [twwch/DeepDiagram](https://github.com/twwch/DeepDiagram) - An open-source AI visualization tool that transforms natural language into Mind Maps, Mermaid diagrams, and Echarts. Turn your ideas into structured visuals instantly.
-- [baotlake/office-website](https://github.com/baotlake/office-website) - Serverless Office: Edit Word, Excel, and PowerPoint entirely in-browser via WebAssembly. 100% Client-side, No Backend, Maximum Privacy. 纯浏览器版 Office 套件： 基于 WebAssembly 技术，支持 Word、Excel、PPT 及 PDF 编辑。数据
+- [baotlake/office-website](https://github.com/baotlake/office-website) - Web Office: Local-First & Private. Professional-grade Word, Excel, and PowerPoint editing powered by WebAssembly. Zero data uploads, 100% client-side for uncompromising privacy. 🛡️ 纯本地浏览器 Office，数据零上传
 - [zhashut/goread](https://github.com/zhashut/goread) - GoRead is a lightweight reader application designed specifically for local e‑book reading.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [hkxiaoyao/ai-draw-nexus](https://github.com/hkxiaoyao/ai-draw-nexus) - 
@@ -603,7 +603,7 @@
 - [AbhiramKrishnaM/TestFlow](https://github.com/AbhiramKrishnaM/TestFlow) - A visual test case management system with interactive flow editor and AI test generation. Built with React Flow, Material Tailwind UI, and FastAPI. Helps QA teams visualize testing flows, track covera
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [SSShooter/ebook-to-mindmap](https://github.com/SSShooter/ebook-to-mindmap) - AI-powered Summaries by Extracting Content from EPUB and PDF. epub、pdf 拆书 AI 总结
-- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - The AI Markdown Editor.
+- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - The AI Markdown Editor
 - [Amery2010/midjourney-prompt-generator](https://github.com/Amery2010/midjourney-prompt-generator) - Midjourney prompt generator
 - [justlovemaki/Podcast-Generator](https://github.com/justlovemaki/Podcast-Generator) - 播客音频生成cli ，python服务端 和 web前端，支持单人和多人对话。支持原文智能配音。
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
