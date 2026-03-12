@@ -228,7 +228,7 @@
 - [maschek/imgmap](https://github.com/maschek/imgmap) - Javascript based imagemap editor
 - [wechat-miniprogram/miniprogram-demo](https://github.com/wechat-miniprogram/miniprogram-demo) - 微信小程序组件 / API / 云开发示例
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
-- [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
+- [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 - [JimHans/live2d-kanban-desktop](https://github.com/JimHans/live2d-kanban-desktop) - 基于Electron制作的桌面看板娘，支持日程提醒、小窗模式、ChatGPT集成、网页搜索、本地moc模型加载与独立设置界面等  | An AI Based live2d Kanban for Desktop Users Using Electron
 - [pfinal-nc/wails_pf](https://github.com/pfinal-nc/wails_pf) - 基于 go wails 写的桌面小程序
 - [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
@@ -378,6 +378,7 @@
 - [OpenDCAI/Paper2Any](https://github.com/OpenDCAI/Paper2Any) - Turn paper/text/topic into editable research figures, technical route diagrams, and presentation slides.
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [666ghj/MindSpider](https://github.com/666ghj/MindSpider) - MindSpider：专为舆情分析设计的AI爬虫
+- [chenjigang4167/testhub_platform](https://github.com/chenjigang4167/testhub_platform) - AI-Powered Testing Platform
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
@@ -552,6 +553,7 @@
 
 ## TypeScript 
 
+- [gsscsd/big_model_radar](https://github.com/gsscsd/big_model_radar) - 
 - [ahmetildirim/obsidian-inscribe](https://github.com/ahmetildirim/obsidian-inscribe) - Obsidian plugin for inline autocompletion with AI
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill Directory for OpenClaw
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
@@ -729,7 +731,6 @@
 ## Vue 
 
 - [ame-yu/wincron](https://github.com/ame-yu/wincron) - Cron job scheduler for windows
-- [chenjigang4167/testhub_platform](https://github.com/chenjigang4167/testhub_platform) - AI-Powered Testing Platform
 - [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
 - [gusibi/MoliTodo](https://github.com/gusibi/MoliTodo) - 一款常驻在桌面边缘的悬浮式待办事项应用，旨在提供最快速的任务查看和添加体验。
 - [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent) - 🤖📐专为数学建模设计的 Agent ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
