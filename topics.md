@@ -568,7 +568,7 @@
 
 ## coding 
 
-- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
+- [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
 
 ## command-line 
@@ -1477,7 +1477,7 @@
 - [readdig/readdig](https://github.com/readdig/readdig) - A RSS and podcast reader. https://readdig.com
 - [huangcs427/enjoy-git-release](https://github.com/huangcs427/enjoy-git-release) - A modern Git client tool with an intuitive user interface, built with Electron, Vue3, and TypeScript.
 - [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
-- [1Panel-dev/CordysCRM](https://github.com/1Panel-dev/CordysCRM) - 🔥 Cordys CRM 是新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。已发布 CRM Skills ，赋能 OpenClaw AI 助理 7×24 小时智能服务。
+- [1Panel-dev/CordysCRM](https://github.com/1Panel-dev/CordysCRM) - 🔥 Cordys CRM 是新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署。Skills 技能现已重磅上线，全面驱动 OpenClaw AI 助理。
 - [glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer) - AI chat assistant for Obsidian with contextual awareness, smart writing assistance, and one-click edits. Features vault-aware conversations, semantic search, and local model support.
 - [justlovemaki/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily) - AI资讯日报 是一个基于 Cloudflare Workers 驱动的内容聚合与生成平台。它每日为您精选 AI 领域的最新动态，包括行业新闻、热门开源项目、前沿学术论文、科技大V社交媒体言论，并通过 Google Gemini 模型进行智能处理与摘要生成，最终自动发布到 GitHub Pages 生成 AI 日报。
 - [ResearAI/DeepScientist](https://github.com/ResearAI/DeepScientist) - Now, Stronger AI Pushes Frontiers, Stronger Our Shared Future.
