@@ -110,7 +110,6 @@
 ## Go 
 
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
-- [engigu/baihu-panel](https://github.com/engigu/baihu-panel) - 🐯轻量级定时任务管理系统，支持 Python, Node.js, Go, Rust, PHP 等所有主流语言的动态安装与多版本切换,，Docker/Compose 即用。A lightweight, high-performance cron panel built with Go & Vue 3.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
 - [hezhizheng/go-wxpush](https://github.com/hezhizheng/go-wxpush) - 极简且免费的微信消息推送服务 (基于golang)
@@ -331,6 +330,7 @@
 - [cunyu1943/weekly](https://github.com/cunyu1943/weekly) - 村雨遥的好物周刊，记录每周看到的有价值的信息，主要针对计算机领域（软件、资源、插件、项目、网站），每周五发布。
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [zalando/tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - A book for Learning the Foundations of LLMs
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
@@ -562,7 +562,7 @@
 ## TypeScript 
 
 - [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny) - 
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Skill that turn any codebase, Dockerfile, or docs into an interactive knowledge graph you can explore, search, and ask questions about. Multi-platform: Claude Code, Codex, Cursor, Copilot, Gemini CLI,
 - [GCWing/BitFun](https://github.com/GCWing/BitFun) - BitFun is a next-generation AI assistant with built-in Code Agent and Cowork Agent. It has memory, personality, and the ability to evolve over time. You can remotely control the desktop through mobile
 - [blueberrycongee/CursorLens](https://github.com/blueberrycongee/CursorLens) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [gsscsd/big_model_radar](https://github.com/gsscsd/big_model_radar) - 
@@ -657,7 +657,6 @@
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
@@ -747,9 +746,11 @@
 ## Vue 
 
 - [ame-yu/wincron](https://github.com/ame-yu/wincron) - Cron job scheduler for windows
+- [engigu/baihu-panel](https://github.com/engigu/baihu-panel) - 🐯轻量级定时任务管理系统，支持 Python, Node.js, Go, Rust, PHP 等所有主流语言的动态安装与多版本切换,，Docker/Compose 即用。A lightweight, high-performance cron panel built with Go & Vue 3.
 - [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
 - [gusibi/MoliTodo](https://github.com/gusibi/MoliTodo) - 一款常驻在桌面边缘的悬浮式待办事项应用，旨在提供最快速的任务查看和添加体验。
 - [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent) - 🤖📐专为数学建模设计的 Agent ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 - [LvHuaiSheng/gzm-design](https://github.com/LvHuaiSheng/gzm-design) - 🚀🚀🚀一款漂亮易用的在线设计器，支持PSD导入、PSD解析，可用于海报设计器、广告设计器、logo设计器、AI创作图片合成器等。常用于生成二维码海报，图片海报，二维码推广海报，图片处理，名片设计，电商产品图，节假日海报等。http://gzm-design-doc.guozimi.cn/
 - [palxiao/poster-design](https://github.com/palxiao/poster-design) - 迅排设计 - 美观且功能强大的图片编辑器、在线海报设计，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!
 - [JLinMr/Mini-Cover](https://github.com/JLinMr/Mini-Cover) - Mini-Cover：简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面
