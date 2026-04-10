@@ -1466,7 +1466,7 @@
 
 ## others 
 
-- [RegLance/Translate-Copilot](https://github.com/RegLance/Translate-Copilot) - AI Word Selection Translation Assistant using Python PyQt6 + selection_hook
+- [RegLance/QTranslator](https://github.com/RegLance/QTranslator) - AI Word Selection Translation Assistant using Python PyQt6 + selection_hook
 - [wm94i/Work_Review](https://github.com/wm94i/Work_Review) - 帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间
 - [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny) - 
 - [shuguan12/claudecode](https://github.com/shuguan12/claudecode) - 
