@@ -110,6 +110,7 @@
 
 ## Go 
 
+- [Gridea-Pro/gridea-pro](https://github.com/Gridea-Pro/gridea-pro) - Gridea Pro - 下一代桌面静态博客写作客户端 —— 像用 Notion 一样写博客。
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
@@ -145,7 +146,6 @@
 
 ## HTML 
 
-- [RegLance/QTranslator](https://github.com/RegLance/QTranslator) - AI Word Selection Translation Assistant using Python PyQt6 + selection_hook
 - [est/def.est.im](https://github.com/est/def.est.im) - a new kind of dictionary
 - [Nikita-Filonov/ui-coverage-tool-js](https://github.com/Nikita-Filonov/ui-coverage-tool-js) - About UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
 - [o8oo8o/WebCurl](https://github.com/o8oo8o/WebCurl) - 极简网页版API调试神器
@@ -371,6 +371,7 @@
 ## Python 
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [RegLance/QTranslator](https://github.com/RegLance/QTranslator) - AI Word Selection Translation Assistant using Python PyQt6 + selection_hook
 - [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel) - AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI
 - [Thysrael/Horizon](https://github.com/Thysrael/Horizon) - 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 构建你专属的 AI 新闻雷达
 - [yzr278892/arxiv-daily-researcher](https://github.com/yzr278892/arxiv-daily-researcher) - 每天早上打开通知，高质量论文摘要已经为你准备好 Ciallo～(∠・ω&lt; )⌒☆
