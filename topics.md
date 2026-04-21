@@ -251,6 +251,7 @@
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+- [wm94i/Work_Review](https://github.com/wm94i/Work_Review) - 帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间
 - [GCWing/BitFun](https://github.com/GCWing/BitFun) - BitFun is a next-generation AI assistant with built-in Code Agent and Cowork Agent. It has memory, personality, and the ability to evolve over time. You can remotely control the desktop through mobile
 - [sjjian/openhare](https://github.com/sjjian/openhare) - AI-powered desktop SQL client. Cross-platform. Built with Flutter.
 - [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
@@ -912,6 +913,7 @@
 
 ## go 
 
+- [Gridea-Pro/gridea-pro](https://github.com/Gridea-Pro/gridea-pro) - Gridea Pro - 下一代桌面静态博客写作客户端 —— 像用 Notion 一样写博客。
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
 - [Ray-D-Song/goread](https://github.com/Ray-D-Song/goread) - cli epub reader written in Go
@@ -1487,7 +1489,6 @@
 - [h0ny/MobaXtermDecryptor](https://github.com/h0ny/MobaXtermDecryptor) - A simple MobaXterm password extraction tool.
 - [iflytek/skillhub](https://github.com/iflytek/skillhub) - Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.
 - [RegLance/QTranslator](https://github.com/RegLance/QTranslator) - AI Word Selection Translation Assistant using Python PyQt6 + selection_hook
-- [wm94i/Work_Review](https://github.com/wm94i/Work_Review) - 帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间
 - [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny) - 
 - [shuguan12/claudecode](https://github.com/shuguan12/claudecode) - 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
@@ -1793,6 +1794,7 @@
 
 ## privacy 
 
+- [wm94i/Work_Review](https://github.com/wm94i/Work_Review) - 帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [oldjs/web-code-agent](https://github.com/oldjs/web-code-agent) - Browser-local AI code Q&A engine. Chat with your codebase, ensure privacy, and optimize LLM collaboration.
@@ -1801,6 +1803,7 @@
 
 ## productivity 
 
+- [wm94i/Work_Review](https://github.com/wm94i/Work_Review) - 帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间
 - [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
 - [AnoyRC/priospace](https://github.com/AnoyRC/priospace) - All-in-one Productivity App
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
