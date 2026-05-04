@@ -125,7 +125,7 @@
 - [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
 - [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest authentication and authorization server you have ever seen.
 - [nguyenvanduocit/jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) - A Go-based MCP (Model Control Protocol) connector for Jira that enables AI assistants like Claude to interact with Atlassian Jira. This tool provides a seamless interface for AI models to perform comm
-- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [gpt-5.5 -&gt; https://token.glidea.app 0.2 倍率, 0.2元当1刀花，比官方便宜35倍]
+- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [gpt-5.5 -&gt; https://pay.ldxp.cn/shop/8465P8HU 0.2 倍率, 0.2元当1刀花，比官方便宜35倍]
 - [otk-final/openapi-codegen](https://github.com/otk-final/openapi-codegen) - openapi（swagger）代码生成器
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 - [Ray-D-Song/goread](https://github.com/Ray-D-Song/goread) - cli epub reader written in Go
