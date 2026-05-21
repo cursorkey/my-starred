@@ -557,7 +557,7 @@
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [mayuso/PNGToSVG](https://github.com/mayuso/PNGToSVG) - A fast CLI tool and Rust library to convert PNG images into SVG vectors
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - The open context layer that gives AI agents grounded, governed SQL across 20+ data sources, that helps you build GenBI, agentic BI, text-to-sql, dashboards, and agentic analytics.
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Turn any AI Agents into world-class data analysts. The open context layer that gives AI agents grounded, governed SQL across 20+ data sources, that helps you build GenBI, agentic BI, text-to-sql, dash
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [Edge-coordinates/mason-gallery](https://github.com/Edge-coordinates/mason-gallery) - Masonry layouts Picture Viewer
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
@@ -582,6 +582,7 @@
 
 ## TypeScript 
 
+- [arcsin1/oh-my-ppt](https://github.com/arcsin1/oh-my-ppt) - Describe what you need — a presentation, lesson, or story — and let the AI build clean, beautiful HTML slides for you. Local-first. Works offline. Works for you.
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
 - [epiral/bb-browser](https://github.com/epiral/bb-browser) - Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
@@ -589,7 +590,7 @@
 - [you-want/mini-cc](https://github.com/you-want/mini-cc) - 🚀 一个轻量级的多语言 AI 编程智能体，内置声明式终端 UI、原生 MCP 插件生态与无缝的 Tool-Use 循环
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny) - 
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claud
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [blueberrycongee/CursorLens](https://github.com/blueberrycongee/CursorLens) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [gsscsd/big_model_radar](https://github.com/gsscsd/big_model_radar) - 
 - [ahmetildirim/obsidian-inscribe](https://github.com/ahmetildirim/obsidian-inscribe) - Obsidian plugin for inline autocompletion with AI
