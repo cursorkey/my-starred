@@ -46,7 +46,7 @@
 
 ## C 
 
-- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
+- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com
 - [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
 - [BasedHardware/OpenGlass](https://github.com/BasedHardware/OpenGlass) - Turn any glasses into AI-powered smart glasses
