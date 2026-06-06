@@ -201,8 +201,8 @@
 
 - [Juwan-Hwang/Zephyr](https://github.com/Juwan-Hwang/Zephyr) - Zephyr: A modern, lightweight, and secure Mihomo / Clash Meta GUI client built with Tauri and Rust.
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
-- [SeanWong17/Mammalia-tree](https://github.com/SeanWong17/Mammalia-tree) - 一个沉浸式的 3D/2D 网页可视化项目，探索哺乳动物 2 亿年的演化史诗。
-- [SeanWong17/building-sunlight-simulator](https://github.com/SeanWong17/building-sunlight-simulator) - 一套轻量级、纯前端的楼盘规划与采光模拟工具链，支持从规划图标注到 3D 阴影可视化的完整工作流。
+- [SeanWong17/Mammalia-tree](https://github.com/SeanWong17/Mammalia-tree) - DeepTime Mammalia：交互式哺乳纲演化树，3D 螺旋序幕 + D3.js 动态时间树，跨越 2 亿年 | Interactive mammalian phylogeny with 3D spiral intro & D3.js dynamic timetree spanning 200 Myr
+- [SeanWong17/building-sunlight-simulator](https://github.com/SeanWong17/building-sunlight-simulator) - 纯前端楼盘采光模拟工具链：规划图标注 → 3D 阴影可视化 | Frontend-only building sunlight simulator: plan annotation to 3D shadow visualization
 - [WtecHtec/snapwrite](https://github.com/WtecHtec/snapwrite) - 专注微信公众号的 AI 自动排版工具。一键将文本转化为精美移动端布局，支持实时手机预览与富文本一键复制。
 - [qazzxxx/cloudimgs](https://github.com/qazzxxx/cloudimgs) - 云图 - 极简风格的云图库，支持NAS部署，支持设置密钥，支持各种灵活的API开放接口，NAS图床，PicGo插件直接安装使用
 - [hubenchang0515/shift](https://github.com/hubenchang0515/shift) - WebAssembly runtime for Python, Lua, Ruby and etc.
