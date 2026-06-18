@@ -89,6 +89,7 @@
 
 ## CSS 
 
+- [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) - A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
 - [pfinal-nc/electron_pf](https://github.com/pfinal-nc/electron_pf) - 
 - [orange-form/orange-admin](https://github.com/orange-form/orange-admin) - 橙单中台化低代码生成器。可完整支持多应用、多租户、多渠道、工作流 (Flowable & Activiti)、在线表单、自定义数据同步、自定义Job、多表关联、跨服务多表关联、框架技术栈自由组合等。
 - [lovefc/china_school_badge](https://github.com/lovefc/china_school_badge) - 全国高校校徽字体图标库
@@ -381,6 +382,7 @@
 
 ## Python 
 
+- [fuyouling/video2text](https://github.com/fuyouling/video2text) - 本地视频/音频转文字的工具,使用 faster_whisper 进行语音转写,并可将转写文本进行生成摘要,转写模型和总结模型均可切换
 - [Lynpoint/CyberVerse](https://github.com/Lynpoint/CyberVerse) - Self hosted, real-time digital human agent platform. Build voice-first AI agents with WebRTC, persona memory, tools, RAG, and optional digital-human video.
 - [browser-act/skills](https://github.com/browser-act/skills) - Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated m
 - [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Multilingual speech understanding: ASR + emotion recognition + audio event detection. 50+ languages, 15x faster than Whisper, non-autoregressive.
@@ -555,7 +557,7 @@
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-- [wm94i/Work-Review](https://github.com/wm94i/Work-Review) - 帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间
+- [wm94i/Work-Review](https://github.com/wm94i/Work-Review) - Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.
 - [GCWing/BitFun](https://github.com/GCWing/BitFun) - BitFun is a desktop-grade Agent runtimeand a ready-to-use suite of desktop Agent applications.with built-in Code Agent 、 Cowork Agent、Computer Use. It has memory, personality, and the ability to evolv
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [ghost-him/ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs) - 🚀 A lightning‑fast, privacy‑first Windows smart launcher that excels at Pinyin and fuzzy matching. Optionally add on‑device AI semantic search for typo‑ and intent‑proof instant results. Built with Ru
@@ -594,7 +596,7 @@
 ## TypeScript 
 
 - [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck) - Task-oriented AI Agent productivity platform
-- [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - 
+- [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [Dais-Project/Dais](https://github.com/Dais-Project/Dais) - Your Desktop AI Staffs.
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
