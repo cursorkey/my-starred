@@ -584,6 +584,7 @@
 - [op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) - 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
+- [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
@@ -1565,9 +1566,9 @@
 
 ## others 
 
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) - A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
-- [fuyouling/video2text](https://github.com/fuyouling/video2text) - 本地视频/音频转文字的工具,使用 faster_whisper 进行语音转写,并可将转写文本进行生成摘要,转写模型和总结模型均可切换
+- [fuyouling/video2text](https://github.com/fuyouling/video2text) - 本地批量音视频转文字的工具,基于 faster-whisper 进行语音转写,并可将转写文本进行生成摘要,转写模型和总结模型均可切换
 - [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck) - Task-oriented AI Agent productivity platform
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [imcuttle/flipbook-app](https://github.com/imcuttle/flipbook-app) - 🎨 点击式探索的知识画册，长按图片生成带标注子图 | Flipbook Canvas — click-to-explore knowledge picture-book. Long-press any image to spawn an annotated child diagram via a pluggable multimodal pipeline (LLM + image gen + we
@@ -1620,7 +1621,7 @@
 - [readdig/readdig](https://github.com/readdig/readdig) - A RSS and podcast reader. https://readdig.com
 - [huangcs427/enjoy-git-release](https://github.com/huangcs427/enjoy-git-release) - A modern Git client tool with an intuitive user interface, built with Electron, Vue3, and TypeScript.
 - [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
-- [1Panel-dev/CordysCRM](https://github.com/1Panel-dev/CordysCRM) - 🔥 Cordys CRM 是新一代开源 AI CRM 系统，融合信息化、数字化与智能化，为私有化部署而生。
+- [1Panel-dev/CordysCRM](https://github.com/1Panel-dev/CordysCRM) - 🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。
 - [glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer) - AI chat assistant for Obsidian with contextual awareness, smart writing assistance, and one-click edits. Features vault-aware conversations, semantic search, and local model support.
 - [justlovemaki/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily) - AI资讯日报 是一个基于 Cloudflare Workers 驱动的内容聚合与生成平台。它每日为您精选 AI 领域的最新动态，包括行业新闻、热门开源项目、前沿学术论文、科技大V社交媒体言论，并通过 Google Gemini 模型进行智能处理与摘要生成，最终自动发布到 GitHub Pages 生成 AI 日报。
 - [ResearAI/DeepScientist](https://github.com/ResearAI/DeepScientist) - Now, Stronger AI Pushes Frontiers, Stronger Our Shared Future.
