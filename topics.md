@@ -189,6 +189,7 @@
 - [stable-diffusion](#stable-diffusion)
 - [support](#support)
 - [svelte](#svelte)
+- [swift](#swift)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
@@ -481,7 +482,7 @@
 
 - [hubenchang0515/shift](https://github.com/hubenchang0515/shift) - WebAssembly runtime for Python, Lua, Ruby and etc.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [overflowy/bash-script-tools](https://github.com/overflowy/bash-script-tools) - A web-based bash script formatter and linter with AI-powered autofix.
+- [overflowy/bash-script-tools](https://github.com/overflowy/bash-script-tools) - A web-based bash script formatter and linter with AI-powered autofix
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 
@@ -682,6 +683,7 @@
 
 ## cpp 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [sylwekkominek/SpectrumAnalyzer](https://github.com/sylwekkominek/SpectrumAnalyzer) - Not yet another spectrum analyzer — an experimental DSP & graphics playground.  It combines real-time C++ performance with Python flexibility, offering fully customizable FFT visualizations without re
 - [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive 2D graphics editor (POC)
@@ -702,6 +704,7 @@
 
 ## csharp 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – built for smooth browsing across Windows, macOS, and Linux.
 - [Yu-Core/SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) - 侠客日记是一个开源、跨平台的本地日记app，使用Blazor开发，支持Android，Windows，macOS，Web，Linux。"SwashbucklerDiary" is an open source cross-platform local diary app using Blazor , support Android，Windows，macOS，Web，Linux.
@@ -919,6 +922,7 @@
 
 ## flutter 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.
 - [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive 2D graphics editor (POC)
@@ -974,6 +978,7 @@
 
 ## go 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [Gridea-Pro/gridea-pro](https://github.com/Gridea-Pro/gridea-pro) - Gridea Pro - 下一代桌面静态博客写作客户端 —— 像用 Notion 一样写博客。
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
@@ -1077,12 +1082,14 @@
 
 ## ios 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [AnoyRC/priospace](https://github.com/AnoyRC/priospace) - All-in-one Productivity App
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 
 ## java 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [lakernote/EasyPostman](https://github.com/lakernote/EasyPostman) - An open-source API debugging and stress testing tool inspired by Postman and a simplified JMeter, optimized for developers with a clean UI and powerful features.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
@@ -1467,6 +1474,7 @@
 
 ## nodejs 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [0xfullex/selection-hook](https://github.com/0xfullex/selection-hook) - The first open-source, cross-platform library for text selection monitoring and global   mouse/keyboard event hooks — production-grade, for Node.js and Electron.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
@@ -1566,6 +1574,8 @@
 
 ## others 
 
+- [jianchang512/vocal-separate](https://github.com/jianchang512/vocal-separate) - an extremely simple tool for separating vocals and background music, completely localized for web operation,  using 2stems/4stems/5stems models  这是一个极简的人声和背景音乐分离工具，本地化网页操作，无需连接外网
+- [jianchang512/stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地音视频转字幕工具，输出json、srt字幕、纯文字格式
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) - A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
 - [fuyouling/video2text](https://github.com/fuyouling/video2text) - 本地批量音视频转文字的工具,基于 faster-whisper 进行语音转写,并可将转写文本进行生成摘要,转写模型和总结模型均可切换
@@ -1939,6 +1949,7 @@
 
 ## python 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Multilingual speech understanding: ASR + emotion recognition + audio event detection. 50+ languages, 15x faster than Whisper, non-autoregressive.
 - [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Banana sparkle, SynthID) and provenance metadata (C2PA, EXIF, IPTC) from images.
 - [Thysrael/Horizon](https://github.com/Thysrael/Horizon) - 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
@@ -2107,6 +2118,7 @@
 
 ## rust 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [Juwan-Hwang/Zephyr](https://github.com/Juwan-Hwang/Zephyr) - Zephyr: A modern, lightweight, and secure Mihomo / Clash Meta GUI client built with Tauri and Rust.
 - [ghost-him/ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs) - 🚀 A lightning‑fast, privacy‑first Windows smart launcher that excels at Pinyin and fuzzy matching. Optionally add on‑device AI semantic search for typo‑ and intent‑proof instant results. Built with Ru
 - [talkcody/talkcody](https://github.com/talkcody/talkcody) - TalkCody - Code is cheap, show me your talk.  🚀 Free Open Source AI Coding Agent.
@@ -2171,7 +2183,7 @@
 
 ## shell 
 
-- [overflowy/bash-script-tools](https://github.com/overflowy/bash-script-tools) - A web-based bash script formatter and linter with AI-powered autofix.
+- [overflowy/bash-script-tools](https://github.com/overflowy/bash-script-tools) - A web-based bash script formatter and linter with AI-powered autofix
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 
 ## sketch 
@@ -2234,6 +2246,10 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application
 
+## swift 
+
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+
 ## tailwindcss 
 
 - [kamjin3086/Crawell](https://github.com/kamjin3086/Crawell) - 📸 Crawell – 网页图片/正文一键提取、Markdown 转换与批量下载的浏览器扩展，本地化，免费   Crawell browser extension for one-click image & article extraction, Markdown conversion and bulk download – 100 % local processing.
@@ -2277,6 +2293,7 @@
 
 ## text-to-speech 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 - [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isola
@@ -2406,6 +2423,7 @@
 
 ## web 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
