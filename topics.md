@@ -1019,7 +1019,7 @@
 
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 - [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
-- [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest authentication and authorization server you have ever seen.
+- [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest OpenID Certified™ authorization and authentication server you have ever seen.
 - [Ray-D-Song/goread](https://github.com/Ray-D-Song/goread) - cli epub reader written in Go
 - [inferablehq/inferable](https://github.com/inferablehq/inferable) - Build reliable AI Workflows and Agents with humans in the loop, structured outputs and durable execution.
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
@@ -1608,7 +1608,7 @@
 - [TangibleResearch/HoprLabs](https://github.com/TangibleResearch/HoprLabs) - Test AI Ideas Using complex Math
 - [jianchang512/vocal-separate](https://github.com/jianchang512/vocal-separate) - an extremely simple tool for separating vocals and background music, completely localized for web operation,  using 2stems/4stems/5stems models  这是一个极简的人声和背景音乐分离工具，本地化网页操作，无需连接外网
 - [jianchang512/stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地音视频转字幕工具，输出json、srt字幕、纯文字格式
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) - A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
 - [fuyouling/video2text](https://github.com/fuyouling/video2text) - 本地批量音视频转文字的工具,基于 faster-whisper 进行语音转写,并可将转写文本进行生成摘要,转写模型和总结模型均可切换
 - [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck) - Task-oriented AI Agent productivity platform
