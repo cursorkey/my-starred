@@ -587,7 +587,6 @@
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [mayuso/PNGToSVG](https://github.com/mayuso/PNGToSVG) - A fast CLI tool and Rust library to convert PNG images into SVG vectors
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
-- [Edge-coordinates/mason-gallery](https://github.com/Edge-coordinates/mason-gallery) - Masonry layouts Picture Viewer
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
@@ -682,7 +681,7 @@
 - [AbhiramKrishnaM/TestFlow](https://github.com/AbhiramKrishnaM/TestFlow) - A visual test case management system with interactive flow editor and AI test generation. Built with React Flow, Material Tailwind UI, and FastAPI. Helps QA teams visualize testing flows, track covera
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [SSShooter/ebook-to-mindmap](https://github.com/SSShooter/ebook-to-mindmap) - AI-powered Summaries by Extracting Content from EPUB and PDF. epub、pdf 拆书 AI 总结
-- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - The AI Markdown Editor
+- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - AI-powered cross-platform editor for WYSIWYG Markdown and general-purpose text editing.
 - [Amery2010/midjourney-prompt-generator](https://github.com/Amery2010/midjourney-prompt-generator) - Midjourney prompt generator
 - [justlovemaki/Podcast-Generator](https://github.com/justlovemaki/Podcast-Generator) - 播客音频生成cli ，python服务端 和 web前端，支持单人和多人对话。支持原文智能配音。
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
@@ -766,6 +765,7 @@
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [gcui-art/album-ai](https://github.com/gcui-art/album-ai) - AI-First Album: Chat with your gallery using plain language! LLM Vision + RAG + Album/Gallery.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+- [rezics/mason-gallery](https://github.com/rezics/mason-gallery) - Masonry layouts Picture Viewer
 - [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate powerful admin apps without writing a single line of code - Run `npx dashpress` to see some magic!
 - [zhbhun/rmbg](https://github.com/zhbhun/rmbg) - RMBG is a multi-platform image background removal tool that uses open-source AI models and ensures user privacy by processing images locally.
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
