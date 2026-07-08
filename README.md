@@ -618,7 +618,7 @@
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [Dais-Project/Dais](https://github.com/Dais-Project/Dais) - Your Desktop AI Staffs.
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
-- [chengzuopeng/stock-sdk](https://github.com/chengzuopeng/stock-sdk) - 为前端设计的无需 Python、无需后端服务的获取股票数据 JavaScript SDK。
+- [chengzuopeng/stock-sdk](https://github.com/chengzuopeng/stock-sdk) - 为前端设计的无需 Python、无需后端服务、零依赖的获取股票数据 JavaScript SDK。
 - [arcsin1/oh-my-ppt](https://github.com/arcsin1/oh-my-ppt) - Describe what you need — a presentation, lesson, or story — and let the AI build clean, beautiful HTML slides for you. Local-first. Works offline. Works for you.
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
 - [epiral/bb-browser](https://github.com/epiral/bb-browser) - Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state.
