@@ -205,7 +205,7 @@
 - [PlayEdu/PlayEdu](https://github.com/PlayEdu/PlayEdu) - 100%开源的企业培训系统，界面美观，操作简单，一键部署您的私有化培训平台！
 - [pfalstad/circuitjs1](https://github.com/pfalstad/circuitjs1) - Electronic Circuit Simulator in the Browser
 - [traas-stack/auto-unit-test-case-generator](https://github.com/traas-stack/auto-unit-test-case-generator) - Auto-Unit-Test-Case-Generator automatically generates high-level code-coverage JUnit test suites for Java,  widely used within the ANT Group.
-- [erupts/erupt](https://github.com/erupts/erupt) - MDD & Annotation-driven Low-code Data platform & AI Harness
+- [erupts/erupt](https://github.com/erupts/erupt) - One class = one admin page · zero frontend · 2–5s startup · 50+ LLM · MCP-native · A2A · 700K+ skills
 - [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
 - [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
 - [Xunzhuo/Algorithm-Guide](https://github.com/Xunzhuo/Algorithm-Guide) - Xunzhuo`s Tutorials of Algorithm and Data Structure  🚀🚀🚀
@@ -414,7 +414,7 @@
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
 - [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [liwanlei/AITestCraft](https://github.com/liwanlei/AITestCraft) - 让测试工程从“手工编写”迈向“智能生成”
@@ -524,7 +524,7 @@
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [CV-Tech-Guide/Visualize-feature-maps-and-heatmap](https://github.com/CV-Tech-Guide/Visualize-feature-maps-and-heatmap) - 可视化特征图教程
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors) - LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, K8S, PyPI, PyTorch, and NPM.
 - [MooreThreads/Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone) - Character Animation (AnimateAnyone, Face Reenactment)
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
@@ -626,6 +626,7 @@
 
 ## TypeScript 
 
+- [microsoft/flint-chart](https://github.com/microsoft/flint-chart) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.
 - [niyongsheng/mythpen](https://github.com/niyongsheng/mythpen) - Desktop AI Novel Generator — 管理角色、世界观、章节、伏笔、时间线等创作要素，集成 AI 辅助写作。
 - [ahpxex/read-aware](https://github.com/ahpxex/read-aware) - A local-first, AI-native reader that turns books, highlights, notes, and conversations into durable context.
 - [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck) - Task-oriented AI Agent productivity platform
