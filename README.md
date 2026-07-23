@@ -402,14 +402,14 @@
 
 ## Python 
 
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [snailfrying/topo_scholar](https://github.com/snailfrying/topo_scholar) - A hybrid-search RAG toolkit for Chinese toponymy (cities to villages & streets), designed for AI Agent MCP/Skills integration.
 - [caol64/omni-article-markdown](https://github.com/caol64/omni-article-markdown) - 墨探 - 轻松将网页文章转换为 Markdown 格式的 CLI 工具。 Turn any web article into clean Markdown via CLI
 - [alexchan197611/ai_media_assistant](https://github.com/alexchan197611/ai_media_assistant) - AI-Powered Automate Self-Media Video Generation Tools‌
 - [TangibleResearch/HoprLabs](https://github.com/TangibleResearch/HoprLabs) - Test AI Ideas Using complex Math
 - [jianchang512/vocal-separate](https://github.com/jianchang512/vocal-separate) - an extremely simple tool for separating vocals and background music, completely localized for web operation,  using 2stems/4stems/5stems models  这是一个极简的人声和背景音乐分离工具，本地化网页操作，无需连接外网
 - [jianchang512/stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地音视频转字幕工具，输出json、srt字幕、纯文字格式
-- [fuyouling/video2text](https://github.com/fuyouling/video2text) - 本地批量音视频转文字的工具,基于 faster-whisper 进行语音转写,并可将转写文本生成摘要
+- [fuyouling/video2text](https://github.com/fuyouling/video2text) - Offline Audio/Video Transcription & Summarization Tool | 离线音视频转写与摘要工具
 - [Lynpoint/CyberVerse](https://github.com/Lynpoint/CyberVerse) - Self hosted, real-time digital human agent platform. Build voice-first AI agents with WebRTC, persona memory, tools, RAG, and optional digital-human video.
 - [browser-act/skills](https://github.com/browser-act/skills) - Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated m
 - [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Banana sparkle, SynthID) and provenance metadata (C2PA, EXIF, IPTC) from images.
