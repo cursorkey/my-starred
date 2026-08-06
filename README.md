@@ -177,6 +177,7 @@
 - [weifengluoye/maze](https://github.com/weifengluoye/maze) - 迷宫
 - [stephband/scribe](https://github.com/stephband/scribe) - Renders music in HTML.
 - [fwgs210/floormap2](https://github.com/fwgs210/floormap2) - 
+- [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
 - [5songHb/mbti](https://github.com/5songHb/mbti) - Myers-Briggs Type Indicator Test(MBTI职业性格测试)
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [nickyreinert/nickyreinert.github.io](https://github.com/nickyreinert/nickyreinert.github.io) - 
@@ -268,7 +269,6 @@
 - [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 - [JimHans/live2d-kanban-desktop](https://github.com/JimHans/live2d-kanban-desktop) - 基于Electron制作的桌面看板娘，支持日程提醒、小窗模式、ChatGPT集成、网页搜索、本地moc模型加载与独立设置界面等  | An AI Based live2d Kanban for Desktop Users Using Electron
 - [pfinal-nc/wails_pf](https://github.com/pfinal-nc/wails_pf) - 基于 go wails 写的桌面小程序
-- [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
 - [goponycn/ponyexam](https://github.com/goponycn/ponyexam) - 小马考试通ponyexam开源版是基于PHP开发的免费开源在线考试系统，能够快速搭建在线考试平台，系统支持多种题型：单选题、多选题、判断题、填空题、问答题等题型。支持在线考试，支持自动和人工两种方式批阅试卷。适合各类学校、教培系统、企业内训等场景使用。
@@ -422,7 +422,7 @@
 - [liwanlei/AITestCraft](https://github.com/liwanlei/AITestCraft) - 让测试工程从“手工编写”迈向“智能生成”
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [RegLance/QTranslator](https://github.com/RegLance/QTranslator) - AI Word Selection Translation Assistant using Python PyQt6 + selection_hook
-- [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel) - AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI
+- [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel) - AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production
 - [Thysrael/Horizon](https://github.com/Thysrael/Horizon) - 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
 - [yzr278892/arxiv-daily-researcher](https://github.com/yzr278892/arxiv-daily-researcher) - 每天早上打开通知，高质量论文摘要已经为你准备好 Ciallo～(∠・ω&lt; )⌒☆
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
