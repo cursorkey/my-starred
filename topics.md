@@ -1685,7 +1685,7 @@
 - [imcuttle/flipbook-app](https://github.com/imcuttle/flipbook-app) - 🎨 点击式探索的知识画册，长按图片生成带标注子图 | Flipbook Canvas — click-to-explore knowledge picture-book. Long-press any image to spawn an annotated child diagram via a pluggable multimodal pipeline (LLM + image gen + we
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
 - [epiral/bb-browser](https://github.com/epiral/bb-browser) - Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state.
 - [niyongsheng/katamino-tower](https://github.com/niyongsheng/katamino-tower) - katamino tower 3d puzzle solver(百变方块立体塔求解器)
