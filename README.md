@@ -631,6 +631,7 @@
 
 ## TypeScript 
 
+- [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 - [jiweiyeah/Skills-Manager](https://github.com/jiweiyeah/Skills-Manager) - A high-performance desktop application for managing skills across multiple AI coding assistants. Seamlessly organize, sync, and share skills for Claude Code、Codex、Opencode and other AI tools. Built wi
 - [we-used-to-be/Guanmo-open](https://github.com/we-used-to-be/Guanmo-open) - 观墨 · AI 原生 Markdown 阅读与编辑器 —— 专注于提升 Markdown 文档的阅读、理解与创作体验，融合沉浸式阅读、AI 辅助、本地知识库与 Agent 能力。
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
