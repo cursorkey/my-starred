@@ -301,7 +301,7 @@
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [niyongsheng/mythpen](https://github.com/niyongsheng/mythpen) - Desktop AI Novel Generator — 管理角色、世界观、章节、伏笔、时间线等创作要素，集成 AI 辅助写作。
 - [ahpxex/read-aware](https://github.com/ahpxex/read-aware) - The only reader you need in the future, agent first, rich plugin, all with great elegance.
-- [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过盲听、精听、跟读、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。
+- [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过精听、跟读、盲听、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
 - [Dais-Project/Dais](https://github.com/Dais-Project/Dais) - Your Desktop AI Staffs.
@@ -914,6 +914,7 @@
 ## docker 
 
 - [gna1280072/LeePanel](https://github.com/gna1280072/LeePanel) - Linux VPS control panel free software open source
+- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - Open-source, AI-native Evernote alternative with native MCP. Zero-cost on Cloudflare or self-hosted with Docker.
 - [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel) - AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
@@ -951,14 +952,14 @@
 
 ## education 
 
-- [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过盲听、精听、跟读、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。
+- [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过精听、跟读、盲听、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。
 - [SeanWong17/Mammalia-tree](https://github.com/SeanWong17/Mammalia-tree) - DeepTime Mammalia：交互式哺乳纲演化树，3D 螺旋序幕 + D3.js 动态时间树，跨越 2 亿年 | Interactive mammalian phylogeny with 3D spiral intro & D3.js dynamic timetree spanning 200 Myr
 - [ECuiDev/obsidian-quiz-generator](https://github.com/ECuiDev/obsidian-quiz-generator) - Generate interactive flashcards from your notes using models from OpenAI (ChatGPT), Google (Gemini), Ollama (local LLMs), and more. Or manually create your own to use with the quiz UI.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
 ## electron 
 
-- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』
+- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - Open-source, AI-native Evernote alternative with native MCP. Zero-cost on Cloudflare or self-hosted with Docker.
 - [Blue-B/WhisperSubTranslate](https://github.com/Blue-B/WhisperSubTranslate) - A free, local desktop app to extract subtitles (SRT) from video and translate them into any language — unlimited use, no signup, no cloud.
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [blueberrycongee/CursorLens](https://github.com/blueberrycongee/CursorLens) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
@@ -1019,7 +1020,7 @@
 
 ## flutter 
 
-- [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过盲听、精听、跟读、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。
+- [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过精听、跟读、盲听、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.
@@ -1472,7 +1473,7 @@
 
 ## mcp 
 
-- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』
+- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - Open-source, AI-native Evernote alternative with native MCP. Zero-cost on Cloudflare or self-hosted with Docker.
 - [sentrux/sentrux](https://github.com/sentrux/sentrux) - Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [chengzuopeng/stock-sdk](https://github.com/chengzuopeng/stock-sdk) - 为前端设计的无需 Python、无需后端服务、零依赖的获取股票数据 JavaScript SDK。
@@ -1621,7 +1622,6 @@
 
 ## obsidian 
 
-- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 - [ECuiDev/obsidian-quiz-generator](https://github.com/ECuiDev/obsidian-quiz-generator) - Generate interactive flashcards from your notes using models from OpenAI (ChatGPT), Google (Gemini), Ollama (local LLMs), and more. Or manually create your own to use with the quiz UI.
@@ -2080,7 +2080,7 @@
 
 ## pwa 
 
-- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』
+- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - Open-source, AI-native Evernote alternative with native MCP. Zero-cost on Cloudflare or self-hosted with Docker.
 - [wangqiyue26-lab/English-Reading](https://github.com/wangqiyue26-lab/English-Reading) - English reading app with 199 articles from The Economist, New Yorker, Atlantic, Wired. Word lookup, translations, IELTS/TOEFL/GRE vocab highlighting.
 - [ranuts/document](https://github.com/ranuts/document) - Edit DOCX/XLSX/PPTX in your browser — client-side, no server, works offline (OnlyOffice + WebAssembly)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -2315,7 +2315,7 @@
 
 ## self-hosted 
 
-- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』
+- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - Open-source, AI-native Evernote alternative with native MCP. Zero-cost on Cloudflare or self-hosted with Docker.
 - [wangqiyue26-lab/English-Reading](https://github.com/wangqiyue26-lab/English-Reading) - English reading app with 199 articles from The Economist, New Yorker, Atlantic, Wired. Word lookup, translations, IELTS/TOEFL/GRE vocab highlighting.
 - [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel) - AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production
 - [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
@@ -2386,6 +2386,7 @@
 
 ## sqlite 
 
+- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - Open-source, AI-native Evernote alternative with native MCP. Zero-cost on Cloudflare or self-hosted with Docker.
 - [ahpxex/read-aware](https://github.com/ahpxex/read-aware) - The only reader you need in the future, agent first, rich plugin, all with great elegance.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny) - AI-powered cross-platform e-book reader with semantic search, RAG chat, local vector store, notes, TTS, and WebDAV sync.
