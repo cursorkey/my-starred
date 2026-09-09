@@ -203,6 +203,7 @@
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [termux](#termux)
 - [testing](#testing)
 - [text-to-speech](#text-to-speech)
 - [trading](#trading)
@@ -432,6 +433,7 @@
 
 ## android 
 
+- [RexHuang/novus](https://github.com/RexHuang/novus) - A self-evolving agent that lives on your phone and commands a fleet of servers
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
@@ -671,6 +673,7 @@
 
 ## cli 
 
+- [RexHuang/novus](https://github.com/RexHuang/novus) - A self-evolving agent that lives on your phone and commands a fleet of servers
 - [The-Flash-7/open-note](https://github.com/The-Flash-7/open-note) - 一款跨平台智能笔记 Agent 应用，支持多格式笔记、本地知识库、AI 智能助手、向量语义检索 。
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 - [caol64/omni-article-markdown](https://github.com/caol64/omni-article-markdown) - 墨探 - 轻松将网页文章转换为 Markdown 格式的 CLI 工具。 Turn any web article into clean Markdown via CLI
@@ -1331,6 +1334,7 @@
 
 ## llm 
 
+- [RexHuang/novus](https://github.com/RexHuang/novus) - A self-evolving agent that lives on your phone and commands a fleet of servers
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 - [Dais-Project/Dais](https://github.com/Dais-Project/Dais) - Your Desktop AI Staffs.
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
@@ -1713,6 +1717,8 @@
 
 ## others 
 
+- [gnurio/refactoring-ui-plugin](https://github.com/gnurio/refactoring-ui-plugin) - 10 applied skills for Claude Code and Cursor that turn the principles of Refactoring UI into structured AI-assisted design reviews | not affiliated, big fan, get their book here:
+- [voidtools/voidImageViewer](https://github.com/voidtools/voidImageViewer) - Lightweight image viewer for Windows with animated GIF/WEBP support
 - [yizhi-chengzi/video-ai-talking](https://github.com/yizhi-chengzi/video-ai-talking) - 想做真人口播，又不必自己对着镜头念。上传一段真人出镜视频，写好字幕，本机配音并对口型，合成竖屏 MP4。密钥只留在浏览器里。
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [we-used-to-be/Guanmo-open](https://github.com/we-used-to-be/Guanmo-open) - 观墨 · AI 原生 Markdown 阅读与编辑器 —— 专注于提升 Markdown 文档的阅读、理解与创作体验，融合沉浸式阅读、AI 辅助、本地知识库与 Agent 能力。
@@ -2465,6 +2471,10 @@
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 
+## termux 
+
+- [RexHuang/novus](https://github.com/RexHuang/novus) - A self-evolving agent that lives on your phone and commands a fleet of servers
+
 ## testing 
 
 - [keploy/keploy](https://github.com/keploy/keploy) - Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
@@ -2501,6 +2511,7 @@
 
 ## typescript 
 
+- [RexHuang/novus](https://github.com/RexHuang/novus) - A self-evolving agent that lives on your phone and commands a fleet of servers
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 - [chengzuopeng/stock-sdk](https://github.com/chengzuopeng/stock-sdk) - 为前端设计的无需 Python、无需后端服务、零依赖的获取股票数据 JavaScript SDK。
