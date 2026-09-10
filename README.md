@@ -167,6 +167,7 @@
 
 ## HTML 
 
+- [larashero3-dotcom/lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts) - Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。
 - [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - Open-source, AI-native knowledge base & Evernote alternative with native MCP. Zero-cost on Cloudflare or Docker.
 - [DaiOwen/ai-pulse](https://github.com/DaiOwen/ai-pulse) - AI-powered daily AI news digest for developers. 30+ sources, 7 dimensions, 3x daily updates. Claude Code native, zero deps.
 - [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.
@@ -227,7 +228,7 @@
 - [wangqiyue26-lab/English-Reading](https://github.com/wangqiyue26-lab/English-Reading) - English reading app with 199 articles from The Economist, New Yorker, Atlantic, Wired. Word lookup, translations, IELTS/TOEFL/GRE vocab highlighting.
 - [Blue-B/WhisperSubTranslate](https://github.com/Blue-B/WhisperSubTranslate) - A free, local desktop app to extract subtitles (SRT) from video and translate them into any language — unlimited use, no signup, no cloud.
 - [KilledByAPixel/Cosmodial](https://github.com/KilledByAPixel/Cosmodial) - Explore the sky from your browser.
-- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语
 - [imcuttle/flipbook-app](https://github.com/imcuttle/flipbook-app) - 🎨 点击式探索的知识画册，长按图片生成带标注子图 | Flipbook Canvas — click-to-explore knowledge picture-book. Long-press any image to spawn an annotated child diagram via a pluggable multimodal pipeline (LLM + image gen + we
 - [Juwan-Hwang/Zephyr](https://github.com/Juwan-Hwang/Zephyr) - Zephyr: A modern, lightweight, and secure Mihomo / Clash Meta GUI client built with Tauri and Rust.
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
@@ -411,6 +412,7 @@
 
 ## Python 
 
+- [tanghaom/AppEvalPilot](https://github.com/tanghaom/AppEvalPilot) - 
 - [Calix-L/DanKS](https://github.com/Calix-L/DanKS) - RL‑Empowered Small‑Scale Competitive Guandan Agent
 - [goku-open/goku-image-to-svg-tool](https://github.com/goku-open/goku-image-to-svg-tool) - 🐵 A Streamlit image-to-vector tool powered by the Vecto engine — upload PNG/JPG and get clean, editable SVG with live side-by-side preview. 基于 Vecto 引擎的图片转 SVG 工具:上传位图自动矢量化,分割视图对比,导出 SVG/PNG。
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
@@ -637,7 +639,7 @@
 
 ## Swift 
 
-- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+- [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 
 ## TypeScript 
 
