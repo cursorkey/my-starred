@@ -489,7 +489,7 @@
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
 - [multi-swe-bench/multi-swe-bench](https://github.com/multi-swe-bench/multi-swe-bench) - Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Ollama, Grok, DeepSeek, Perplexity, Bielik, chat, agents, vision, voice, RAG, image and video generation, tools, MCP, plugins, speech synt
 - [pablorodriper/streamlit-to-exe-demo](https://github.com/pablorodriper/streamlit-to-exe-demo) - Convert a streamlit app from Linux or Windows to an executable for Windows (.exe)
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp
 - [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Self-hosted knowledge agent platform for RAG, knowledge graphs and multi-agent workflows.
