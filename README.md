@@ -123,6 +123,8 @@
 
 ## Go 
 
+- [mailez-hq/mailez](https://github.com/mailez-hq/mailez) - Self-hosted mail server for your own domain: SMTP/IMAP/POP3, CardDAV/CalDAV, React webmail and admin console, one-command Docker Compose.
+- [thiagokokada/gh-gfm-preview](https://github.com/thiagokokada/gh-gfm-preview) - A standalone/GitHub CLI extension to preview GitHub Flavored Markdown, even offline.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [justmiles/go-markdown2confluence](https://github.com/justmiles/go-markdown2confluence) - Push markdown files to Confluence Cloud
 - [smallnest/goskills](https://github.com/smallnest/goskills) - A tool supports OPENAI and other LLMs with Claude Skills, you can also use it as a subagent
@@ -411,6 +413,8 @@
 
 ## Python 
 
+- [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [tanghaom/AppEvalPilot](https://github.com/tanghaom/AppEvalPilot) - 
 - [Calix-L/DanKS](https://github.com/Calix-L/DanKS) - RL‑Empowered Small‑Scale Competitive Guandan Agent
 - [goku-open/goku-image-to-svg-tool](https://github.com/goku-open/goku-image-to-svg-tool) - 🐵 A Streamlit image-to-vector tool powered by the Vecto engine — upload PNG/JPG and get clean, editable SVG with live side-by-side preview. 基于 Vecto 引擎的图片转 SVG 工具:上传位图自动矢量化,分割视图对比,导出 SVG/PNG。
@@ -757,7 +761,7 @@
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - The multiplayer personal assistant for work
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
