@@ -123,6 +123,7 @@
 
 ## Go 
 
+- [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) - 面向 AI Agent 的微信公众号创作与发布 CLI：Markdown 排版、AI 配图、预览与草稿创建；支持由浏览器 Agent 保存知乎、CSDN、头条未发布草稿。
 - [mailez-hq/mailez](https://github.com/mailez-hq/mailez) - Self-hosted mail server for your own domain: SMTP/IMAP/POP3, CardDAV/CalDAV, React webmail and admin console, one-command Docker Compose.
 - [thiagokokada/gh-gfm-preview](https://github.com/thiagokokada/gh-gfm-preview) - A standalone/GitHub CLI extension to preview GitHub Flavored Markdown, even offline.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
@@ -247,6 +248,7 @@
 - [fogsightai/fogsight](https://github.com/fogsightai/fogsight) - Fogsight is an AI agent and animation engine powered by Large Language Models.
 - [luzhenhua/echo-flow](https://github.com/luzhenhua/echo-flow) - 英语音频文件在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。
 - [yan5xu/ququ](https://github.com/yan5xu/ququ) - 开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流
+- [gusibi/MoliTodo](https://github.com/gusibi/MoliTodo) - 一款常驻在桌面边缘的悬浮式待办事项应用，旨在提供最快速的任务查看和添加体验。
 - [xiaobox/mdeditor](https://github.com/xiaobox/mdeditor) - Modern MD Editor 是一款面向创作者与内容团队的「高颜值 Markdown 编辑器 + 社交平台发布器」。它以极致的界面与交互为基础，提供所见即所得的实时预览与多端视口切换，并通过一键复制将 Markdown 转为适配微信公众号/社交平台的高保真富文本（自动内联样式、字体/行高/字距与主题化适配），让创作到发布的最后一步变得优雅、高效、可控。
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [AnoyRC/priospace](https://github.com/AnoyRC/priospace) - All-in-one Productivity App
@@ -496,7 +498,7 @@
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
 - [multi-swe-bench/multi-swe-bench](https://github.com/multi-swe-bench/multi-swe-bench) - Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Ollama, Grok, DeepSeek, Perplexity, Bielik, chat, agents, vision, voice, RAG, image and video generation, tools, MCP, plugins, speech synt
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Ollama, Grok, DeepSeek, Perplexity, chat, agents, vision, voice, RAG, image and video generation, tools, MCP, plugins, speech synthesis an
 - [pablorodriper/streamlit-to-exe-demo](https://github.com/pablorodriper/streamlit-to-exe-demo) - Convert a streamlit app from Linux or Windows to an executable for Windows (.exe)
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp
 - [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Yuxi = Cloud Agents + Knowledge RAG, Self-hosted knowledge agent platform for RAG, knowledge graphs and multi-agent workflows.
@@ -855,7 +857,6 @@
 
 - [ame-yu/wincron](https://github.com/ame-yu/wincron) - Cron job scheduler for windows
 - [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
-- [gusibi/MoliTodo](https://github.com/gusibi/MoliTodo) - 一款常驻在桌面边缘的悬浮式待办事项应用，旨在提供最快速的任务查看和添加体验。
 - [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 - [LvHuaiSheng/gzm-design](https://github.com/LvHuaiSheng/gzm-design) - 🚀🚀🚀一款漂亮易用的在线设计器，支持PSD导入、PSD解析，可用于海报设计器、广告设计器、logo设计器、AI创作图片合成器等。常用于生成二维码海报，图片海报，二维码推广海报，图片处理，名片设计，电商产品图，节假日海报等。http://gzm-design-doc.guozimi.cn/
 - [palxiao/poster-design](https://github.com/palxiao/poster-design) - 迅排设计 - 图片编辑器、AI 在线海报设计，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!
