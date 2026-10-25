@@ -217,7 +217,7 @@
 - [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
 - [mikemelon/java-exam](https://github.com/mikemelon/java-exam) - Java实现的包含题库编辑、抽题组卷、试题分析、在线考试等模块的Web考试系统。
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [qiutiandefeng/yfexam-exam](https://github.com/qiutiandefeng/yfexam-exam) - 在线考试系统/企业培训软件考试系统
 - [PlayEdu/PlayEdu](https://github.com/PlayEdu/PlayEdu) - 100%开源的企业培训系统，界面美观，操作简单，一键部署您的私有化培训平台！
 - [traas-stack/auto-unit-test-case-generator](https://github.com/traas-stack/auto-unit-test-case-generator) - Auto-Unit-Test-Case-Generator automatically generates high-level code-coverage JUnit test suites for Java,  widely used within the ANT Group.
@@ -678,7 +678,7 @@
 - [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native knowledge base & Evernote/Obsidian alternative with instant sync & native MCP. Free on Cloudflare or self-hosted via Docker.
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 - [microsoft/flint-chart](https://github.com/microsoft/flint-chart) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.
-- [niyongsheng/mythpen](https://github.com/niyongsheng/mythpen) - Mythpen: Local-first AI assistant for novel writing, character management, worldbuilding and story timeline tracking. 角色、世界观、章节、伏笔、爽点、时间线，多语言支持，本地优先的 AI 辅助写作软件。
+- [niyongsheng/mythpen](https://github.com/niyongsheng/mythpen) - Mythpen: Local-first AI assistant for novel writing, character management, worldbuilding and story timeline tracking. 角色/关系/伏笔/爽点/世界观/时间线，多语言支持，本地优先的 AI 辅助写作软件。
 - [ahpxex/read-aware](https://github.com/ahpxex/read-aware) - An ebook reader with a self-evolving agent: it remembers your reading across books, and plugins extend the reader and the agent alike.
 - [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck) - Task-oriented AI Agent productivity platform
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
