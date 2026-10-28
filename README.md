@@ -609,7 +609,6 @@
 
 ## Rust 
 
-- [open-subs/opensubs](https://github.com/open-subs/opensubs) - Subtitle any video without uploading it. Whisper, translation, styling and burn-in — all local, in the browser, on the desktop, or from the command line.
 - [vicanso/charts-rs](https://github.com/vicanso/charts-rs) - A charts library for rust
 - [adoin/git-Agent](https://github.com/adoin/git-Agent) - 
 - [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk) - Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.
@@ -669,6 +668,8 @@
 
 ## TypeScript 
 
+- [jeszhou/overlay-studio](https://github.com/jeszhou/overlay-studio) - 给口播视频加动效层的编辑工作台:AI 读你的字幕稿自动编排,做出来的每个元素你都能自己改,导出透明动效层直接进剪映——原片一帧不压。
+- [open-subs/opensubs](https://github.com/open-subs/opensubs) - Subtitle any video without uploading it. Whisper, translation, styling and burn-in — all local, in the browser, on the desktop, or from the command line.
 - [leemysw/yovoice](https://github.com/leemysw/yovoice) - Open-source local AI audio & music studio for macOS & Windows. TTS, voice cloning, songs with lyrics, and multi-track scores — 100% offline, zero API fees.
 - [guokaigdg/naive-icons](https://github.com/guokaigdg/naive-icons) - A library of hand-drawn SVG icons in a naive folk art style  手绘 naive folk art 风格的 SVG 图标库
 - [shaongitbd/doory](https://github.com/shaongitbd/doory) - Open source canva alternative
@@ -684,7 +685,7 @@
 - [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native knowledge base & Evernote/Obsidian alternative with instant sync & native MCP. Free on Cloudflare or self-hosted via Docker.
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 - [microsoft/flint-chart](https://github.com/microsoft/flint-chart) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.
-- [niyongsheng/mythpen](https://github.com/niyongsheng/mythpen) - Mythpen: Local-first AI assistant for novel writing, character management, worldbuilding and story timeline tracking. 角色/关系/伏笔/爽点/世界观/时间线，多语言支持，本地优先的 AI 辅助写作软件。
+- [niyongsheng/mythpen](https://github.com/niyongsheng/mythpen) - Local-first AI assistant for novel writing, character management, worldbuilding and story timeline tracking. 角色/关系/伏笔/爽点/世界观/时间线，多语言支持，本地优先的 AI 辅助写作软件。
 - [ahpxex/read-aware](https://github.com/ahpxex/read-aware) - An ebook reader with a self-evolving agent: it remembers your reading across books, and plugins extend the reader and the agent alike.
 - [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck) - Task-oriented AI Agent productivity platform
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
