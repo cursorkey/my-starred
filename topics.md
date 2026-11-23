@@ -249,6 +249,7 @@
 
 ## agent 
 
+- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
 - [Playa-Cyrene/Cyrene-Agent](https://github.com/Playa-Cyrene/Cyrene-Agent) - 一款开源、基于昔涟开发的桌面 AI 智能体/An open-source desktop AI agent based on Cyrene.
 - [Firefly-0423/Firefly-Agent](https://github.com/Firefly-0423/Firefly-Agent) - ✨ Firefly lives on your Windows desktop: chat with her, or let her and 12 partners read files, write code and run commands, with your OK on every step.
 - [The-Flash-7/open-note](https://github.com/The-Flash-7/open-note) - 一款跨平台智能笔记 Agent 应用，支持多格式笔记、本地知识库、AI 智能助手、向量语义检索 。
@@ -290,8 +291,9 @@
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.
 - [refly-ai/refly](https://github.com/refly-ai/refly) - The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are inf
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Your AI workspace for models, agents, and productivity.
@@ -314,7 +316,7 @@
 ## agents 
 
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
-- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - Agent for Telegram, Discord, Slack, Lark（飞书），dingding（钉钉）, 企业微信, QQ, 微信（wechat）
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
@@ -345,7 +347,7 @@
 - [Dais-Project/Dais](https://github.com/Dais-Project/Dais) - Your Desktop AI Staffs.
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [wm94i/Work-Review](https://github.com/wm94i/Work-Review) - Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.
@@ -367,7 +369,7 @@
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
 - [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, web search, MCP & smart alerts.🎯 告别信息过载，你的 AI     舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅 + 定时联网搜索，支持关键词与 AI 智能筛选。AI 翻译 + AI 分析简报
 - [SSShooter/ebook-to-mindmap](https://github.com/SSShooter/ebook-to-mindmap) - AI-powered Summaries by Extracting Content from EPUB and PDF. epub、pdf 拆书 AI 总结
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - A high-performance, local-first Markdown editor and general-purpose text editor for Windows, macOS, and Linux, with WYSIWYG and Markdown source editing.
 - [dtyq/magic](https://github.com/dtyq/magic) - Magicrew. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
@@ -458,7 +460,7 @@
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to 
@@ -515,7 +517,7 @@
 ## animation 
 
 - [wx4766/html-to-video](https://github.com/wx4766/html-to-video) - 用代码逐帧做视频：HTML / Canvas 动画 → MP4 / GIF / 透明层。确定性渲染（seek 到 t 截图再编码），没有构建步骤、没有 GPU 依赖。v2.1 起自带 2.5D 空间、软件渲染器（逐面 Lambert/Blinn 着色）、镜头语言与程序化音效。
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.
 - [panphora/animatize](https://github.com/panphora/animatize) - Drag a character with your mouse to create an animation
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 
@@ -631,6 +633,7 @@
 
 ## chatbot 
 
+- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 - [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Your lightweight open-source personal agent.
@@ -647,7 +650,7 @@
 ## chatgpt 
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.
 - [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
 - [PaperDebugger/paperdebugger](https://github.com/PaperDebugger/paperdebugger) - A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing
 - [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
@@ -714,7 +717,7 @@
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [OpenMontageInc/OpenMontage](https://github.com/OpenMontageInc/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.
 - [refly-ai/refly](https://github.com/refly-ai/refly) - The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are inf
 - [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) - On-screen aware AI assistant for your desktop. Uses current app context, multiple LLMs, and MCP tools to help you act across apps.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
@@ -745,18 +748,18 @@
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.
 - [browser-act/skills](https://github.com/browser-act/skills) - Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated m
 - [op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) - 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to 
-- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.
 - [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) - A Claude Skill to give your agent the ability to use a web browser
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Your agent team, in one group chat.
@@ -769,7 +772,7 @@
 - [browser-act/skills](https://github.com/browser-act/skills) - Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated m
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to 
-- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.
 
 ## cli 
 
@@ -782,11 +785,11 @@
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 - [caol64/omni-article-markdown](https://github.com/caol64/omni-article-markdown) - 墨探 - 轻松将网页文章转换为 Markdown 格式的 CLI 工具。 Turn any web article into clean Markdown via CLI
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
-- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks from images and video, clean supported audio watermarks, and strip AI provenance metadata. Python library, CLI, and agent skill for SynthID, C2PA, and other 
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
@@ -916,7 +919,7 @@
 
 ## data-analysis 
 
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, web search, MCP & smart alerts.🎯 告别信息过载，你的 AI     舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅 + 定时联网搜索，支持关键词与 AI 智能筛选。AI 翻译 + AI 分析简报
 - [running-elephant/datart](https://github.com/running-elephant/datart) - Datart is a next generation Data Visualization Open Platform
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [apache/devlake](https://github.com/apache/devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
@@ -941,7 +944,7 @@
 
 - [larashero3-dotcom/lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts) - Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。
 - [microsoft/flint-chart](https://github.com/microsoft/flint-chart) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [SeanWong17/Mammalia-tree](https://github.com/SeanWong17/Mammalia-tree) - DeepTime Mammalia：交互式哺乳纲演化树，3D 螺旋序幕 + D3.js 动态时间树，跨越 2 亿年 | Interactive mammalian phylogeny with 3D spiral intro & D3.js dynamic timetree spanning 200 Myr
 - [running-elephant/datart](https://github.com/running-elephant/datart) - Datart is a next generation Data Visualization Open Platform
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
@@ -1033,7 +1036,7 @@
 - [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel) - AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to 
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, web search, MCP & smart alerts.🎯 告别信息过载，你的 AI     舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅 + 定时联网搜索，支持关键词与 AI 智能筛选。AI 翻译 + AI 分析简报
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Yuxi = Cloud Agents + Knowledge RAG, Self-hosted knowledge agent platform for RAG, knowledge graphs and multi-agent workflows.
@@ -1148,7 +1151,6 @@
 
 ## framework 
 
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
 - [PySpur-Dev/pyspur](https://github.com/PySpur-Dev/pyspur) - A visual playground for agentic workflows: Iterate over your agents 10x faster
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
@@ -1168,7 +1170,7 @@
 
 - [Jermic/awesome-aiart-pics-prompts](https://github.com/Jermic/awesome-aiart-pics-prompts) - 🎨 精选 3000+ Gemini Nano Banana Pro 高质量提示词与生成案例 | 涵盖摄影、设计、艺术、营销等多领域 | 双语支持 | JSON 格式
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks from images and video, clean supported audio watermarks, and strip AI provenance metadata. Python library, CLI, and agent skill for SynthID, C2PA, and other 
 - [oldjs/web-code-agent](https://github.com/oldjs/web-code-agent) - Browser-local AI code Q&A engine. Chat with your codebase, ensure privacy, and optimize LLM collaboration.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Your agent team, in one group chat.
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data s
@@ -1286,7 +1288,7 @@
 
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [larashero3-dotcom/lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts) - Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
@@ -1308,7 +1310,7 @@
 ## image-processing 
 
 - [goku-open/goku-image-to-svg-tool](https://github.com/goku-open/goku-image-to-svg-tool) - 🐵 A Streamlit image-to-vector tool powered by the Vecto engine — upload PNG/JPG and get clean, editable SVG with live side-by-side preview. 基于 Vecto 引擎的图片转 SVG 工具:上传位图自动矢量化,分割视图对比,导出 SVG/PNG。
-- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks from images and video, clean supported audio watermarks, and strip AI provenance metadata. Python library, CLI, and agent skill for SynthID, C2PA, and other 
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ https://greasyfork.org/en/scripts/437569-cotrans-manga-image-translator-regular-edition
 - [mayuso/PNGToSVG](https://github.com/mayuso/PNGToSVG) - A fast CLI tool and Rust library to convert PNG images into SVG vectors
@@ -1457,6 +1459,7 @@
 
 ## linux 
 
+- [ACAne0320/Tomoru](https://github.com/ACAne0320/Tomoru) - Live bilingual subtitles for anything your computer plays: videos, streams, games and meetings. Windows, macOS and Linux, running locally or in the cloud.
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk) - Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.
 - [gna1280072/LeePanel](https://github.com/gna1280072/LeePanel) - Linux VPS control panel free software open source
@@ -1478,6 +1481,7 @@
 
 ## llm 
 
+- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
 - [Playa-Cyrene/Cyrene-Agent](https://github.com/Playa-Cyrene/Cyrene-Agent) - 一款开源、基于昔涟开发的桌面 AI 智能体/An open-source desktop AI agent based on Cyrene.
 - [ChenLiu-1996/figures4papers](https://github.com/ChenLiu-1996/figures4papers) - My Python scripts to make high-quality figures for publications in top AI conferences and journals.
 - [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。
@@ -1504,7 +1508,7 @@
 - [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
 - [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 - [antgroup/agentic-ai-landscape](https://github.com/antgroup/agentic-ai-landscape) - Data driven agentic landscapes and insights. Produced by Ant Open Source and inclusionAI.
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, web search, MCP & smart alerts.🎯 告别信息过载，你的 AI     舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅 + 定时联网搜索，支持关键词与 AI 智能筛选。AI 翻译 + AI 分析简报
 - [dtyq/magic](https://github.com/dtyq/magic) - Magicrew. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
@@ -1590,6 +1594,7 @@
 
 ## macos 
 
+- [ACAne0320/Tomoru](https://github.com/ACAne0320/Tomoru) - Live bilingual subtitles for anything your computer plays: videos, streams, games and meetings. Windows, macOS and Linux, running locally or in the cloud.
 - [leemysw/yovoice](https://github.com/leemysw/yovoice) - Open-source local AI audio & music studio for macOS & Windows. TTS, voice cloning, songs with lyrics, and multi-track scores — 100% offline, zero API fees.
 - [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk) - Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.
 - [ifer47/markeron](https://github.com/ifer47/markeron) - Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.
@@ -1620,7 +1625,7 @@
 - [thiagokokada/gh-gfm-preview](https://github.com/thiagokokada/gh-gfm-preview) - A standalone/GitHub CLI extension to preview GitHub Flavored Markdown, even offline.
 - [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
 - [caol64/omni-article-markdown](https://github.com/caol64/omni-article-markdown) - 墨探 - 轻松将网页文章转换为 Markdown 格式的 CLI 工具。 Turn any web article into clean Markdown via CLI
-- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.
 - [kamjin3086/Crawell](https://github.com/kamjin3086/Crawell) - 📸 Crawell – 网页图片/正文一键提取、Markdown 转换与批量下载的浏览器扩展，本地化，免费   Crawell browser extension for one-click image & article extraction, Markdown conversion and bulk download – 100 % local processing.
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
@@ -1646,6 +1651,7 @@
 
 ## mcp 
 
+- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [leemysw/yovoice](https://github.com/leemysw/yovoice) - Open-source local AI audio & music studio for macOS & Windows. TTS, voice cloning, songs with lyrics, and multi-track scores — 100% offline, zero API fees.
 - [KnifeLemon/Droidline](https://github.com/KnifeLemon/Droidline) - Android automation from code. Test your apps on real phones, script the tasks you repeat, run a shelf of phones, or let an AI agent use one, from Python, Node.js, the CLI, HTTP or Appium clients. No A
@@ -1658,7 +1664,7 @@
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.
 - [Thysrael/Horizon](https://github.com/Thysrael/Horizon) - 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
@@ -1671,7 +1677,7 @@
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
 - [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, web search, MCP & smart alerts.🎯 告别信息过载，你的 AI     舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅 + 定时联网搜索，支持关键词与 AI 智能筛选。AI 翻译 + AI 分析简报
 - [dtyq/magic](https://github.com/dtyq/magic) - Magicrew. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
@@ -1710,7 +1716,7 @@
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [JinsongRoh/pydoll-mcp](https://github.com/JinsongRoh/pydoll-mcp) - PyDoll MCP Server is a Model Context Protocol (MCP) server built on PyDoll, a next-generation browser automation library. It enables AI assistants like Claude to naturally control web browsers and per
 - [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, web search, MCP & smart alerts.🎯 告别信息过载，你的 AI     舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅 + 定时联网搜索，支持关键词与 AI 智能筛选。AI 翻译 + AI 分析简报
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 - [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! 数据打标请联系 glidea123 (数万并发随时狂飙)
 - [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring n
@@ -1830,7 +1836,7 @@
 
 - [WANGXIN-567/weread-book-exporter](https://github.com/WANGXIN-567/weread-book-exporter) - 📚 微信读书无损全书导出工具 — 一键导出双字体精排 PDF / EPUB / 纯 Markdown 笔记（适配 Obsidian & Notion），攻克网页端翻页漏字问题。
 - [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
-- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 - [ECuiDev/obsidian-quiz-generator](https://github.com/ECuiDev/obsidian-quiz-generator) - Generate interactive flashcards from your notes using models from OpenAI (ChatGPT), Google (Gemini), Ollama (local LLMs), and more. Or manually create your own to use with the quiz UI.
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
@@ -1918,6 +1924,9 @@
 
 ## others 
 
+- [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine
+- [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) - GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and
+- [lilinji/English](https://github.com/lilinji/English) - 学习英语的一个小站
 - [DevilRoshan/obsidian-lunar-calendar](https://github.com/DevilRoshan/obsidian-lunar-calendar) - 在obsidian中使用的更符合中国习惯的日历插件。
 - [wzc520pyfm/gen-ai-pose-image](https://github.com/wzc520pyfm/gen-ai-pose-image) - 澜姿：从姿势线稿和衣装集给社区鲸鱼娘大肥鱼模特出图，调整姿势加变装，也可装进 DeepSeek Harness。Lanpose generates images of the community whale-girl Dafeiyu from pose sketches and costumes, and installs into DeepSeek Harness.
 - [littledivy/durable-git](https://github.com/littledivy/durable-git) - Git forge on Durable Objects
@@ -1953,7 +1962,7 @@
 - [TangibleResearch/HoprLabs](https://github.com/TangibleResearch/HoprLabs) - Test AI Ideas Using complex Math
 - [jianchang512/vocal-separate](https://github.com/jianchang512/vocal-separate) - an extremely simple tool for separating vocals and background music, completely localized for web operation,  using 2stems/4stems/5stems models  这是一个极简的人声和背景音乐分离工具，本地化网页操作，无需连接外网
 - [jianchang512/stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地音视频转字幕工具，输出json、srt字幕、纯文字格式
-- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生
+- [byoungd/up](https://github.com/byoungd/up) - 人生进阶指南 韩先凯的人生进阶指南 AI时代中英双语终身学习指南：学习 、创业、财富、爱情、人生与AI
 - [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) - A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
 - [fuyouling/video2text](https://github.com/fuyouling/video2text) - Offline Audio/Video Transcription & Summarization Tool | 离线音视频转写与摘要工具
 - [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck) - Task-oriented AI Agent productivity platform
@@ -2344,7 +2353,7 @@
 - [hubenchang0515/shift](https://github.com/hubenchang0515/shift) - WebAssembly runtime for Python, Lua, Ruby and etc.
 - [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs.
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, web search, MCP & smart alerts.🎯 告别信息过载，你的 AI     舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅 + 定时联网搜索，支持关键词与 AI 智能筛选。AI 翻译 + AI 分析简报
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [whitphx/stlite](https://github.com/whitphx/stlite) - Streamlit-Lite; In-browser Streamlit 🎈🚀
@@ -2621,7 +2630,7 @@
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [iflytek/skillhub](https://github.com/iflytek/skillhub) - Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.
 - [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
-- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.
 - [refly-ai/refly](https://github.com/refly-ai/refly) - The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are inf
 - [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) - A Claude Skill to give your agent the ability to use a web browser
 - [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) - On-screen aware AI assistant for your desktop. Uses current app context, multiple LLMs, and MCP tools to help you act across apps.
@@ -2672,7 +2681,7 @@
 ## stable-diffusion 
 
 - [OpenMontageInc/OpenMontage](https://github.com/OpenMontageInc/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
-- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks from images and video, clean supported audio watermarks, and strip AI provenance metadata. Python library, CLI, and agent skill for SynthID, C2PA, and other 
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine that uses image and video generation models to empower professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven techno
@@ -2779,7 +2788,7 @@
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 - [chengzuopeng/stock-sdk](https://github.com/chengzuopeng/stock-sdk) - 为前端设计的无需 Python、无需后端服务、零依赖的获取股票数据 JavaScript SDK。
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.
 - [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny) - AI-powered cross-platform e-book reader with semantic search, RAG chat, local vector store, notes, TTS, and WebDAV sync.
 - [blueberrycongee/CursorLens](https://github.com/blueberrycongee/CursorLens) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [kamjin3086/Crawell](https://github.com/kamjin3086/Crawell) - 📸 Crawell – 网页图片/正文一键提取、Markdown 转换与批量下载的浏览器扩展，本地化，免费   Crawell browser extension for one-click image & article extraction, Markdown conversion and bulk download – 100 % local processing.
@@ -2934,6 +2943,7 @@
 
 ## windows 
 
+- [ACAne0320/Tomoru](https://github.com/ACAne0320/Tomoru) - Live bilingual subtitles for anything your computer plays: videos, streams, games and meetings. Windows, macOS and Linux, running locally or in the cloud.
 - [Playa-Cyrene/Cyrene-Agent](https://github.com/Playa-Cyrene/Cyrene-Agent) - 一款开源、基于昔涟开发的桌面 AI 智能体/An open-source desktop AI agent based on Cyrene.
 - [leemysw/yovoice](https://github.com/leemysw/yovoice) - Open-source local AI audio & music studio for macOS & Windows. TTS, voice cloning, songs with lyrics, and multi-track scores — 100% offline, zero API fees.
 - [LLR6/LR-StudyPet](https://github.com/LLR6/LR-StudyPet) - 星梨 · 蓝色二次元学习桌宠 | Focus, spaced repetition, keyboard reactions, 60-second clipboard memory & desktop advice. Local-first, open source.
