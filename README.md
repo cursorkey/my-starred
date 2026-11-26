@@ -239,7 +239,7 @@
 - [wx4766/html-to-video](https://github.com/wx4766/html-to-video) - 用代码逐帧做视频：HTML / Canvas 动画 → MP4 / GIF / 透明层。确定性渲染（seek 到 t 截图再编码），没有构建步骤、没有 GPU 依赖。v2.1 起自带 2.5D 空间、软件渲染器（逐面 Lambert/Blinn 着色）、镜头语言与程序化音效。
 - [ihmily/doubao-nomark](https://github.com/ihmily/doubao-nomark) - 一键下载无水印豆包AI图片/视频API | 浏览器扩展| 微软Edge插件 | 谷歌Chrome插件 | 油猴脚本
 - [gnurio/refactoring-ui-plugin](https://github.com/gnurio/refactoring-ui-plugin) - 10 applied skills for Claude Code and Cursor that turn the principles of Refactoring UI into structured AI-assisted design reviews | not affiliated, big fan, get their book here:
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into an interactive diagram or one-page answer: 10 diagram types, Architecture Diagnosis, Story video and PR walkthroughs. An Agent Skill for Claude Code, Codex, Curso
 - [Blue-B/WhisperSubTranslate](https://github.com/Blue-B/WhisperSubTranslate) - A free, local desktop app to extract subtitles (SRT) from video and translate them into any language — unlimited use, no signup, no cloud.
 - [KilledByAPixel/Cosmodial](https://github.com/KilledByAPixel/Cosmodial) - Explore the sky from your browser.
 - [byoungd/up](https://github.com/byoungd/up) - 人生进阶指南 韩先凯的人生进阶指南 AI时代中英双语终身学习指南：学习 、创业、财富、爱情、人生与AI
