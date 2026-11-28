@@ -238,6 +238,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [workflow](#workflow)
 - [youtube](#youtube)
 - [zsh](#zsh)
@@ -285,6 +286,8 @@
 
 ## agent-skills 
 
+- [munvard/video-skill](https://github.com/munvard/video-skill) - Type /video in Claude Code and get a launch film for your app: motion design or 3D, with sound, checked frame by frame.
+- [gnawbit/tabretake](https://github.com/gnawbit/tabretake) - Create repeatable web app demos, README GIFs and 9:16 videos from editable JSON steps or existing screen recordings. Local CLI and Agent Skill for Claude Code, Codex and Cursor.
 - [op7418/guizang-product-video-skill](https://github.com/op7418/guizang-product-video-skill) - 归藏 product video skill：复用真实产品组件和设计语言，用代码制作软件更新宣传片。包含分镜文案、原创配乐、动作音效与视频渲染，支持 Claude Code 和 Codex。
 - [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。
 - [larashero3-dotcom/lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts) - Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。
@@ -309,6 +312,7 @@
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
+- [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. Any 
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent) - An Agentic Framework for Reflective PowerPoint Generation
 - [Anil-matcha/suparagent](https://github.com/Anil-matcha/suparagent) - Open-source, self-hosted alternative to Grok Bot, Claude Duet, OpenAI Dots, Meta Muse, Instinct, Manus Cue: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer
@@ -333,6 +337,8 @@
 
 ## ai 
 
+- [demo007x/Magpie](https://github.com/demo007x/Magpie) - 划词即理解的 AI 阅读工具 — Select text anywhere on macOS or windows system and get instant AI translate / explain / summarize in a floating bar. Tauri 2 + Rust + React
+- [sao-coding/locus](https://github.com/sao-coding/locus) - A fast, smooth database client for Windows. Built with Rust and GPUI.
 - [Oleafly/Oleafly](https://github.com/Oleafly/Oleafly) - LaTeX and Typst editor with live collaboration and AI agents. Open-source IDE and Overleaf alternative for Mac, Windows and Linux.
 - [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) - YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
@@ -516,6 +522,7 @@
 
 ## animation 
 
+- [munvard/video-skill](https://github.com/munvard/video-skill) - Type /video in Claude Code and get a launch film for your app: motion design or 3D, with sound, checked frame by frame.
 - [wx4766/html-to-video](https://github.com/wx4766/html-to-video) - 用代码逐帧做视频：HTML / Canvas 动画 → MP4 / GIF / 透明层。确定性渲染（seek 到 t 截图再编码），没有构建步骤、没有 GPU 依赖。v2.1 起自带 2.5D 空间、软件渲染器（逐面 Lambert/Blinn 着色）、镜头语言与程序化音效。
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.
 - [panphora/animatize](https://github.com/panphora/animatize) - Drag a character with your mouse to create an animation
@@ -738,6 +745,8 @@
 
 ## claude-code 
 
+- [munvard/video-skill](https://github.com/munvard/video-skill) - Type /video in Claude Code and get a launch film for your app: motion design or 3D, with sound, checked frame by frame.
+- [gnawbit/tabretake](https://github.com/gnawbit/tabretake) - Create repeatable web app demos, README GIFs and 9:16 videos from editable JSON steps or existing screen recordings. Local CLI and Agent Skill for Claude Code, Codex and Cursor.
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [op7418/guizang-product-video-skill](https://github.com/op7418/guizang-product-video-skill) - 归藏 product video skill：复用真实产品组件和设计语言，用代码制作软件更新宣传片。包含分镜文案、原创配乐、动作音效与视频渲染，支持 Claude Code 和 Codex。
 - [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) - 面向 AI Agent 的微信公众号创作与发布 CLI：Markdown 排版、AI 配图、预览与草稿创建；支持由浏览器 Agent 保存知乎、CSDN、头条未发布草稿。
@@ -767,6 +776,7 @@
 
 ## claude-skills 
 
+- [munvard/video-skill](https://github.com/munvard/video-skill) - Type /video in Claude Code and get a launch film for your app: motion design or 3D, with sound, checked frame by frame.
 - [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) - 面向 AI Agent 的微信公众号创作与发布 CLI：Markdown 排版、AI 配图、预览与草稿创建；支持由浏览器 Agent 保存知乎、CSDN、头条未发布草稿。
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into an interactive diagram or one-page answer: 10 diagram types, Architecture Diagnosis, Story video and PR walkthroughs. An Agent Skill for Claude Code, Codex, Curso
 - [browser-act/skills](https://github.com/browser-act/skills) - Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated m
@@ -776,6 +786,7 @@
 
 ## cli 
 
+- [gnawbit/tabretake](https://github.com/gnawbit/tabretake) - Create repeatable web app demos, README GIFs and 9:16 videos from editable JSON steps or existing screen recordings. Local CLI and Agent Skill for Claude Code, Codex and Cursor.
 - [wx4766/html-to-video](https://github.com/wx4766/html-to-video) - 用代码逐帧做视频：HTML / Canvas 动画 → MP4 / GIF / 透明层。确定性渲染（seek 到 t 截图再编码），没有构建步骤、没有 GPU 依赖。v2.1 起自带 2.5D 空间、软件渲染器（逐面 Lambert/Blinn 着色）、镜头语言与程序化音效。
 - [Trugamr/wol](https://github.com/Trugamr/wol) - 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
 - [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) - 面向 AI Agent 的微信公众号创作与发布 CLI：Markdown 排版、AI 配图、预览与草稿创建；支持由浏览器 Agent 保存知乎、CSDN、头条未发布草稿。
@@ -952,6 +963,7 @@
 
 ## database 
 
+- [sao-coding/locus](https://github.com/sao-coding/locus) - A fast, smooth database client for Windows. Built with Rust and GPUI.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Open-Source Product for Controlled Data Agents
@@ -985,6 +997,7 @@
 
 ## developer-tools 
 
+- [gnawbit/tabretake](https://github.com/gnawbit/tabretake) - Create repeatable web app demos, README GIFs and 9:16 videos from editable JSON steps or existing screen recordings. Local CLI and Agent Skill for Claude Code, Codex and Cursor.
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into an interactive diagram or one-page answer: 10 diagram types, Architecture Diagnosis, Story video and PR walkthroughs. An Agent Skill for Claude Code, Codex, Curso
 - [jiweiyeah/Skills-Manager](https://github.com/jiweiyeah/Skills-Manager) - Free, open-source desktop manager for AI Agent Skills. Write a skill once, sync it to 32 AI coding tools (Claude Code, Codex, Cursor, Gemini CLI, and more) via symlinks. Local-first, MIT licensed. mac
 - [DaiOwen/ai-pulse](https://github.com/DaiOwen/ai-pulse) - AI-powered daily AI news digest for developers. 30+ sources, 7 dimensions, 3x daily updates. Claude Code native, zero deps.
@@ -1074,6 +1087,7 @@
 
 ## education 
 
+- [linjiejim/ohmwork](https://github.com/linjiejim/ohmwork) - 交互式电子电路学堂：用可以动手拨弄的仿真学电路
 - [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是最专业的英语精听 App，通过精听、跟读、盲听、复述和间隔复习，自动驱动你把每一段音频练懂、练熟、练到会说。
 - [SeanWong17/Mammalia-tree](https://github.com/SeanWong17/Mammalia-tree) - DeepTime Mammalia：交互式哺乳纲演化树，3D 螺旋序幕 + D3.js 动态时间树，跨越 2 亿年 | Interactive mammalian phylogeny with 3D spiral intro & D3.js dynamic timetree spanning 200 Myr
 - [ECuiDev/obsidian-quiz-generator](https://github.com/ECuiDev/obsidian-quiz-generator) - Generate interactive flashcards from your notes using models from OpenAI (ChatGPT), Google (Gemini), Ollama (local LLMs), and more. Or manually create your own to use with the quiz UI.
@@ -1224,6 +1238,7 @@
 
 ## golang 
 
+- [Ciao1019/ArcMD](https://github.com/Ciao1019/ArcMD) - Proof that native MyGo apps can be works of art. ArcMD is an open-source Markdown editor delivering 120Hz fluid responsiveness—bringing Arc-inspired elegance and seamless performance to local writing.
 - [mailez-hq/mailez](https://github.com/mailez-hq/mailez) - Self-hosted mail server for your own domain: SMTP/IMAP/POP3, CardDAV/CalDAV, React webmail and admin console, one-command Docker Compose.
 - [thiagokokada/gh-gfm-preview](https://github.com/thiagokokada/gh-gfm-preview) - A standalone/GitHub CLI extension to preview GitHub Flavored Markdown, even offline.
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
@@ -1451,6 +1466,7 @@
 
 ## learning 
 
+- [linjiejim/ohmwork](https://github.com/linjiejim/ohmwork) - 交互式电子电路学堂：用可以动手拨弄的仿真学电路
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 - [ECuiDev/obsidian-quiz-generator](https://github.com/ECuiDev/obsidian-quiz-generator) - Generate interactive flashcards from your notes using models from OpenAI (ChatGPT), Google (Gemini), Ollama (local LLMs), and more. Or manually create your own to use with the quiz UI.
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
@@ -1481,6 +1497,7 @@
 
 ## llm 
 
+- [demo007x/Magpie](https://github.com/demo007x/Magpie) - 划词即理解的 AI 阅读工具 — Select text anywhere on macOS or windows system and get instant AI translate / explain / summarize in a floating bar. Tauri 2 + Rust + React
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
 - [Playa-Cyrene/Cyrene-Agent](https://github.com/Playa-Cyrene/Cyrene-Agent) - 一款开源、基于昔涟开发的桌面 AI 智能体/An open-source desktop AI agent based on Cyrene.
 - [ChenLiu-1996/figures4papers](https://github.com/ChenLiu-1996/figures4papers) - My Python scripts to make high-quality figures for publications in top AI conferences and journals.
@@ -1594,6 +1611,8 @@
 
 ## macos 
 
+- [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) - Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OC
+- [demo007x/Magpie](https://github.com/demo007x/Magpie) - 划词即理解的 AI 阅读工具 — Select text anywhere on macOS or windows system and get instant AI translate / explain / summarize in a floating bar. Tauri 2 + Rust + React
 - [ACAne0320/Tomoru](https://github.com/ACAne0320/Tomoru) - Live bilingual subtitles for anything your computer plays: videos, streams, games and meetings. Windows, macOS and Linux, running locally or in the cloud.
 - [leemysw/yovoice](https://github.com/leemysw/yovoice) - Open-source local AI audio & music studio for macOS & Windows. TTS, voice cloning, songs with lyrics, and multi-track scores — 100% offline, zero API fees.
 - [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk) - Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.
@@ -1618,6 +1637,7 @@
 
 ## markdown 
 
+- [Ciao1019/ArcMD](https://github.com/Ciao1019/ArcMD) - Proof that native MyGo apps can be works of art. ArcMD is an open-source Markdown editor delivering 120Hz fluid responsiveness—bringing Arc-inspired elegance and seamless performance to local writing.
 - [WANGXIN-567/weread-book-exporter](https://github.com/WANGXIN-567/weread-book-exporter) - 📚 微信读书无损全书导出工具 — 一键导出双字体精排 PDF / EPUB / 纯 Markdown 笔记（适配 Obsidian & Notion），攻克网页端翻页漏字问题。
 - [Oleafly/Oleafly](https://github.com/Oleafly/Oleafly) - LaTeX and Typst editor with live collaboration and AI agents. Open-source IDE and Overleaf alternative for Mac, Windows and Linux.
 - [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) - 面向 AI Agent 的微信公众号创作与发布 CLI：Markdown 排版、AI 配图、预览与草稿创建；支持由浏览器 Agent 保存知乎、CSDN、头条未发布草稿。
@@ -1691,6 +1711,7 @@
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Deterministic testing tools for MCP servers
 - [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring n
 - [codexu/note-gen](https://github.com/codexu/note-gen) - Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.
+- [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. Any 
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -1740,6 +1761,7 @@
 
 ## mysql 
 
+- [sao-coding/locus](https://github.com/sao-coding/locus) - A fast, smooth database client for Windows. Built with Rust and GPUI.
 - [sjjian/openhare](https://github.com/sjjian/openhare) - AI-powered desktop SQL client. Cross-platform. Built with Flutter.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
@@ -1955,7 +1977,7 @@
 - [Chachamaru127/claude-code-harness](https://github.com/Chachamaru127/claude-code-harness) - Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle
 - [smallnest/goskills](https://github.com/smallnest/goskills) - A tool supports OPENAI and other LLMs with Claude Skills, you can also use it as a subagent
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
-- [niyongsheng/mythpen](https://github.com/niyongsheng/mythpen) - 📝角色/关系/伏笔/爽点/记忆/大纲/世界观/时间线/审稿/定稿/导出，多语言支持的，自动化小说创作驾驶舱。Local-first AI assistant for novel writing, character management, worldbuilding and story timeline tracking.
+- [niyongsheng/mythpen](https://github.com/niyongsheng/mythpen) - AI 写小说，角色/关系/伏笔/爽点/记忆/大纲/世界观/时间线/多语言/审稿/定稿/导出，自动化创作驾驶舱。Local-first AI assistant for novel writing, character management, worldbuilding and story timeline tracking.
 - [snailfrying/topo_scholar](https://github.com/snailfrying/topo_scholar) - A hybrid-search RAG toolkit for Chinese toponymy (cities to villages & streets), designed for AI Agent MCP/Skills integration.
 - [advancejar/NewYorker2026](https://github.com/advancejar/NewYorker2026) - 每周更新纽约客杂志
 - [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
@@ -2260,6 +2282,7 @@
 
 ## postgresql 
 
+- [sao-coding/locus](https://github.com/sao-coding/locus) - A fast, smooth database client for Windows. Built with Rust and GPUI.
 - [mailez-hq/mailez](https://github.com/mailez-hq/mailez) - Self-hosted mail server for your own domain: SMTP/IMAP/POP3, CardDAV/CalDAV, React webmail and admin console, one-command Docker Compose.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
@@ -2288,6 +2311,8 @@
 
 ## productivity 
 
+- [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) - Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OC
+- [demo007x/Magpie](https://github.com/demo007x/Magpie) - 划词即理解的 AI 阅读工具 — Select text anywhere on macOS or windows system and get instant AI translate / explain / summarize in a floating bar. Tauri 2 + Rust + React
 - [LLR6/LR-StudyPet](https://github.com/LLR6/LR-StudyPet) - 星梨 · 蓝色二次元学习桌宠 | Focus, spaced repetition, keyboard reactions, 60-second clipboard memory & desktop advice. Local-first, open source.
 - [shanghaiyangming/lighttranslate](https://github.com/shanghaiyangming/lighttranslate) - 轻译：Windows 划词翻译与英语查词工具，支持 DeepSeek、自带 API Key、流式译文和全局快捷键。MIT 开源。
 - [ifer47/markeron](https://github.com/ifer47/markeron) - Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.
@@ -2457,6 +2482,8 @@
 
 ## react 
 
+- [demo007x/Magpie](https://github.com/demo007x/Magpie) - 划词即理解的 AI 阅读工具 — Select text anywhere on macOS or windows system and get instant AI translate / explain / summarize in a floating bar. Tauri 2 + Rust + React
+- [linjiejim/ohmwork](https://github.com/linjiejim/ohmwork) - 交互式电子电路学堂：用可以动手拨弄的仿真学电路
 - [jeszhou/overlay-studio](https://github.com/jeszhou/overlay-studio) - 给口播视频加动效层的编辑工作台:AI 读你的字幕稿自动编排,做出来的每个元素你都能自己改,导出透明动效层直接进剪映——原片一帧不压。
 - [guokaigdg/naive-icons](https://github.com/guokaigdg/naive-icons) - A library of hand-drawn SVG icons in a naive folk art style  手绘 naive folk art 风格的 SVG 图标库
 - [shaongitbd/doory](https://github.com/shaongitbd/doory) - Open source canva alternative
@@ -2532,6 +2559,8 @@
 
 ## rust 
 
+- [demo007x/Magpie](https://github.com/demo007x/Magpie) - 划词即理解的 AI 阅读工具 — Select text anywhere on macOS or windows system and get instant AI translate / explain / summarize in a floating bar. Tauri 2 + Rust + React
+- [sao-coding/locus](https://github.com/sao-coding/locus) - A fast, smooth database client for Windows. Built with Rust and GPUI.
 - [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk) - Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.
 - [ifer47/markeron](https://github.com/ifer47/markeron) - Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.
 - [sentrux/sentrux](https://github.com/sentrux/sentrux) - Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.
@@ -2654,6 +2683,7 @@
 
 ## sql 
 
+- [sao-coding/locus](https://github.com/sao-coding/locus) - A fast, smooth database client for Windows. Built with Rust and GPUI.
 - [sjjian/openhare](https://github.com/sjjian/openhare) - AI-powered desktop SQL client. Cross-platform. Built with Flutter.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data s
@@ -2664,11 +2694,13 @@
 
 ## sql-server 
 
+- [sao-coding/locus](https://github.com/sao-coding/locus) - A fast, smooth database client for Windows. Built with Rust and GPUI.
 - [sjjian/openhare](https://github.com/sjjian/openhare) - AI-powered desktop SQL client. Cross-platform. Built with Flutter.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, ClickHouse, and more. Linux, MacOS, and Windows.
 
 ## sqlite 
 
+- [sao-coding/locus](https://github.com/sao-coding/locus) - A fast, smooth database client for Windows. Built with Rust and GPUI.
 - [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.
 - [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny) - AI-powered cross-platform e-book reader with semantic search, RAG chat, local vector store, notes, TTS, and WebDAV sync.
@@ -2945,6 +2977,8 @@
 
 ## windows 
 
+- [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) - Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OC
+- [sao-coding/locus](https://github.com/sao-coding/locus) - A fast, smooth database client for Windows. Built with Rust and GPUI.
 - [ACAne0320/Tomoru](https://github.com/ACAne0320/Tomoru) - Live bilingual subtitles for anything your computer plays: videos, streams, games and meetings. Windows, macOS and Linux, running locally or in the cloud.
 - [Playa-Cyrene/Cyrene-Agent](https://github.com/Playa-Cyrene/Cyrene-Agent) - 一款开源、基于昔涟开发的桌面 AI 智能体/An open-source desktop AI agent based on Cyrene.
 - [leemysw/yovoice](https://github.com/leemysw/yovoice) - Open-source local AI audio & music studio for macOS & Windows. TTS, voice cloning, songs with lyrics, and multi-track scores — 100% offline, zero API fees.
@@ -2975,6 +3009,10 @@
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine that uses image and video generation models to empower professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven techno
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
+
+## windows-11 
+
+- [sao-coding/locus](https://github.com/sao-coding/locus) - A fast, smooth database client for Windows. Built with Rust and GPUI.
 
 ## workflow 
 
