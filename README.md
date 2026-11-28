@@ -80,6 +80,7 @@
 
 ## C++ 
 
+- [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) - Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OC
 - [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine
 - [okalachev/flix](https://github.com/okalachev/flix) - Making an ESP32-based quadcopter from scratch
 - [sylwekkominek/SpectrumAnalyzer](https://github.com/sylwekkominek/SpectrumAnalyzer) - Not yet another spectrum analyzer — an experimental DSP & graphics playground.  It combines real-time C++ performance with Python flexibility, offering fully customizable FFT visualizations without re
@@ -127,6 +128,7 @@
 
 ## Go 
 
+- [Ciao1019/ArcMD](https://github.com/Ciao1019/ArcMD) - Proof that native MyGo apps can be works of art. ArcMD is an open-source Markdown editor delivering 120Hz fluid responsiveness—bringing Arc-inspired elegance and seamless performance to local writing.
 - [ACAne0320/Tomoru](https://github.com/ACAne0320/Tomoru) - Live bilingual subtitles for anything your computer plays: videos, streams, games and meetings. Windows, macOS and Linux, running locally or in the cloud.
 - [KnifeLemon/Droidline](https://github.com/KnifeLemon/Droidline) - Android automation from code. Test your apps on real phones, script the tasks you repeat, run a shelf of phones, or let an AI agent use one, from Python, Node.js, the CLI, HTTP or Appium clients. No A
 - [Trugamr/wol](https://github.com/Trugamr/wol) - 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
@@ -234,6 +236,7 @@
 
 ## JavaScript 
 
+- [gnawbit/tabretake](https://github.com/gnawbit/tabretake) - Create repeatable web app demos, README GIFs and 9:16 videos from editable JSON steps or existing screen recordings. Local CLI and Agent Skill for Claude Code, Codex and Cursor.
 - [wzc520pyfm/gen-ai-pose-image](https://github.com/wzc520pyfm/gen-ai-pose-image) - 澜姿：从姿势线稿和衣装集给社区鲸鱼娘大肥鱼模特出图，调整姿势加变装，也可装进 DeepSeek Harness。Lanpose generates images of the community whale-girl Dafeiyu from pose sketches and costumes, and installs into DeepSeek Harness.
 - [HeyPuter/everything](https://github.com/HeyPuter/everything) - We're rebuilding and open-sourcing the world’s software from scratch.
 - [wx4766/html-to-video](https://github.com/wx4766/html-to-video) - 用代码逐帧做视频：HTML / Canvas 动画 → MP4 / GIF / 透明层。确定性渲染（seek 到 t 截图再编码），没有构建步骤、没有 GPU 依赖。v2.1 起自带 2.5D 空间、软件渲染器（逐面 Lambert/Blinn 着色）、镜头语言与程序化音效。
@@ -426,6 +429,7 @@
 
 ## Python 
 
+- [munvard/video-skill](https://github.com/munvard/video-skill) - Type /video in Claude Code and get a launch film for your app: motion design or 3D, with sound, checked frame by frame.
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
 - [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) - GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and
 - [WANGXIN-567/weread-book-exporter](https://github.com/WANGXIN-567/weread-book-exporter) - 📚 微信读书无损全书导出工具 — 一键导出双字体精排 PDF / EPUB / 纯 Markdown 笔记（适配 Obsidian & Notion），攻克网页端翻页漏字问题。
@@ -498,7 +502,6 @@
 - [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs.
 - [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, web search, MCP & smart alerts.🎯 告别信息过载，你的 AI     舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅 + 定时联网搜索，支持关键词与 AI 智能筛选。AI 翻译 + AI 分析简报
 - [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) - 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
 - [YILING0013/AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator) - 使用ai生成多章节的长篇小说，自动衔接上下文、伏笔
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
@@ -618,6 +621,7 @@
 
 ## Rust 
 
+- [sao-coding/locus](https://github.com/sao-coding/locus) - A fast, smooth database client for Windows. Built with Rust and GPUI.
 - [vicanso/charts-rs](https://github.com/vicanso/charts-rs) - A charts library for rust
 - [adoin/git-Agent](https://github.com/adoin/git-Agent) - 
 - [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk) - Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.
@@ -682,6 +686,8 @@
 
 ## TypeScript 
 
+- [demo007x/Magpie](https://github.com/demo007x/Magpie) - 划词即理解的 AI 阅读工具 — Select text anywhere on macOS or windows system and get instant AI translate / explain / summarize in a floating bar. Tauri 2 + Rust + React
+- [linjiejim/ohmwork](https://github.com/linjiejim/ohmwork) - 交互式电子电路学堂：用可以动手拨弄的仿真学电路
 - [Abraham721/photoshot](https://github.com/Abraham721/photoshot) - Photoshot: browser photo editor and English development journal, parts 1-10. Public source; original code is not open-source licensed.
 - [DevilRoshan/obsidian-lunar-calendar](https://github.com/DevilRoshan/obsidian-lunar-calendar) - 在obsidian中使用的更符合中国习惯的日历插件。
 - [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) - The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场
@@ -710,7 +716,7 @@
 - [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 - [microsoft/flint-chart](https://github.com/microsoft/flint-chart) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.
-- [niyongsheng/mythpen](https://github.com/niyongsheng/mythpen) - 📝角色/关系/伏笔/爽点/记忆/大纲/世界观/时间线/审稿/定稿/导出，多语言支持的，自动化小说创作驾驶舱。Local-first AI assistant for novel writing, character management, worldbuilding and story timeline tracking.
+- [niyongsheng/mythpen](https://github.com/niyongsheng/mythpen) - AI 写小说，角色/关系/伏笔/爽点/记忆/大纲/世界观/时间线/多语言/审稿/定稿/导出，自动化创作驾驶舱。Local-first AI assistant for novel writing, character management, worldbuilding and story timeline tracking.
 - [ahpxex/read-aware](https://github.com/ahpxex/read-aware) - An ebook reader with a self-evolving agent: it remembers your reading across books, and plugins extend the reader and the agent alike.
 - [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck) - Task-oriented AI Agent productivity platform
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
@@ -779,6 +785,7 @@
 - [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, cont
 - [morsoli/aimangastudio](https://github.com/morsoli/aimangastudio) - 一个利用 AI 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制。访问地址：https://aimangastudio.liduos.com/
 - [AbhiramKrishnaM/TestFlow](https://github.com/AbhiramKrishnaM/TestFlow) - A visual test case management system with interactive flow editor and AI test generation. Built with React Flow, Material Tailwind UI, and FastAPI. Helps QA teams visualize testing flows, track covera
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, web search, MCP & smart alerts.🎯 告别信息过载，你的 AI     舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅 + 定时联网搜索，支持关键词与 AI 智能筛选。AI 翻译 + AI 分析简报
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [SSShooter/ebook-to-mindmap](https://github.com/SSShooter/ebook-to-mindmap) - AI-powered Summaries by Extracting Content from EPUB and PDF. epub、pdf 拆书 AI 总结
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - A high-performance, local-first Markdown editor and general-purpose text editor for Windows, macOS, and Linux, with WYSIWYG and Markdown source editing.
